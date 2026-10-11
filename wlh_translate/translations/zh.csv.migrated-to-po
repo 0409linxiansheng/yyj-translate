@@ -1,0 +1,3783 @@
+Prepaid Expenses,预付费用
+Short-term Investments,短期投资
+Interest Expense,利息费用
+Tax Expense,税金及附加
+Interest Income,利息收入
+Interest on Fixed Deposits,定期存款利息收入
+Accrued Expenses,应计费用
+Customer Advances,客户预收款
+Short-term Provisions,短期预计负债
+Non-Current Liabilities,非流动负债
+Long-term Provisions,长期预计负债
+Employee Benefits Obligation,职工薪酬负债
+Account Category,账户类别
+Financial Report Template,财务报表模板
+ Search...,搜索...
+% Complete must be between 0 and 100,完成百分比必须在 0 到 100 之间
+% Cost Allocation,成本分摊百分比
+% of Component Cost,组件成本百分比
+'Verification Link Expiry Duration' must be between 15 to 60 minutes.,“验证链接过期时长”必须在 15 到 60 分钟之间。
+'{0}' is a reserved name and cannot be used as a line reference,“{0}”是保留名称，不能用作行引用
+(A) Balance Qty,(A) 结存数量
+(B) Expected Balance Qty,(B) 预期结存数量
+(C) Change in Stock Value,(C) 库存价值变动
+(D) Expected Change in Stock Value,(D) 预期库存价值变动
+(E) Valuation Rate,(E) 估值率
+(F) Expected Valuation Rate,(F) 预期估值率
+(G) Balance Stock Value,(G) 结存库存价值
+(H) Expected Balance Stock Value,(H) 预期结存库存价值
++{0} more,另外 {0} 项
+-,-
+00ee,00ee
+057f,057f
+06cf,06cf
+0cfb,0cfb
+1 node,1 个节点
+1 of N,N 个中的 1 个
+1 row,1 行
+1 row from {0},来自 {0} 的 1 行
+1 row to {0},到 {0} 的 1 行
+1 warning found.,找到 1 个警告。
+13d5,13d5
+14c3,14c3
+159b,159b
+17c2,17c2
+1be4,1be4
+1c0b,1c0b
+1c7e,1c7e
+1d80,1d80
+1dde,1dde
+23cb,23cb
+23e7,23e7
+241c,241c
+25f0,25f0
+2ca0,2ca0
+2d00,2d00
+342f,342f
+35a1,35a1
+37e8,37e8
+3bbe,3bbe
+3ca3,3ca3
+3f8c,3f8c
+428f,428f
+44ad,44ad
+44d2,44d2
+44e7,44e7
+4d64,4d64
+4de4,4de4
+4df4,4df4
+4fad,4fad
+50c4,50c4
+56ef,56ef
+5a34,5a34
+5c6c,5c6c
+5db7,5db7
+65f0,65f0
+69f3,69f3
+6eeb,6eeb
+6f53,6f53
+73d9,73d9
+746f,746f
+7b0b,7b0b
+7c73,7c73
+7dd0,7dd0
+7f9a,7f9a
+825a,825a
+83ab,83ab
+861d,861d
+8aa5,8aa5
+8bbf,8bbf
+90e3,90e3
+94ca,94ca
+99af,99af
+9bdd,9bdd
+9bf2,9bf2
+9ed3,9ed3
+9f7f,9f7f
+<b>Row #{0}:</b> Bundle {1} in warehouse {2} has insufficient packed items:<br><div style='margin-top: 15px;'><ul style='line-height: 0.8;'>{3}</ul></div>,<b>第 #{0} 行：</b>仓库 {2} 中的捆绑 {1} 打包物料不足：<br><div style='margin-top: 15px;'><ul style='line-height: 0.8;'>{3}</ul></div>
+<b>{0}</b> has been customized on this site since the upgrade. Restoring replaces that customization with the pre-upgrade layout.,<b>{0}</b> 自升级以来已在此站点上被自定义。恢复操作会将该自定义替换为升级前的布局。
+"<div class=""section-head import-log-title"">Import Log</div>","<div class=""section-head import-log-title"">导入日志</div>"
+<strong>Total qty</strong> of the rows (<strong>{0}</strong>) does not match the <strong>Qty to Fetch</strong> (<strong>{1}</strong>). Qty of the item will be changed to <strong>{0}</strong>. Are you sure want to proceed?,<strong>总数量</strong>（<strong>{0}</strong>）与<strong>要获取的数量</strong>（<strong>{1}</strong>）不匹配。物料数量将更改为 <strong>{0}</strong>。你确定要继续吗？
+A Period Closing Voucher is already submitted and an Opening Entry can no longer be created. {0} to learn more.,期间结账凭证已提交，无法再创建期初分录。{0} 了解更多。
+A Single (Settings) doctype.,单个（设置）单据类型。
+A bank account of yours or of a customer or supplier.,你的银行账户，或客户或供应商的银行账户。
+A bank you or your customers and suppliers hold accounts with.,你或你的客户和供应商持有账户的银行。
+A batch of payments to send to your bank.,一批要发送给你银行的付款。
+A bill from a supplier for what you bought.,供应商就你所购物品开具的账单。
+A bill to a customer for what you sold.,就你所售物品向客户开具的账单。
+A branch of your company.,你公司的分支机构。
+A brand your items are sold under.,你的物料销售所用的品牌。
+A certificate that lets you withhold less tax from a supplier.,允许你从供应商处少预扣税的证书。
+A code customers enter to get a discount from a pricing rule.,客户输入的代码，用于根据定价规则获得折扣。
+A code from a code list and what it maps to.,代码列表中的代码及其映射目标。
+A company or person you buy goods or services from.,你购买商品或服务的公司或个人。
+A company or person you sell goods or services to.,你销售商品或服务的公司或个人。
+A company that makes the items you buy or sell.,制造你所购买或销售物料的公司。
+A custom settings map already exists for {0}.,{0} 的自定义设置映射已存在。
+A customer's claim to repair or replace an item under warranty.,客户在保修期内要求维修或更换物料的索赔。
+A customer's confirmed order.,客户已确认的订单。
+A customization for {0} already exists for this layer.,此层的 {0} 自定义已存在。
+A date range you can close so no one posts into it.,你可以关闭的日期范围，以便无人向其过账。
+A department of your company.,你公司的部门。
+A disabled Product Bundle cannot be selected in transactions.,已禁用的产品捆绑包无法在交易中选择。
+A draft reverse journal for {0} has been created: {1},已为 {0} 创建草稿冲销日记账：{1}
+A few quick questions so we can set things up the way you work.,几个快速问题，以便我们按你的工作方式设置。
+A folder cannot have a File URL,文件夹不能有文件 URL
+A group of tax withholding categories that apply together.,一组共同适用的预扣税类别。
+A group of units of an item made or received together.,一起制造或收到的一组物料单位。
+A grouping of inspection parameters.,检验参数的分组。
+A layout saved on {0} could not be read and was skipped.,保存在 {0} 上的布局无法读取，已被跳过。
+A layout with this name already exists,此名称的布局已存在
+A ledger in your chart of accounts that entries are posted to.,你会计科目表中分录过账到的分类账。
+A little about you,关于你的一些信息
+A machine or place where operations are done.,执行工序的机器或场所。
+A meeting booked with a lead or customer.,与潜在客户或客户预订的会议。
+A naming series conflict occurred while creating serial numbers. Please change the naming series for the item {0}.,创建序列号时发生命名系列冲突。请更改物料 {0} 的命名系列。
+A new area to place fields in,用于放置字段的新区域
+A new fiscal year has been automatically created.,已自动创建新的会计年度。
+A parcel size you ship often.,你经常发货的包裹尺寸。
+A parcel you send through a carrier.,你通过承运人发送的包裹。
+A periodic check of how a quality goal is going.,对质量目标进展情况的定期检查。
+A person or company that owns shares in your company.,拥有你公司股份的个人或公司。
+A phone call made or received.,拨打或接听的电话。
+A place where you keep stock.,你存放库存的地方。
+A place where your assets are kept.,你存放资产的地方。
+A potential sale to a lead or customer.,对潜在客户或客户的潜在销售。
+A private workspace is yours alone. Only you can see it.,私有工作区仅属于你。只有你能看到它。
+A problem or question raised by a customer.,客户提出的问题或疑问。
+A progress update collected from the project team.,从项目团队收集的进度更新。
+A quality inspection must be completed before generating a Delivery Note for this item.,在为此物料生成交货单之前，必须完成质量检验。
+A quality inspection must be completed before generating a Purchase Receipt for this item.,在为此物料生成采购收货之前，必须完成质量检验。
+A record of maintenance done on an asset.,对资产所做维护的记录。
+A regular email summing up how the business is doing.,定期总结业务表现的电子邮件。
+A reminder to a customer about an overdue invoice.,向客户提醒逾期发票。
+A sale made at the point of sale.,在销售点进行的销售。
+A saved set of accounts to start journal entries from.,用于开始日记账分录的已保存账户集。
+A separate Purchase Order is created for each Supplier.,为每个供应商创建单独的采购订单。
+A series of emails sent to leads or contacts on a schedule.,按计划发送给潜在客户或联系人的一系列电子邮件。
+A set of payment terms to apply to invoices and orders.,应用于发票和订单的一组付款条件。
+A set of tasks to start new projects from.,用于启动新项目的一组任务。
+A shared workspace needs a module other than {0}.,共享工作区需要 {0} 以外的模块。
+A snippet named {0} already exists for {1}.,名为 {0} 的片段已存在于 {1}。
+A standard Kanban Board cannot be private,标准看板不能是私有的
+A standard Kanban Board cannot be renamed,标准看板不能重命名
+A standard Kanban Board must use Kanban v2,标准看板必须使用看板 v2
+A standard list layout cannot belong to a user,标准列表布局不能属于用户
+A standard settings map already exists for {0} in {1}.,标准设置映射已存在于 {1} 中的 {0}。
+A standard sidebar needs a module or an app to be written to.,标准侧边栏需要写入模块或应用。
+A standard workspace belongs to the module that ships it.,标准工作区属于提供它的模块。
+A standard workspace is shipped by the app; changes are saved as customizations.,标准工作区由应用提供；更改保存为自定义。
+A standard workspace stays in the module that ships it.,标准工作区保留在提供它的模块中。
+A task becomes Overdue on its own once its Expected End Date passes,任务一旦超过预期结束日期就会自行变为逾期
+A user preview on a link (rest the pointer on it),链接上的用户预览（将指针停留在其上）
+A value a scorecard criterion is calculated from.,用于计算记分卡标准的数值。
+A value from a linked document,来自链接文档的值
+A vehicle's route to deliver to several customers.,车辆向多个客户送货的路线。
+A verified appointment cannot be moved back to 'Unverified' status.,已验证的预约不能移回“未验证”状态。
+A view of your workstations and what each is doing.,你的工作中心及其各自正在做什么的视图。
+A visit to service or repair what a customer bought.,对客户所购物品进行服务或维修的上门访问。
+ACC-ADS-.YYYY.-,ACC-ADS-.YYYY.-
+ACC-AML-.YYYY.-,ACC-AML-.YYYY.-
+ACC-ASA-.YYYY.-,ACC-ASA-.YYYY.-
+ACC-ASC-.YYYY.-,ACC-ASC-.YYYY.-
+ACC-ASR-.YYYY.-,ACC-ASR-.YYYY.-
+ACC-ASS-.YYYY.-,ACC-ASS-.YYYY.-
+ACC-BTN-.YYYY.-,ACC-BTN-.YYYY.-
+ACC-JV-.YYYY.-,ACC-JV-.YYYY.-
+ACC-PAY-.YYYY.-,ACC-PAY-.YYYY.-
+ACC-PINV-RET-.YYYY.-,ACC-PINV-RET-.YYYY.-
+ACC-PRQ-.YYYY.-,ACC-PRQ-.YYYY.-
+ACC-PSINV-.YYYY.-,ACC-PSINV-.YYYY.-
+ACC-SH-.YYYY.-,ACC-SH-.YYYY.-
+ACC-SINV-.YYYY.-,ACC-SINV-.YYYY.-
+ACC-SINV-RET-.YYYY.-,ACC-SINV-RET-.YYYY.-
+ALL records will be deleted (entire DocType cleared),所有记录将被删除（整个单据类型被清空）
+API Method Path,API 方法路径
+Accept emit() calls for events no app registered through the automation_events hook.,接受对没有应用通过 automation_events 钩子注册的事件的 emit() 调用。
+Access,访问权限
+Access added.,访问权限已添加。
+Account / customer numbers assigned to your companies by this supplier (for reconciliation on their statements),此供应商分配给你公司的账户/客户编号（用于在其对账单上对账）
+Account Category Name,账户类别名称
+Account Data,账户数据
+Account Detail Level,账户明细级别
+Account Filter,账户筛选器
+Account company does not match with the rule company.,账户公司不与规则公司匹配。
+Account is mandatory,账户为必填项
+Account where cost of goods sold will be posted when this item is sold,此物料售出时销货成本将过账到的账户
+Account where revenue from selling this item will be credited,销售此物料的收入将贷记到的账户
+Account where the cost of this item will be debited on purchase,购买此物料的成本将借记到的账户
+Account {0} does not belong to Company {1},账户 {0} 不属于公司 {1}
+Account {0} does not belong to company {1},账户 {0} 不属于公司 {1}
+Accounting Period cannot be created for a future date. End Date {0} is after today.,不能为未来日期创建会计期间。结束日期 {0} 在今天之后。
+Accounting entries are frozen up to this date. Only users with the specified role can create or modify entries before this date.,会计分录冻结至此日期。只有具有指定角色的用户才能在此日期之前创建或修改分录。
+Accounts Included in Report,报告中包含的账户
+Accounts Missing from Report,报告中缺失的账户
+Accounts Receivable / Payable Report,应收账款/应付账款报告
+Accounts Receivable / Payable remarks length,应收账款/应付账款备注长度
+Action Type is required for action steps,操作步骤需要操作类型
+Action completed,操作已完成
+Action failed.,操作失败。
+Action for Expired Unverified Appointments,对过期未验证预约的操作
+Action if Quality Inspection is not submitted,如果质量检验未提交时的操作
+Action if Quality Inspection is rejected,如果质量检验被拒绝时的操作
+Action if same rate is not maintained,如果未保持相同费率时的操作
+Action if same rate is not maintained throughout internal transaction,如果在整个内部交易中未保持相同费率时的操作
+Action if same rate is not maintained throughout sales cycle,如果在整个销售周期中未保持相同费率时的操作
+Actions Snapshot,操作快照
+Activate Serial / Batch No for Item,为物料启用序列号/批次号
+Actual quantity of the finished good that will be manufactured.,将制造的成品的实际数量。
+Add Account,添加账户
+Add Filter,添加筛选器
+Add More,添加更多
+Add Opening Stock,添加期初库存
+Add Page,添加页面
+Add Permission,添加权限
+Add Permission for {0},为 {0} 添加权限
+Add Phantom Item,添加虚拟物料
+Add Price,添加价格
+Add Raw Material,添加原材料
+Add Report,添加报告
+Add Section,添加节
+Add Series,添加系列
+Add Series Prefix,添加系列前缀
+Add To Folder,添加到文件夹
+Add User,添加用户
+Add User Permission,添加用户权限
+Add User to {0},将用户添加到 {0}
+Add Workspace,添加工作区
+Add a link to your own private workspaces in the user menu.,在用户菜单中添加指向你自己私有工作区的链接。
+Add a section,添加一个节
+Add a section to the canvas to see it here.,向画布添加一个节以在此处查看。
+Add assignee,添加受派人
+Add atleast one voucher to repost.,至少添加一张要重新过账的凭证。
+Add attachment,添加附件
+Add card,添加卡片
+Add column...,添加列...
+Add demo data so you can explore,添加演示数据以便你探索
+Add field...,添加字段...
+Add new attachments,添加新附件
+Add role,添加角色
+Add to the Sidebar,添加到侧边栏
+Add to the dock,添加到停靠栏
+Add vouchers to generate preview.,添加凭证以生成预览。
+Add {0} Access to {1},将 {0} 访问权限添加到 {1}
+Add {0} to a module,将 {0} 添加到模块
+Added Roles,已添加角色
+Added Widgets,已添加小组件
+Added to global search,已添加到全局搜索
+Added {0} to {1},已将 {0} 添加到 {1}
+Adding demo data,正在添加演示数据
+Additional Costs (as per BOM),额外成本（按 BOM）
+Additional Discount Amount ({discount_amount}) cannot exceed the total before such discount ({total_before_discount}),额外折扣金额（{discount_amount}）不能超过此类折扣前的总额（{total_before_discount}）
+Additional Discount has been removed as Pricing Rule {0} is no longer applicable,由于定价规则 {0} 不再适用，额外折扣已移除
+Additional Finished Good,额外成品
+Additional {0} {1} of item {2} required as per BOM to complete this transaction,按 BOM 完成此交易需要额外 {0} {1} 的物料 {2}
+Adjusted By,调整人
+Adjustment Date,调整日期
+Adjustment Entry,调整分录
+Adjustment Time,调整时间
+Administration,管理
+Advance Booking Days is mandatory for Appointment Scheduling.,预约排程必须填写提前预订天数。
+Advance Paid (Company Currency),已付预付款（公司货币）
+Advanced Condition,高级条件
+Advanced Expression using Python,使用 Python 的高级表达式
+Advanced Features,高级功能
+Advanced Filtering,高级筛选
+Age as on,截至日期的账龄
+Alert dismissed,警报已忽略
+Alias,别名
+Align center,居中对齐
+Align left,左对齐
+Align right,右对齐
+All ({0}),全部（{0}）
+All Differences,所有差异
+All DocTypes,所有单据类型
+All Entries,所有分录
+All Parties,所有往来方
+All Results,所有结果
+All Stock Ledger Entries and Serial and Batch Bundles of the selected vouchers will be cancelled and reposting will be queued. Continue?,所选凭证的所有库存分类账分录以及序列和批次捆绑将被取消，并排队重新过账。是否继续？
+All active prices for this item across buying and selling price lists.,此物料在所有购买和销售价格表中的所有有效价格。
+All apps,所有应用
+All available columns added.,已添加所有可用列。
+All invoices and orders for this customer will be created in this currency.,此客户的所有发票和订单都将以此货币创建。
+All picked items have already been transferred against this Pick List,所有已拣货物料已针对此拣货单转移
+All raw materials are already mapped to finished goods,所有原材料已映射到成品
+All set! Opening your workspace,全部设置完成！正在打开你的工作区
+Allocate Full Amount to Stock Items,将全额分配到库存物料
+Allow Editing of Items and Quantities in Work Order,允许在工单中编辑物料和数量
+Allow Item to be added multiple times in a transaction,允许物料在交易中多次添加
+Allow Quotation with zero quantity,允许数量为零的报价单
+Allow Sales Order creation for expired Quotation,允许为已过期的报价单创建销售订单
+Allow Sales Order with zero quantity,允许数量为零的销售订单
+Allow UOM with conversion rate defined in Item,允许使用在物料中定义了换算系数的计量单位
+Allow Unregistered Events,允许未注册事件
+Allow bulk actions,允许批量操作
+Allow delivery of overproduced quantity,允许交付超产数量
+Allow editing Price List rate in transactions,允许在交易中编辑价格表费率
+Allow internal transfers at user-defined rate,允许按用户定义的费率进行内部转移
+Allow multiple Sales Orders against a customer's Purchase Order,允许针对客户的采购订单创建多个销售订单
+Allow negative rates for Items,允许物料负费率
+Allow negative stock,允许负库存
+Allow negative stock for Batch,允许批次负库存
+Allow notifications,允许通知
+Allow partial reservation,允许部分预留
+Allow purchase invoice creation without purchase order,允许无采购订单创建采购发票
+Allow purchase invoice creation without purchase receipt,允许无采购收货创建采购发票
+Allow sales invoice creation without delivery note,允许无交货单创建销售发票
+Allow sales invoice creation without sales order,允许无销售订单创建销售发票
+Allow sales transactions with zero quantities if the rate is fixed but the quantities are not. e.g. Rate Contracts,如果费率固定但数量不固定，允许数量为零的销售交易。例如费率合同
+Allow same Item to be added multiple times in a transaction,允许同一物料在交易中多次添加
+Allow substituting this item with an alternative from the Item Alternative list when stock is unavailable.,当库存不可用时，允许从物料替代列表中用替代物料替换此物料。
+Allow this item to be used in purchase transactions.,允许此物料用于采购交易。
+Allow this item to be used in sales transactions.,允许此物料用于销售交易。
+Allow to edit stock UOM qty for Purchase documents,允许编辑采购单据的库存计量单位数量
+Allow to edit stock UOM qty for Sales documents,允许编辑销售单据的库存计量单位数量
+Allow to edit stock UOM qty for Stock Entry,允许编辑库存分录的库存计量单位数量
+Allow to make Quality Inspection after Purchase / Delivery,允许在采购/交货后进行质量检验
+Allowed DocTypes,允许的单据类型
+Allowed Doctypes for Guest Uploads,允许访客上传的单据类型
+Allowed Users,允许的用户
+Allowed Users is not required as Frappe CRM is already installed on the site.,不需要允许的用户，因为站点上已安装 Frappe CRM。
+Allowed Users is required for data synchronization from remote Frappe CRM site.,从远程 Frappe CRM 站点同步数据需要允许的用户。
+Allowed special characters are '/' and '-',允许的特殊字符是“/”和“-”
+Allowed to transact with,允许与其交易
+Allowed: {0},允许：{0}
+Allows printing or PDF download of documents.,允许打印或 PDF 下载文档。
+Allows sharing document access with other users.,允许与其他用户共享文档访问权限。
+Allows the user to access reports related to the document.,允许用户访问与文档相关的报告。
+Allows the user to amend a cancelled document into a new copy.,允许用户将已取消的文档修正为新副本。
+Allows the user to cancel submitted documents.,允许用户取消已提交的文档。
+Allows the user to create new documents.,允许用户创建新文档。
+Allows the user to delete documents.,允许用户删除文档。
+Allows the user to edit existing records they have access to.,允许用户编辑他们有权访问的现有记录。
+Allows the user to email from the document.,允许用户从文档发送电子邮件。
+Allows the user to export data from the Report view.,允许用户从报告视图导出数据。
+Allows the user to export document data from the system.,允许用户从系统导出文档数据。
+Allows the user to print or download the document as a PDF.,允许用户将文档打印或下载为 PDF。
+Allows the user to search and see records.,允许用户搜索并查看记录。
+Allows the user to search and select records in other forms. This does not allow the user to view the record itself.,允许用户在其他表单中搜索并选择记录。这不允许用户查看记录本身。
+Allows the user to send emails linked to the document.,允许用户发送链接到文档的电子邮件。
+Allows the user to share document access with other users who may not have access to the document themselves.,允许用户与其他本身可能无权访问该文档的用户共享文档访问权限。
+Allows the user to submit documents.,允许用户提交文档。
+Allows the user to use Data Import tool to create / update records.,允许用户使用数据导入工具创建/更新记录。
+Allows the user to use import documents into the system.,允许用户将文档导入系统。
+Allows the user to view the document.,允许用户查看文档。
+Allows the user to view the value of a masked field in the document.,允许用户查看文档中掩码字段的值。
+Allows users to enable the mask property for any field of the respective doctype.,允许用户为相应单据类型的任何字段启用掩码属性。
+Almost done,几乎完成
+Already Imported,已导入
+Already imported row {0},已导入第 {0} 行
+Alt UOM,替代计量单位
+Alternative For Item,物料的替代品
+Amending,修正中
+"Amount column has ""CR""/""DR"" values",金额列具有“CR”/“DR”值
+Amount column has positive/negative values,金额列具有正/负值
+Amount {0} {1} adjusted against {2} {3},金额 {0} {1} 已针对 {2} {3} 调整
+Amount {0} {1} as adjustment to {2},金额 {0} {1} 作为对 {2} 的调整
+An agreement to buy or sell an item at a fixed price over a period.,在一段时期内以固定价格购买或销售物料的协议。
+An appointment booked through the portal can only be opened via email verification.,通过门户预订的预约只能通过电子邮件验证打开。
+An edit to a shipped row in {0} cannot be carried by a customization.,对 {0} 中已提供行的编辑不能由自定义承载。
+An email will be sent to notify the User with the role 'Purchase Manager' when an automatic Material Request is created.,当自动创建物料请求时，将发送电子邮件通知具有“采购经理”角色的用户。
+An error occurred while updating your session defaults.,更新你的会话默认值时发生错误。
+An item you can use in place of another.,你可以用来替代另一物料的物料。
+An order for a subcontractor to make items from your materials.,让分包商用你的材料制造物料的订单。
+An order to make a quantity of an item.,制造一定数量物料的订单。
+An order to make items for a customer from materials they send.,用客户发送的材料为其制造物料的订单。
+An order you place with a supplier.,你向供应商下的订单。
+Analytical Accounting,分析会计
+Animate the first bar above,为上方第一个条形动画
+Another Budget record '{0}' already exists against {1} '{2}' and account '{3}' with overlapping fiscal years.,另一个预算记录“{0}”已存在于 {1}“{2}”和账户“{3}”下，且会计年度重叠。
+Any,任意
+App name is required.,应用名称为必填项。
+App that produced this notification; used to scope app-specific panels. Derived from the reference document when not set explicitly.,生成此通知的应用；用于限定应用特定面板的范围。未显式设置时从参考文档派生。
+App {} is not installed,应用 {} 未安装
+App-shipped roles whose access is revoked on this site.,在此站点上访问权限被撤销的应用提供的角色。
+Appearance,外观
+Applicable on POS Invoice,适用于 POS 发票
+Applied,已应用
+Applies a tax template automatically when its conditions match.,当其条件匹配时自动应用税模板。
+Applies to DocType,适用于单据类型
+Apply Assignment Rule,应用分配规则
+Apply discounts and margins on products,对产品应用折扣和利润率
+Applying recommended settings,正在应用推荐设置
+Applying\u2026,正在应用…
+Applying…,正在应用…
+Appointment Booking Portal Settings,预约预订门户设置
+Appointment Confirmed,预约已确认
+Appointment Scheduling,预约排程
+Appointment Scheduling needs to be enabled for Appointment Booking through portal.,要通过门户进行预约预订，需要启用预约排程。
+Appointment can only be scheduled up to {0} day(s) in advance.,预约最多只能提前 {0} 天安排。
+Appointment cannot be scheduled for a past time.,不能为过去的时间安排预约。
+Appointment cannot be scheduled on a holiday.,不能在假日安排预约。
+Appointment has been closed. Please book the appointment again.,预约已关闭。请重新预约。
+Appointment is already verified.,预约已验证。
+Appointment must be scheduled within the available slot timings.,预约必须在可用时间段内安排。
+Appointments created manually cannot have 'Unverified' status.,手动创建的预约不能具有“未验证”状态。
+Apps Involved,涉及的应用
+Apps shows the hook-driven apps screen. Desktop Icons shows the arrangeable desktop icon grid instead.,应用显示钩子驱动的应用屏幕。桌面图标改为显示可排列的桌面图标网格。
+Ar,Ar
+Archive of the previous navigation. Nothing reads it at runtime; it is kept as the migration's source so the conversion to module sidebars can be run again.,先前导航的存档。运行时没有任何内容读取它；它作为迁移的源保留，以便可以再次运行到模块侧边栏的转换。
+Are you sure you want to delete the column? All the fields in the column will be moved to the previous column.,你确定要删除该列吗？该列中的所有字段将移动到上一列。
+Are you sure you want to delete the section? All the columns along with fields in the section will be moved to the previous section.,你确定要删除该节吗？该节中的所有列及字段将移动到上一节。
+Are you sure you want to delete the tab? All the sections along with fields in the tab will be moved to the previous tab.,你确定要删除该选项卡吗？该选项卡中的所有节及字段将移动到上一选项卡。
+Are you sure you want to relink this communication?,你确定要重新链接此通信吗？
+Are you sure you want to resend the invitation?,你确定要重新发送邀请吗？
+Are you sure you want to revise this budget? The current budget will be cancelled and a new draft will be created.,你确定要修订此预算吗？当前预算将被取消，并创建新的草稿。
+Arrange,排列
+Arranging,正在排列
+Ascending,升序
+Ask suppliers for prices on the items you need.,向你需要的物料供应商询价。
+Asset Type,资产类型
+Assigned to {0},已分配给 {0}
+Assignees,受派人
+Async items (loading state),异步项（加载状态）
+At Row {0}: In Serial and Batch Bundle {1} must have docstatus as 1 and not 0,在第 {0} 行：在序列和批次捆绑中，{1} 的 docstatus 必须为 1 而不是 0
+At least one assignee is required,至少需要一个受派人
+At least one raw material item must be present in the stock entry for the type {0},对于类型 {0}，库存分录中必须至少存在一个原材料物料
+At least one recipient is required,至少需要一个收件人
+At least one row is required for a financial report template,财务报告模板至少需要一行
+Attach Image field for card thumbnail.,用于卡片缩略图的附加图像字段。
+Attach Image field shown as a thumbnail before the card title.,在卡片标题之前显示为缩略图的附加图像字段。
+Attach an import file to validate rows and mappings.,附加导入文件以验证行和映射。
+Attach document print,附加文档打印
+Attach files,附加文件
+Attachment Gallery,附件库
+Attachment Gallery filters must target File.,附件库筛选器必须以 File 为目标。
+Attempt,尝试
+Attendee not found in this event.,在此事件中未找到参加者。
+Attending,参加
+Attribute Value {0} is not valid for the selected attribute {1}.,属性值 {0} 对所选属性 {1} 无效。
+Attribute {0} is disabled.,属性 {0} 已禁用。
+Attribute {0} is not valid for the selected template.,属性 {0} 对所选模板无效。
+Authorization POST requests must use application/x-www-form-urlencoded,授权 POST 请求必须使用 application/x-www-form-urlencoded
+Auto Created (Reorder),自动创建（再订货）
+Auto Map Raw Materials to Finished Goods,自动将原材料映射到成品
+Auto Reconciliation job trigger,自动对账作业触发器
+Auto Repost Incorrect Valuation Entries (Weekly),自动重新过账不正确的估值分录（每周）
+Auto Reposting of Incorrect Valuation,自动重新过账不正确的估值
+Auto User Creation Error,自动创建用户错误
+Auto create Purchase Receipt,自动创建采购收货
+Auto create Serial and Batch Bundle for outward,为出库自动创建序列和批次捆绑
+Auto create Subcontracting Order,自动创建分包订单
+Auto create assets on purchase,采购时自动创建资产
+Auto insert Item Price if missing,如果缺失则自动插入物料价格
+Auto reconcile Payments,自动对账付款
+Auto repeat skipped. The owner cannot access the reference document.,自动重复已跳过。所有者无法访问参考文档。
+Auto reserve Serial and Batch Nos,自动预留序列号和批次号
+Auto reserve Stock for Sales Order on Purchase,采购时自动为销售订单预留库存
+Auto reserve stock,自动预留库存
+Auto-disabled after {0} consecutive failures,连续 {0} 次失败后自动禁用
+Auto-generated thumbnail of this format. Use the 'Generate Preview' button to (re)generate.,此格式的自动生成缩略图。使用“生成预览”按钮来（重新）生成。
+Automatically add Taxes and Charges from Item Tax Template,从物料税模板自动添加税费
+Automatically add taxes from Taxes and Charges Template,从税费模板自动添加税费
+Automatically fetch Payment Terms from Order/Quotation,从订单/报价单自动获取付款条件
+Automatically process deferred Accounting entry,自动处理递延会计分录
+Automatically run rules on unreconciled transactions,自动对未对账交易运行规则
+Automation Action,自动化操作
+Automation Event Subscription,自动化事件订阅
+Automation Flow,自动化流程
+Automation Flow Title,自动化流程标题
+Automation Flow cannot target a child table: {0},自动化流程不能以子表为目标：{0}
+Automation Flow {0} was auto-disabled,自动化流程 {0} 已自动禁用
+Automation Run,自动化运行
+Automation Run Step,自动化运行步骤
+Automation Settings,自动化设置
+Automation Trigger Queue,自动化触发器队列
+Automation User,自动化用户
+Automation User {0} is disabled or missing,自动化用户 {0} 已禁用或缺失
+Automation event payload is too large,自动化事件负载过大
+Automation paused,自动化已暂停
+Autoname: {0},自动命名：{0}
+Autosave failed,自动保存失败
+Available / Future Inventory,可用/未来库存
+Available for Use Date,可用日期
+Available to all users,对所有用户可用
+Average Commission Rate,平均佣金率
+B,B
+BOM Component,BOM 组件
+BOM Configuration,BOM 配置
+BOM Creator Item with name {0} does not exist,名为 {0} 的 BOM 创建器物物料不存在
+BOM Output,BOM 输出
+BOM Secondary Item,BOM 次要物料
+BOM Secondary Item Reference,BOM 次要物料参考
+BOM Stock Analysis,BOM 库存分析
+BOM and Finished Good Quantity is mandatory for Disassembly,拆卸必须填写 BOM 和成品数量
+BUDGET-.########,BUDGET-.########
+Back to sign in,返回登录
+Back to the builder,返回构建器
+Backdated Entry Before Adjustment Entry,调整分录之前的倒填分录
+Backflush Materials from WIP Warehouse,从在制品仓库倒冲材料
+Backflush raw materials of subcontract based on,分包原材料倒冲基于
+Background,背景
+Background Tasks,后台任务
+Background color,背景颜色
+Backing up,正在备份
+Balance,余额
+Balance Qty (Alt UOM),结存数量（替代计量单位）
+Balance Sheet Closing Balance,资产负债表期末余额
+Balance Sheet requires {0} to be synced to DuckDB,资产负债表需要将 {0} 同步到 DuckDB
+Balance Type,余额类型
+Balance Type is required for Account Data,账户数据需要余额类型
+Bank Account Balance,银行账户余额
+Bank Entry Type,银行分录类型
+Bank Statement Import Log,银行对账单导入日志
+Bank Statement Import Log Column Map,银行对账单导入日志列映射
+Bank Transaction Rule,银行交易规则
+Bank Transaction Rule Accounts,银行交易规则账户
+Bank Transaction Rule Description Conditions,银行交易规则描述条件
+Bank Transaction {0} added as {1},银行交易 {0} 已添加为 {1}
+Barcode or QR code from a field or static value,来自字段或静态值的条形码或二维码
+Barcode that is not a QR code,不是二维码的条形码
+Barcode value must be text under 2000 characters,条形码值必须是少于 2000 个字符的文本
+Base Cost (Company Currency),基础成本（公司货币）
+Base Tax Withheld,预扣基础税
+Base Taxable Amount,基础应税金额
+Based on,基于
+Basic (active + completed states),基本（活动 + 完成状态）
+Basic (icon + title + description),基本（图标 + 标题 + 描述）
+Basic (label + hint),基本（标签 + 提示）
+Basic actions,基本操作
+Batch Item settings,批次物料设置
+Batch Qty updated successfully,批次数量更新成功
+Batch number will be auto-created in format AAAA.00001 if not specified in transactions. Leave blank to always enter batch numbers manually.,如果交易中未指定，批次号将按格式 AAAA.00001 自动创建。留空则始终手动输入批次号。
+Batch number will be created based on expiry date. Expiry dates can be set in the Batch master.,批次号将根据到期日期创建。到期日期可在批次主数据中设置。
+Begin typing for results.,开始输入以获取结果。
+Bill for rejected quantity in Purchase Invoice,在采购发票中为拒收数量开票
+Bills a customer or supplier for the same things on a schedule.,按计划就相同事项向客户或供应商开票。
+Bin Values Recalculated,料箱值已重新计算
+Blank Line,空行
+Blanket Orders,一揽子订单
+Blocked for child tables (istable). Required for document and date-based triggers.,对子表（istable）阻止。文档和基于日期的触发器需要。
+Blockquote,块引用
+Blocks,块
+"Blocks new transactions and further accounting entries on this customer's account. Only users with the role set in Company's ""Roles Allowed to Set and Edit Frozen Account Entries"" can transact.",阻止此客户账户上的新交易和进一步的会计分录。只有具有公司“允许设置和编辑冻结账户分录的角色”中设置的角色的用户才能交易。
+Blocks this customer from being used on any new transaction.,阻止此客户用于任何新交易。
+Board Name,看板名称
+Board Settings,看板设置
+Board name is required,看板名称为必填项
+Board settings saved,看板设置已保存
+Bold Text,粗体文本
+Book Asset Depreciation entry automatically,自动记录资产折旧分录
+Book Deferred entries based on,递延分录记录基于
+Book Stock Expense GL Entries,记录库存费用总账分录
+Book deferred entries via Journal Entry,通过日记账分录记录递延分录
+Book tax loss on early payment discount,记录提前付款折扣的税收损失
+Books deferred revenue or expense for a period.,记录一段期间的递延收入或费用。
+Border,边框
+Border color,边框颜色
+Borders,边框
+Both,两者
+Branch,分支机构
+Branch for step {0} must be If or Else,步骤 {0} 的分支必须是 If 或 Else
+Brands,品牌
+Breadcrumb,面包屑
+Bring every entry back onto the dock.,将每个条目带回停靠栏。
+Bring in a bank statement to match its lines against your books.,导入银行对账单以将其行与你的账簿匹配。
+Bring in your chart of accounts from a spreadsheet.,从电子表格导入你的会计科目表。
+Budget Amount can not be {0}.,预算金额不能为 {0}。
+Budget Distribution,预算分配
+Budget Distribution Total,预算分配总计
+Budget End Date,预算结束日期
+Budget Limit Exceeded,超出预算限制
+Budget Start Date,预算开始日期
+Build a multi-level BOM in one place.,在一个地方构建多级 BOM。
+Builder is visual. HTML is hand-written.,构建器是可视化的。HTML 是手写的。
+Bulk Transaction,批量交易
+Bullet list,项目符号列表
+Buy & Sell,购买和销售
+By-Product,副产品
+Bypass credit limit check at sales order,在销售订单时绕过信用额度检查
+Bytes an emitted event payload may carry.,发出的事件负载可携带的字节数。
+C - D,C - D
+CBAL-.#####,CBAL-.#####
+CRM-LEAD-.YYYY.-,CRM-LEAD-.YYYY.-
+CRM-OPP-.YYYY.-,CRM-OPP-.YYYY.-
+CUST-.YYYY.-,CUST-.YYYY.-
+Calculate Product Bundle price based on child Item's rates,根据子物料费率计算产品捆绑包价格
+Calculate but don't show on final report,计算但不在最终报告中显示
+Calculated Amount,计算金额
+Calculation Formula,计算公式
+Callback,回调
+Camera access needs a secure (HTTPS) connection and a browser with camera support.,摄像头访问需要安全（HTTPS）连接和支持摄像头的浏览器。
+Camera permission was denied. Allow camera access in your browser settings and try again.,摄像头权限被拒绝。请在浏览器设置中允许摄像头访问，然后重试。
+Campaign {0} not found,未找到营销活动 {0}
+Can only unlink an Address or a Contact,只能取消链接地址或联系人
+Can't check this condition,无法检查此条件
+Cancel Stock Ledger Entries,取消库存分类账分录
+Cancel {0} documents?,取消 {0} 个文档？
+Cancelled Job Card cannot be processed.,已取消的作业卡无法处理。
+Cancelling,正在取消
+Cannot add child table {0} to deletion list. Child tables are automatically deleted with their parent DocTypes.,无法将子表 {0} 添加到删除列表。子表会随其父单据类型自动删除。
+Cannot apply taxes,无法应用税费
+Cannot apply taxes from this address,无法从此地址应用税费
+Cannot cancel Stock Closing Entry {0} because the later Stock Closing Entry {1} is built on it. Cancel {1} first.,无法取消库存结账分录 {0}，因为其后的库存结账分录 {1} 建立在其上。请先取消 {1}。
+Cannot cancel this document as it is linked with the submitted Asset Value Adjustment <b>{0}</b>. Please cancel the Asset Value Adjustment to continue.,无法取消此文档，因为它与已提交的资产价值调整 <b>{0}</b> 相关联。请取消资产价值调整以继续。
+Cannot change Item {0} from serialized to non-serialized because a Serial and Batch Bundle exists for it. Please delete or cancel the Serial and Batch Bundle first.,无法将物料 {0} 从序列化更改为非序列化，因为已存在其序列和批次捆绑。请先删除或取消序列和批次捆绑。
+Cannot change field type in {0}: some existing values cannot be converted to the new type,无法更改 {0} 中的字段类型：某些现有值无法转换为新类型
+Cannot configure Core DocTypes for Global Search.,无法为全局搜索配置核心单据类型。
+Cannot create Intercompany {0}. All items in the source {1} have already been fully invoiced. Please check the existing linked {2}s.,无法创建公司间 {0}。源 {1} 中的所有物料已全部开票。请检查现有的链接 {2}。
+Cannot create Material Request for item {0} in group warehouse {1}.,无法在组仓库 {1} 中为物料 {0} 创建物料请求。
+Cannot create Work Orders from a stopped Material Request,无法从已停止的物料请求创建工单
+Cannot create {0} from a Bank Transaction,无法从银行交易创建 {0}
+Cannot declare as Lost because an active Quotation exists.,由于存在有效的报价单，无法声明为丢失。
+Cannot delete an item which has been ordered,无法删除已订购的物料
+Cannot delete protected core DocType: {0},无法删除受保护的核心单据类型：{0}
+Cannot delete virtual DocType: {0}. Virtual DocTypes do not have database tables.,无法删除虚拟单据类型：{0}。虚拟单据类型没有数据库表。
+Cannot disable {0} as it may lead to incorrect stock valuation.,无法禁用 {0}，因为它可能导致不正确的库存估值。
+Cannot disassemble {0} qty against Stock Entry {1}. Only {2} qty available to disassemble.,无法针对库存分录 {1} 拆卸 {0} 数量。只有 {2} 数量可供拆卸。
+Cannot edit filters for standard Web Forms,无法编辑标准网页表单的筛选器
+Cannot enable Opportunity creation from Contact Us because the Contact Us form is disabled.,无法启用从“联系我们”创建商机，因为“联系我们”表单已禁用。
+Cannot enable {0} as {1} is disabled in {2},无法启用 {0}，因为 {2} 中的 {1} 已禁用
+Cannot fetch image from {0}: {1},无法从 {0} 获取图像：{1}
+Cannot fetch selected rows for submitted Payment Request,无法为已提交的付款请求获取所选行
+Cannot generate PDF for more than {0} documents at a time,一次无法为超过 {0} 个文档生成 PDF
+Cannot load {0} details,无法加载 {0} 详情
+Cannot merge {0} '{1}' into '{2}' as both have existing accounting entries in different currencies for company '{3}'.,无法将 {0}“{1}”合并到“{2}”，因为两者在公司“{3}”下都有不同货币的现有会计分录。
+Cannot produce more Item {0} than Sales Order quantity {1} {2},生产的物料 {0} 不能超过销售订单数量 {1} {2}
+Cannot reduce quantity than ordered or purchased quantity,无法将数量减少到低于已订购或已采购数量
+Cannot register an empty XLSX style,无法注册空的 XLSX 样式
+Cannot repost more than {0} vouchers at once. Split them into multiple documents.,一次无法重新过账超过 {0} 张凭证。请将它们拆分为多个文档。
+Cannot select a Group type Customer Group. Please select a non-group Customer Group.,无法选择组类型客户组。请选择非组客户组。
+Cannot start deletion. Another deletion {0} is already queued/running. Please wait for it to complete.,无法开始删除。另一个删除 {0} 已排队/正在运行。请等待其完成。
+Cannot submit Job Card {0} while it is On Hold. Please resume and complete the job before submission.,无法在作业卡 {0} 处于暂停状态时提交。请在提交前恢复并完成作业。
+Cannot update rate as item {0} is already ordered or purchased against this quotation,无法更新费率，因为物料 {0} 已针对此报价单订购或采购
+Canvas,画布
+Capitalize this asset before submitting.,在提交前将此资产资本化。
+Card Fields,卡片字段
+Card and Preview Fields,卡片和预览字段
+Card title\u2026,卡片标题…
+Card title…,卡片标题…
+Category for the in-app notification. Used for filtering and per-user email preferences.,应用内通知的类别。用于筛选和每用户电子邮件偏好。
+Cell padding,单元格内边距
+Change Language,更改语言
+Change Time Zone,更改时区
+Change print settings,更改打印设置
+Changed {0} by {1},由 {1} 更改了 {0}
+Changes a price or gives a discount when its conditions are met.,当条件满足时更改价格或给予折扣。
+Changes an asset's value outside its depreciation.,在折旧之外更改资产价值。
+Check Availability in Warehouse,检查仓库中的可用性
+Check Supplier invoice number uniqueness,检查供应商发票号的唯一性
+Check if this tax is not applicable to items (distinct from 0% rate),检查此税是否不适用于物料（与 0% 税率不同）
+Check row {0} for account {1}: Party Type is only allowed for Receivable or Payable accounts,检查账户 {1} 的第 {0} 行：往来方类型仅允许用于应收或应付账户
+Check row {0} for account {1}: Party is only allowed if Party Type is set,检查账户 {1} 的第 {0} 行：仅当设置了往来方类型时才允许往来方
+Check the Error Log for details.,请查看错误日志了解详情。
+Checking import file for issues...,正在检查导入文件是否有问题…
+Checks an item against its quality parameters.,根据质量参数检查物料。
+Child DocTypes,子单据类型
+Child Table Not Allowed,不允许子表
+Child table rows laid out with your own template,使用你自己的模板布置的子表行
+Child tables that will also be deleted,也将被删除的子表
+Choose a company in this chart's filters to see its bank balance.,在此图表的筛选器中选择一个公司以查看其银行余额。
+Choose a numeric field,选择数值字段
+Choose a starting point for your print format.,为你的打印格式选择起点。
+Choose whether forms should be displayed in compact or full width.,选择表单应以紧凑还是全宽显示。
+Choose which notification types are emailed to you. Unchecked types still show as in-app notifications.,选择哪些通知类型通过电子邮件发送给你。未选中的类型仍会显示为应用内通知。
+Chromium,Chromium
+Chromium renderer unavailable,Chromium 渲染器不可用
+Chromium unavailable: this format uses a Typst block.,Chromium 不可用：此格式使用了 Typst 块。
+Circular dependency detected: {0},检测到循环依赖：{0}
+Circular parent reference for {0},{0} 的循环父引用
+Classic Format Data,经典格式数据
+Classify As,分类为
+Clear Assignment,清除分配
+Clear Customizations,清除自定义
+Clear Last Scanned Warehouse,清除上次扫描的仓库
+Clear Link,清除链接
+Clear all filters,清除所有筛选器
+Clear cache and reload,清除缓存并重新加载
+Clear selection,清除选择
+Clear the filters to see all records.,清除筛选器以查看所有记录。
+Clearance date changed from {0} to {1} via Bank Clearance Tool,通过银行清算工具将清算日期从 {0} 更改为 {1}
+Click Customize to add your first widget.,点击自定义以添加你的第一个小组件。
+Click below to login.,点击下方登录。
+Click below to reset your password.,点击下方重置你的密码。
+Click on the {0} menu to edit,点击 {0} 菜单进行编辑
+Click to navigate,点击导航
+Client-supplied resolver methods are not allowed,不允许客户端提供的解析器方法
+Closed Period,已关闭期间
+Closed Period Rows Selected,已选择已关闭期间行
+Closes a POS shift and totals what was collected.,关闭 POS 班次并汇总所收金额。
+Closes a fiscal year by moving its profit or loss to equity.,通过将其损益转入权益来关闭会计年度。
+Closes stock balances for a period so reports run faster.,关闭一段期间的库存余额，以便报告运行更快。
+Cloud settings,云设置
+Co-Product,联产品
+Code block,代码块
+Collapse all,全部折叠
+Collapse sidebar,折叠侧边栏
+Colon after labels,标签后的冒号
+Colour,颜色
+Colours that are not hex codes: {0},不是十六进制代码的颜色：{0}
+Column Field,列字段
+Column Mapping,列映射
+Column name is required,列名称为必填项
+Column settings,列设置
+Column warnings,列警告
+Columns matched,已匹配的列
+Combine two or more accounts into one.,将两个或多个账户合并为一个。
+Commission paid to the Sales Partner on transactions with this customer.,就此客户交易向销售合作伙伴支付的佣金。
+Commit Every,每批提交
+Communication {0} is not on the timeline of Issue {1},通信 {0} 不在问题 {1} 的时间线上
+Compact,紧凑
+Compact (narrow layouts),紧凑（窄布局）
+Company Abbreviation (requires ERPNext to be installed),公司缩写（需要安装 ERPNext）
+Company Abbreviation cannot have more than {0} characters,公司缩写不能超过 {0} 个字符
+Company Account is mandatory,公司账户为必填项
+Company Address is missing. You don't have permission to create an Address. Please contact your System Manager.,公司地址缺失。你无权创建地址。请联系你的系统管理员。
+Company Field,公司字段
+Company is required,公司为必填项
+Company link field name used for filtering (optional - leave empty to delete all records),用于筛选的公司链接字段名称（可选——留空以删除所有记录）
+Company or Personal Email is mandatory when 'Create User Automatically' is enabled,启用“自动创建用户”时，公司或个人电子邮件为必填项
+Company {0} is not in South Africa.,公司 {0} 不在南非。
+Complete Onboarding,完成入门
+Complete Setup,完成设置
+Complete registration,完成注册
+Complete the earlier steps before continuing.,在继续之前完成前面的步骤。
+Completed Quantity cannot be greater than {0},完成数量不能大于 {0}
+Completed Quantity cannot be negative,完成数量不能为负
+Completed quantity cannot be negative.,完成数量不能为负。
+Component Explorer,组件浏览器
+Components,组件
+Components can be returned only after Work Order {0} is Completed or Closed,只有在工单 {0} 完成或关闭后才能退回组件
+Composite Asset,复合资产
+Composite Component,复合组件
+Condition Values,条件值
+Condition based field,基于条件的字段
+Condition took the {0} branch,条件采用了 {0} 分支
+Configure,配置
+Configure Series,配置系列
+Configure conditional naming rules for {0}. Rules are applied in priority order.,为 {0} 配置条件命名规则。规则按优先级顺序应用。
+Configure fields,配置字段
+Configure fields to show when searching for {0} globally. Open global search via {1}.,配置全局搜索 {0} 时显示的字段。通过 {1} 打开全局搜索。
+Configure form view behaviour.,配置表单视图行为。
+Configure list view behaviour.,配置列表视图行为。
+Configure naming series options for {0}. You can choose a series when creating a document.,为 {0} 配置命名系列选项。你可以在创建文档时选择系列。
+Configure print formats for {0}. You can choose a format when printing or emailing a document.,为 {0} 配置打印格式。你可以在打印或通过电子邮件发送文档时选择格式。
+Configure report view behaviour.,配置报告视图行为。
+Configure search fields,配置搜索字段
+Configure search settings,配置搜索设置
+Configure your email settings.,配置你的电子邮件设置。
+Connection,连接
+Consecutive failures after which a flow is auto-disabled and its owner notified.,连续失败次数达到后，流程将自动禁用并通知其所有者。
+Consider for Tax Withholding,考虑用于预扣税
+Consider for Tax Withholding ,考虑用于预扣税
+Consume Components,消耗组件
+Consumed quantity of item {0} exceeds transferred quantity.,物料 {0} 的消耗数量超过转移数量。
+Contains,包含
+Content must be a JSON object,内容必须是 JSON 对象
+Content must be valid JSON,内容必须是有效的 JSON
+Control who can see this workspace and how it appears.,控制谁可以看到此工作区以及它如何显示。
+Controls how raw materials are consumed during the ‘Manufacture’ stock entry.,控制在“制造”库存分录期间如何消耗原材料。
+Controls which tax template is auto-applied when this customer is selected on a transaction.,控制当交易中选择此客户时自动应用哪个税模板。
+Convert Item description to clean HTML in transactions,在交易中将物料描述转换为干净的 HTML
+Convert to Ledger,转换为分类账
+Convert to Phantom Item,转换为虚拟物料
+Convert to Sub Assembly,转换为子装配件
+Convert to new builder,转换为新构建器
+Converted from the old Print Format Builder,从旧打印格式构建器转换而来
+Copy,复制
+Copy Attachments to Transaction,将附件复制到交易
+Copy file URL to clipboard,将文件 URL 复制到剪贴板
+Copy this board to change its setup,复制此看板以更改其设置
+Core,核心
+Correlation Key,关联键
+Cost Allocation,成本分摊
+Cost Allocation %,成本分摊百分比
+Cost Allocation / Process Loss,成本分摊/工艺损耗
+Cost Center Validation Error,成本中心验证错误
+Cost allocation between finished goods and secondary items should equal 100%,成品和次要物料之间的成本分摊应等于 100%
+Cost center used for tracking purchase expenses for this item,用于跟踪此物料采购费用的成本中心
+Cost center used for tracking sales revenue for this item,用于跟踪此物料销售收入的成本中心
+Could not convert this print format,无法转换此打印格式
+Could not download the statement. Please try again.,无法下载对账单。请重试。
+Could not generate PDF,无法生成 PDF
+Could not load groups.,无法加载分组。
+Could not load import file,无法加载导入文件
+Could not load the dock. Please try again.,无法加载停靠栏。请重试。
+Could not load the saved field rules,无法加载已保存的字段规则
+Could not load the sidebar. Please try again.,无法加载侧边栏。请重试。
+Could not load this document,无法加载此文档
+Could not load this image,无法加载此图像
+Could not load this section. Please refresh the page.,无法加载此节。请刷新页面。
+Could not load this tab.,无法加载此选项卡。
+Could not move {0},无法移动 {0}
+Could not move {0} cards,无法移动 {0} 张卡片
+Could not open Settings. Please refresh the page.,无法打开设置。请刷新页面。
+Could not open the dock manager. Please refresh the page.,无法打开停靠栏管理器。请刷新页面。
+Could not open the sidebar editor. Please refresh the page.,无法打开侧边栏编辑器。请刷新页面。
+Could not reach your server: {0},无法连接你的服务器：{0}
+Could not render the preview,无法渲染预览
+Could not resolve host: {0},无法解析主机：{0}
+Could not start the camera.,无法启动摄像头。
+Could not update,无法更新
+Could not validate {0}: {1},无法验证 {0}：{1}
+Could not write {0} to {1}. Left unchanged.,无法将 {0} 写入 {1}。保持不变。
+Could not write {0}'s dock to it. Left unchanged.,无法将 {0} 的停靠栏写入其中。保持不变。
+Couldn't load options,无法加载选项
+Couldn't open Cloud settings. Please try again.,无法打开云设置。请重试。
+Couldn't render this letter head for the previewed document,无法为预览的文档渲染此信头
+Couldn't render this template for the previewed document,无法为预览的文档渲染此模板
+Create Account,创建账户
+Create Board,创建看板
+Create Folder,创建文件夹
+Create Layout,创建布局
+Create Material Request,创建物料请求
+Create New User,创建新用户
+Create Payment Request,创建付款请求
+Create User Automatically,自动创建用户
+Create a Stock Closing Entry for the entire company with To Date as {0} before submitting the Period Closing Voucher.,在提交期间结账凭证之前，为整个公司创建截止日期为 {0} 的库存结账分录。
+Create a new document,创建新文档
+Create a notification to alert users about {0} events.,创建通知以提醒用户关于 {0} 事件。
+Create a print format to customize how {0} prints.,创建打印格式以自定义 {0} 的打印方式。
+Create a template to reuse when emailing {0}.,创建模板以便在通过电子邮件发送 {0} 时重复使用。
+Create a workflow to control the states {0} moves through.,创建工作流以控制 {0} 经历的状态。
+Create a {0} document first to preview this print format.,先创建 {0} 文档以预览此打印格式。
+Create a {0} to finish this step.,创建 {0} 以完成此步骤。
+Create copy,创建副本
+Create layout,创建布局
+Create payment requests in Draft status,以草稿状态创建付款请求
+Create your account,创建你的账户
+Create your first Material Request to get started.,创建你的第一个物料请求以开始。
+Create your first invoice to get started.,创建你的第一张发票以开始。
+Create your first {0} to get started.,创建你的第一个 {0} 以开始。
+Created By Migration,由迁移创建
+Created through Portal,通过门户创建
+Created {0},已创建 {0}
+Created {0} {1},已创建 {0} {1}
+Creates a single grouped asset instead of individual assets when purchased in bulk.,批量购买时创建单个分组资产而不是单独资产。
+Creates an Item Price automatically when the item is saved,物料保存时自动创建物料价格
+Creating Opening Stock Entry...,正在创建期初库存分录…
+Creating Return of Components ...,正在创建组件退回…
+Creating your company,正在创建你的公司
+Creator's Access,创建者的访问权限
+Credit & Overdue Limits,信用和逾期限制
+Cron Expression,Cron 表达式
+Cumulative Threshold,累计阈值
+Currency filters are currently unsupported in Custom Financial Report.,自定义财务报告目前不支持货币筛选器。
+Current Series,当前系列
+Current tier based on accumulated points. Updated automatically on each invoice.,基于累计积分的当前等级。每张发票自动更新。
+Current value,当前值
+Current version,当前版本
+Currently hidden,当前隐藏
+Currently visible,当前可见
+Custom API,自定义 API
+Custom Block,自定义块
+Custom CSS in the Style box,样式框中的自定义 CSS
+Custom CSS on fields: {0},字段上的自定义 CSS：{0}
+Custom Event,自定义事件
+Custom Event trigger requires an event name,自定义事件触发器需要事件名称
+Custom Financial Statement,自定义财务报表
+Custom HTML format,自定义 HTML 格式
+Custom Module Renamed,自定义模块已重命名
+Custom Remark,自定义备注
+Custom Sidebar,自定义侧边栏
+Custom Table,自定义表格
+Custom Workspace,自定义工作区
+Custom hint text,自定义提示文本
+Custom icon,自定义图标
+Custom icon + footer,自定义图标 + 页脚
+Customer POS ID,客户 POS ID
+Customize Quick Filters,自定义快速筛选器
+Customized since,自定义起始于
+DB Tables,数据库表
+DT-,DT-
+DUNN-.MM.-.YY.-,DUNN-.MM.-.YY.-
+Data Import Skipped Row,数据导入跳过行
+Data Import Value Mapping,数据导入值映射
+Data Source,数据源
+Data fetch method,数据获取方法
+Date Based,基于日期
+Date Based trigger requires a Date Field and a Date Direction,基于日期的触发器需要日期字段和日期方向
+Date Direction,日期方向
+Date Field,日期字段
+Date Offset (Days),日期偏移（天）
+Date format,日期格式
+Dates to Process,要处理的日期
+Day of month,月中的某天
+Days a Failed or Skipped queue row is kept before the nightly sweep removes it.,失败或跳过的队列行在夜间清扫移除之前保留的天数。
+Debit/Credit,借方/贷方
+Declare opportunities lost one at a time,一次声明一个商机丢失
+Decrease,减少
+Decrease indent,减少缩进
+Deduct Tax On Basis,按基础扣税
+Deducted From,扣除自
+Default Ageing Range,默认账龄范围
+Default Layout,默认布局
+Default Sales Contact,默认销售联系人
+Default Stock Valuation Method,默认库存估值方法
+Default Supplier for {0} not found,未找到 {0} 的默认供应商
+Default Target Warehouse {0} must be a Transit warehouse when Add to Transit is enabled.,当启用添加到中转时，默认目标仓库 {0} 必须是中转仓库。
+Default price list for buying or selling this item,用于购买或销售此物料的默认价格表
+Default removed,默认值已移除
+Default source Warehouse,默认源仓库
+Default template: {0},默认模板：{0}
+Default updated,默认值已更新
+Default warehouse from Item Defaults.,来自物料默认值的默认仓库。
+Defaults to the company's Stock Adjustment Account,默认为公司的库存调整账户
+Defines the date after which the item can no longer be used in transactions or manufacturing,定义物料之后不能再用于交易或制造的日期
+Delay,延迟
+Delete Accounting and Stock Ledger entries on deletion of transaction,删除交易时删除会计和库存分类账分录
+Delete Demo Data,删除演示数据
+Delete Gravatar URLs,删除 Gravatar URL
+Delete Item,删除物料
+Delete Permanently,永久删除
+Delete Row,删除行
+Delete Section,删除节
+Delete Tab,删除选项卡
+Delete Table,删除表格
+Delete all the Transactions for {0},删除 {0} 的所有交易
+Delete column,删除列
+Delete entire column with fields,删除整列及其字段
+Delete entire section with fields,删除整节及其字段
+Delete entire tab with fields,删除整个选项卡及其字段
+Delete layout <strong>{0}</strong>?,删除布局 <strong>{0}</strong>？
+Delete naming rule {0}?,删除命名规则 {0}？
+Delete section,删除节
+Delete series {0}?,删除系列 {0}？
+Delete snippet,删除片段
+Delete tab,删除选项卡
+Delete the <b>{0}</b> workspace? This cannot be undone.,删除 <b>{0}</b> 工作区？此操作无法撤销。
+Delete the snippet '{0}'?,删除片段“{0}”？
+Delete this user permission?,删除此用户权限？
+Delete this version,删除此版本
+Delete {0} item permanently?,永久删除 {0} 物料？
+Delete {0} items permanently?,永久删除 {0} 个物料？
+Deleted {0} records from {1} doctype,已从 {1} 单据类型删除 {0} 条记录
+Deleting...,正在删除…
+Deletion process restarted,删除过程已重新启动
+Deletion will start automatically after submission.,提交后将自动开始删除。
+Deliver (Dropship),交付（直运）
+Deliver secondary Items,交付次要物料
+Delivered,已交付
+Delivered Qty cannot be increased by more than {0} for item {1},物料 {1} 的已交付数量增加不能超过 {0}
+Delivered Qty cannot be reduced by more than {0} for item {1},物料 {1} 的已交付数量减少不能超过 {0}
+Delivered by Supplier,由供应商交付
+Demo Data creation failed.,演示数据创建失败。
+Demo data creation failed. Check notifications for more info.,演示数据创建失败。请查看通知了解更多信息。
+Denormalized so the run survives deletion of its Automation Flow.,反规范化以便运行在其自动化流程删除后仍能保留。
+Depends on: {0},依赖于：{0}
+Depth,深度
+Descending,降序
+Description Rules,描述规则
+Desk,桌面
+Desktop Icons,桌面图标
+Desktop Page,桌面页面
+Detail,明细
+Detected Amount Format,检测到的金额格式
+Detected Date Format,检测到的日期格式
+Detected Header Index,检测到的表头索引
+Detected Transaction Ending Index,检测到的交易结束索引
+Detected Transaction Starting Index,检测到的交易开始索引
+Determine Address Tax Category from,从以下确定地址税类
+Determines which tax rules apply to this supplier,确定哪些税规则适用于此供应商
+Didn't receive the link?,没有收到链接？
+Dinars,第纳尔
+Direct return is not allowed for Timesheet.,工时表不允许直接退回。
+Direction,方向
+Disable,禁用
+"Disable ""Consider Accounting Dimension"" Filter",禁用“考虑会计维度”筛选器
+Disable Automations,禁用自动化
+Disable Cumulative Threshold,禁用累计阈值
+Disable Opening Balance Calculation,禁用期初余额计算
+Disable Prepared Report Automation,禁用预制报告自动化
+Disable Serial No and Batch selector,禁用序列号和批次选择器
+Disable Transaction Threshold,禁用交易阈值
+Disable all notification and alert sounds across the application.,禁用整个应用中的所有通知和警报声音。
+Disable last purchase rate,禁用上次采购费率
+Disable template to prevent use in reports,禁用模板以防止在报告中使用
+Disabled Bank Account,已禁用的银行账户
+Disabled Item {0} cannot be used in BOMs.,已禁用的物料 {0} 不能用于 BOM。
+Disabled Price List,已禁用的价格表
+Disabled Reason,禁用原因
+Disabled items cannot be selected in any transaction.,已禁用的物料无法在任何交易中选择。
+Disabled options (a page-size picker),已禁用选项（页面大小选择器）
+Disabled suppliers are hidden from selection in new transactions but remain in historical records,已禁用的供应商在新交易中从选择中隐藏，但保留在历史记录中
+Disassemble Qty cannot be less than or equal to <b>0</b>.,拆卸数量不能小于或等于 <b>0</b>。
+Discard the draft and go back to this,放弃草稿并返回此
+Discard your unapplied changes and go back to what this format prints?,放弃你未应用的更改并返回此格式打印的内容？
+Discarding\u2026,正在放弃…
+Discarding…,正在放弃…
+Discount Removed,折扣已移除
+Dismissible,可忽略
+Display & Data Formatting,显示和数据格式
+Display Name,显示名称
+Display exact timestamps instead of relative time in the activity timeline.,在活动时间线中显示确切时间戳而不是相对时间。
+Display the filter and group-by sidebar in list views.,在列表视图中显示筛选器和分组侧边栏。
+Display the search bar in the navigation area for quick access.,在导航区域显示搜索栏以便快速访问。
+Distribute Equally,平均分配
+Distribution Frequency,分配频率
+Do Not Use Batchwise Valuation,不使用批次估值
+Do not fetch incoming rate from Serial No,不从序列号获取入库费率
+Do not import,不导入
+Do not update Serial / Batch on creation of auto bundle,创建自动捆绑时不更新序列/批次
+Do not use Batch-wise Valuation,不使用批次估值
+Do you want to continue?,你想继续吗？
+Doc Cancelled,文档已取消
+Doc Created,文档已创建
+Doc Deleted,文档已删除
+Doc Status Reset,文档状态已重置
+Doc Submitted,文档已提交
+Doc Updated,文档已更新
+Doc Values,文档值
+DocType Settings,单据类型设置
+DocType Settings Map,单据类型设置映射
+DocType Settings Map Item,单据类型设置映射项
+DocType {0} does not exist,单据类型 {0} 不存在
+DocType {0} not found,未找到单据类型 {0}
+DocType {0} with company field '{1}' is already in the list,带有公司字段“{1}”的单据类型 {0} 已在列表中
+DocTypes To Delete,要删除的单据类型
+DocTypes that will NOT be deleted.,将不会被删除的单据类型。
+DocTypes this role can access.,此角色可以访问的单据类型。
+DocTypes with a company field:,带有公司字段的单据类型：
+DocTypes without a company field:,没有公司字段的单据类型：
+Dock,停靠栏
+Dock Item,停靠栏项
+Dock Items,停靠栏项
+Dock updated,停靠栏已更新
+Dock updated for everyone,已为所有人更新停靠栏
+Doctype To Sync,要同步的单据类型
+Document Count,文档数量
+Document Name (ID),文档名称（ID）
+Document Naming,文档命名
+Document No,文档编号
+Document Owner,文档所有者
+Document Permissions,文档权限
+Document Type is required,文档类型为必填项
+Document owner,文档所有者
+Document-less automations do not accept a document name,无文档自动化不接受文档名称
+Documentation,文档
+Domain is required.,域为必填项。
+Domains,域
+Don't Recompute Tax,不重新计算税
+Don't panic. Run this command and reload the page:,不要慌张。运行此命令并重新加载页面：
+Don't reserve Sales Order qty on sales return,销售退回时不预留销售订单数量
+Done: {0},完成：{0}
+Download Failed Rows,下载失败行
+Download Skipped Rows,下载跳过行
+Draft Data,草稿数据
+Draft data must be an object,草稿数据必须是对象
+Draft discarded,草稿已放弃
+Drag to change corner radius,拖动以更改圆角半径
+Drag to change {0} {1},拖动以更改 {0} {1}
+Drag to reorder. The eye takes an entry off the dock.,拖动以重新排序。眼睛将条目从停靠栏移除。
+Drag to resize,拖动以调整大小
+Drain Seconds,排空秒数
+Drop fields here,将字段拖放到此处
+Drop this arrangement and go back to {0}.,放弃此安排并返回 {0}。
+DuckDB Sync,DuckDB 同步
+DuckDB Sync Item,DuckDB 同步项
+Dunning Letter for Dunning Type {0} in language '{1}' not found.,未找到语言“{1}”中催款类型 {0} 的催款函。
+Dunning Letter for Dunning Type {0} not found.,未找到催款类型 {0} 的催款函。
+Duplicate DocType,重复的单据类型
+Duplicate ID {0} in rows {1},第 {1} 行中重复的 ID {0}
+Duplicate Item Under Same Parent,同一父项下的重复物料
+Duplicate Kanban Board,重复的看板
+Duplicate Label,重复的标签
+Duplicate POS Search Fields,重复的 POS 搜索字段
+Duplicate Payment Schedule selected,选择了重复的付款计划
+Duplicate Serial Number Error,重复序列号错误
+Duplicate automation action_type: {0},重复的自动化 action_type：{0}
+Duplicate automation relationship name on {0},{0} 上重复的自动化关系名称
+Duplicate entry: {0}{1},重复条目：{0}{1}
+Duplicate languages found on Dunning Letter Text. Keep only one of them.,在催款函文本中发现重复语言。只保留其中一种。
+Duplicate line reference: '{0}',重复的行引用：“{0}”
+Duplicate record alias: {0},重复的记录别名：{0}
+Duplicate vouchers found. Remove the duplicate vouchers to continue to repost.,发现重复凭证。请移除重复凭证以继续重新过账。
+Duration (ms),持续时间（毫秒）
+Dynamic Filter Error,动态筛选器错误
+E - F,E - F
+EDI,EDI
+ERPNext Integrations,ERPNext 集成
+ERPNext will make a stock ledger entry for each transaction of this item. Keep unchecked for non-stock or service items.,ERPNext 将为此物料的每笔交易创建库存分类账分录。非库存或服务物料请保持未选中。
+Each relationship needs an alias and relationship name,每个关系都需要别名和关系名称
+Each row maps a field on a Single (Settings) doctype to surface for this doctype.,每一行将单个（设置）单据类型上的字段映射为此单据类型要呈现的字段。
+Edit Layout,编辑布局
+Edit Letter Head HTML,编辑信头 HTML
+Edit Section,编辑节
+Edit Series,编辑系列
+Edit Tax Withholding Entries,编辑预扣税分录
+Edit Typst,编辑 Typst
+Edit in the visual builder.,在可视化构建器中编辑。
+Edit layout,编辑布局
+Edit your response,编辑你的回复
+Edit {0} rows,编辑 {0} 行
+Edited,已编辑
+Elapsed Time,已用时间
+Else,否则
+Email Campaign Error,电子邮件营销活动错误
+Email Campaign Send Error,电子邮件营销活动发送错误
+Email Template can only be used with the Email channel,电子邮件模板只能与电子邮件渠道一起使用
+Email Template {0} has no content to send,电子邮件模板 {0} 没有可发送的内容
+Email Templates,电子邮件模板
+Email Verified,电子邮件已验证
+Email couldn't be sent.,电子邮件无法发送。
+Email everyone for <b>{0}</b> notifications? This adds it to every user's email preferences. Users can still opt out individually afterwards.,为 <b>{0}</b> 通知向所有人发送电子邮件？这会将其添加到每个用户的电子邮件偏好中。用户之后仍可单独选择退出。
+Email is required to create a user,创建用户需要电子邮件
+Email is required to create a user.,创建用户需要电子邮件。
+Email is required.,电子邮件为必填项。
+Email me for these notification types,对这些通知类型向我发送电子邮件
+Emailed {0},已通过电子邮件发送 {0}
+Emails customers their statements on a schedule.,按计划向客户通过电子邮件发送对账单。
+Employee is required,员工为必填项
+Employee {0} already has a linked user,员工 {0} 已有链接用户
+Employee {0} not found,未找到员工 {0}
+Empty = any value.,空 = 任意值。
+Empty State Message,空状态消息
+Empty To Delete List,空的要删除列表
+Empty Typst block,空的 Typst 块
+Empty canvas. Drag and drop fields to build from scratch.,空画布。拖放字段以从头构建。
+Empty text,空文本
+Enable <b>{0}</b> on the Item master to proceed with {1} inspection.,在物料主数据上启用 <b>{0}</b> 以继续进行 {1} 检验。
+Enable Accounting Dimensions,启用会计维度
+Enable Appointment Booking Through Portal,启用通过门户预约
+Enable Discounts and Margin,启用折扣和利润率
+Enable Email Notifications for All Users,为所有用户启用电子邮件通知
+Enable Frappe CRM Data Synchronization,启用 Frappe CRM 数据同步
+Enable Item Search Index,启用物料搜索索引
+Enable Loyalty Point Program,启用忠诚度积分计划
+Enable Opportunity Creation from Contact Us,启用从“联系我们”创建商机
+Enable Parallel Reposting,启用并行重新过账
+Enable Separate Reposting for GL,为总账启用单独重新过账
+Enable Serial / Batch Bundle,启用序列/批次捆绑
+Enable Snapshot Reports,启用快照报告
+Enable Subscription,启用订阅
+Enable Subscription tracking in invoice,在发票中启用订阅跟踪
+Enable UTM,启用 UTM
+Enable an Automation Flow only after adding at least one action,仅在添加至少一个操作后启用自动化流程
+Enable bulk edit for child table fields in Form view.,在表单视图中启用子表字段的批量编辑。
+Enable bulk update of this field across child table rows.,启用跨子表行批量更新此字段。
+Enable checkboxes to select multiple records and perform bulk operations.,启用复选框以选择多条记录并执行批量操作。
+Enable cut-off date on creating bulk Delivery Notes,创建批量交货单时启用截止日期
+Enable developer mode to change whether a dock is standard -- it is backed by a file in its app.,启用开发者模式以更改停靠栏是否为标准——它由应用中的文件支持。
+Enable developer mode to change whether a sidebar is standard -- it is backed by a file in its app.,启用开发者模式以更改侧边栏是否为标准——它由应用中的文件支持。
+Enable developer mode to create a standard Print Format Snippet,启用开发者模式以创建标准打印格式片段
+Enable discount accounting for selling,启用销售折扣会计
+Enable for drop shipping - supplier delivers directly to the customer without passing through your warehouse.,为直运启用——供应商直接交付给客户，不经过你的仓库。
+Enable for raw material items used in BOM. Uncheck for additional services like 'washing' used in manufacturing.,对 BOM 中使用的原材料物料启用。对于制造中使用的“洗涤”等附加服务，取消选中。
+Enable if a vendor manufactures this item for you. You can choose to provide them raw materials using the default BOM.,如果供应商为你制造此物料，则启用。你可以选择使用默认 BOM 向他们提供原材料。
+Enable if this item is a company asset like machinery or furniture.,如果此物料是公司资产，例如机器或家具，则启用。
+Enable if this item is provided by a customer and received via Stock Entry.,如果此物料由客户提供并通过库存分录接收，则启用。
+Enable stock reservation,启用库存预留
+Enable the notification type before emailing it to users.,在通过电子邮件发送给用户之前启用通知类型。
+Enable this if you are experiencing issues with the new budget controller. Uses the older budget validation logic,如果你遇到新预算控制器的问题，请启用此项。使用较旧的预算验证逻辑
+Enable this option to include the field in the data import template,启用此选项以在数据导入模板中包含该字段
+Enable this to block transactions where the selling price is less than the purchase or valuation rate,启用此项以阻止销售价格低于采购或估值费率的交易
+Enable to make this supplier selectable as a transporter on Delivery Notes and Stock Entries,启用此项以使此供应商可在交货单和库存分录中选择为承运人
+Enable to reserve a small sample from each batch for any analysis arising ahead,启用此项以从每个批次中预留小样本，以备将来进行分析
+Enable tracking sales commissions,启用销售佣金跟踪
+Enabling email for {0} across all users in the background.,正在后台为所有用户启用 {0} 的电子邮件。
+Enabling requires at least one action and a valid trigger.,启用至少需要一个操作和一个有效的触发器。
+Enabling this option prevents the creation of a new Sales Invoice when the customer has an overdue limit set and their outstanding overdue amount exceeds that limit.,启用此选项可防止在客户设置了逾期限制且其未结逾期金额超过该限制时创建新的销售发票。
+Ends With,以…结尾
+Enter Company Details,输入公司详情
+Enter expressions that will be evaluated when the card is displayed. For example:,输入在显示卡片时将评估的表达式。例如：
+Enter the Item Code that this customer uses at their end. This will be shown in Sales Orders for the customer's reference.,输入此客户在其端使用的物料代码。这将显示在销售订单中供客户参考。
+Enter this code to complete your login.,输入此代码以完成登录。
+Entries,分录
+Error Summary,错误摘要
+Error getting details for {0}: {1},获取 {0} 详情时出错：{1}
+"Error validating ""Ignore User Permissions""",验证“忽略用户权限”时出错
+Event Name,事件名称
+Event Notifications,事件通知
+Event Payload,事件负载
+Event Payload Limit,事件负载限制
+Everyone is back on the dock this app ships,每个人都回到了此应用提供的停靠栏
+Examples:,示例：
+Excess Disassembly,超额拆卸
+Excess Material Transfer,超额物料转移
+Exchange rate {0} does not match the exchange rate of Purchase Receipt {1}. Use the same exchange rate as the Purchase Receipt or enable {2} in {3} to adjust the landed cost based on this invoice.,汇率 {0} 与采购收货 {1} 的汇率不匹配。请使用与采购收货相同的汇率，或在 {3} 中启用 {2} 以根据此发票调整到岸成本。
+Exclude Zero Balance Parties,排除零余额往来方
+Excluded Fee,排除的费用
+Exempted Role,豁免角色
+Existing Asset,现有资产
+Existing Gravatar URLs may still be stored on User and Contact records. Do you want to delete these URLs now?,现有 Gravatar URL 可能仍存储在用户和联系人记录上。你现在要删除这些 URL 吗？
+Exit full screen,退出全屏
+Expand / Collapse All,全部展开/折叠
+Expand all,全部展开
+Expand sidebar,展开侧边栏
+Expand/Collapse,展开/折叠
+Expected Value Based On,预期值基于
+Expected an unsaved Print Format document,预期一个未保存的打印格式文档
+Expense for this item will be recognized over a period of months. Eg: prepaid insurance or annual software license,此物料的费用将在数月内确认。例如：预付保险或年度软件许可证
+Expenses Added To Stock Account,添加到库存账户的费用
+Expenses Added To Stock Contra Account,添加到库存抵销账户的费用
+Expenses Added To Stock for Item {0},物料 {0} 的添加到库存的费用
+Expires At,过期时间
+Export Report: {0},导出报告：{0}
+Export this snippet to its module so it ships with the app. Requires developer mode.,将此片段导出到其模块，以便随应用提供。需要开发者模式。
+Export to app,导出到应用
+Exported to the app,已导出到应用
+Exported to the module and shipped with its app,已导出到模块并随其应用提供
+Extended Bank Statement,扩展银行对账单
+FG Items to Make,要制造的成品物料
+Failed ({0}),失败（{0}）
+Failed to add access.,添加访问权限失败。
+Failed to add user.,添加用户失败。
+Failed to create user.,创建用户失败。
+Failed to load Kanban board,加载看板失败
+Failed to load data.,加载数据失败。
+Failed to load import file,加载导入文件失败
+Failed to load settings,加载设置失败
+Failed to load the import wizard bundle.,加载导入向导包失败。
+Failed to load the import wizard. Please hard-refresh and try again.,加载导入向导失败。请强制刷新并重试。
+Failed to remove permission.,移除权限失败。
+Failed to render template: {0},渲染模板失败：{0}
+Failed to save,保存失败
+Failed to save permission.,保存权限失败。
+Failed to send email for campaign {0} to {1},将营销活动 {0} 的电子邮件发送给 {1} 失败
+Failed to update subscription status for {0} {1},更新 {0} {1} 的订阅状态失败
+Failure Threshold,失败阈值
+Fallback themes,备用主题
+Fast card,快速卡片
+Feedback on your quality from a customer or employee.,来自客户或员工对你质量的反馈。
+Fetch Payment Schedule in Payment Request,在付款请求中获取付款计划
+Fetch valuation rate for internal Transaction,为内部交易获取估值率
+Fetched automatically on sales orders and invoices for this customer.,在此客户的销售订单和发票上自动获取。
+Fetching latest status...,正在获取最新状态…
+Field '{0}' is not a valid Account field,字段“{0}”不是有效的账户字段
+Field '{0}' is not a valid Company link field for DocType {1},字段“{0}”不是单据类型 {1} 的有效公司链接字段
+Field Template block,字段模板块
+Field Value Changed,字段值已更改
+Field Value Changed trigger requires a Trigger Field,字段值已更改触发器需要触发字段
+Field \u201C{0}\u201D no longer exists on {1},字段“{0}”不再存在于 {1} 上
+Field \u201c{0}\u201d no longer exists on {1},字段“{0}”不再存在于 {1} 上
+Field and operator must be strings,字段和运算符必须是字符串
+Field borders,字段边框
+Field is required,字段为必填项
+Field label,字段标签
+Field of the board's reference doctype to show on the card.,要在卡片上显示的看板参考单据类型的字段。
+Field saved as snippet,字段已保存为片段
+Field shown as the card title: ID or a text field.,显示为卡片标题的字段：ID 或文本字段。
+Fieldname Conflict,字段名冲突
+Fieldname on the Settings DocType to surface for this doctype.,设置单据类型上要为此单据类型呈现的字段名。
+Fieldname {0} already exists in the following doctypes: {1}. A separate dimension field will not be added to these doctypes. GL Entries will use the value of the existing field as the dimension value.,字段名 {0} 已存在于以下单据类型中：{1}。不会向这些单据类型添加单独的维度字段。总账分录将使用现有字段的值作为维度值。
+Fields shown on cards and in the hover preview.,在卡片上和悬停预览中显示的字段。
+Fields the board can group cards by (swimlanes). New boards are pre-filled with the doctype's Select fields (except the column field). Add Link fields to offer more groupings; leave empty to hide the Group button.,看板可以按其对卡片进行分组的字段（泳道）。新看板预填了单据类型的 Select 字段（列字段除外）。添加 Link 字段以提供更多分组；留空以隐藏分组按钮。
+Fields the board can group cards into swimlanes by.,看板可以将卡片分组到泳道中的字段。
+Fieldtype of {0} in {1} cannot be changed from {2} to {3},{1} 中 {0} 的字段类型无法从 {2} 更改为 {3}
+"File ""{0}"" was skipped because only {1} uploads are allowed",文件“{0}”已跳过，因为只允许 {1} 上传
+"File ""{0}"" was skipped because only {1} uploads are allowed for DocType ""{2}""",文件“{0}”已跳过，因为单据类型“{2}”只允许 {1} 上传
+"File ""{0}"" was skipped because size exceeds {1} MB",文件“{0}”已跳过，因为大小超过 {1} MB
+File does not belong to this Transaction Deletion Record,文件不属于此交易删除记录
+File not found,未找到文件
+File not found on server,服务器上未找到文件
+File upload,文件上传
+Filter import log,筛选导入日志
+Filter must be a list or dict,筛选器必须是列表或字典
+Filter nodes,筛选器节点
+Filtered relationship queries require one target DocType,筛选的关系查询需要一个目标单据类型
+Filters & Sorting,筛选和排序
+Filters applied,已应用筛选器
+Filters applied to Link queries and Attachment Gallery files.,应用于链接查询和附件库文件的筛选器。
+Financial Report Row,财务报告行
+Financial Report Template {0} is disabled,财务报告模板 {0} 已禁用
+Financial Report Template {0} not found,未找到财务报告模板 {0}
+Fingerprint,指纹
+Fingerprint Stats,指纹统计
+Finish {0} to finish this step.,完成 {0} 以完成此步骤。
+Finished Good Batch No,成品批次号
+Finished Good Serial / Batch No,成品序列/批次号
+Finished Good Serial No,成品序列号
+Finished good batch this raw material was consumed into (Manufacture / Repack),此原材料消耗到的成品批次（制造/重新包装）
+Finished good mapping can't be changed for a cancelled entry,已取消分录的成品映射无法更改
+Finished good mapping is only allowed for Manufacture and Repack entries,仅制造和重新包装分录允许成品映射
+Finished good serial no this raw material was consumed into (Manufacture / Repack),此原材料消耗到的成品序列号（制造/重新包装）
+Finishing up...,正在完成…
+First Difference per Item-Warehouse,每个物料-仓库的第一个差异
+First Seen,首次出现
+First Used On,首次使用于
+Fiscal Year (requires ERPNext to be installed),会计年度（需要安装 ERPNext）
+Fiscal Year Details,会计年度详情
+Fiscal Year {0} is not available for Company {1}.,会计年度 {0} 不可用于公司 {1}。
+Fix Differences,修复差异
+Fix issues,修复问题
+Fix issues summary,修复问题摘要
+Fixed text like a title or a note,固定文本，如标题或注释
+Floating,浮动
+Follows a promise,遵循承诺
+Font Size (px),字体大小（像素）
+Font size,字体大小
+Footer Date,页脚日期
+For Qty,对于数量
+For Warehouse {0} must be a non-group warehouse under {1}.,对于仓库 {0}，必须是 {1} 下的非组仓库。
+For everyone,对所有人
+For {0},对于 {0}
+Force a new page,强制新页
+Forced the {0} branch,强制采用 {0} 分支
+Forgot password?,忘记密码？
+Formatting options,格式选项
+Forms,表单
+Formula evaluation error: {0},公式评估错误：{0}
+Formula has unbalanced parentheses,公式括号不平衡
+Formula or Account Filter,公式或账户筛选器
+Formula references itself ('{0}'),公式引用自身（“{0}”）
+Forum,论坛
+Frappe CRM Allowed User,Frappe CRM 允许的用户
+Frappe CRM data synchronization is not enabled on ERPNext. Contact System Manager of ERPNext.,ERPNext 上未启用 Frappe CRM 数据同步。请联系 ERPNext 的系统管理员。
+Frappe Framework Version,Frappe 框架版本
+Frappe School,Frappe 学校
+Free,免费
+Freeze stocks older than (days),冻结早于（天）的库存
+From BOM No,从 BOM 编号
+From Date cannot be after As On Date,起始日期不能晚于截止日期
+From Fiscal Year cannot be greater than To Fiscal Year,起始会计年度不能大于结束会计年度
+From Reference Date cannot be greater than To Reference Date,起始参考日期不能大于结束参考日期
+From Value,起始值
+Frozen - entries restricted,已冻结 - 分录受限
+"Frozen suppliers block new transactions and ledger entries until unfrozen. Only users with the role set in Company's ""Roles Allowed to Set and Edit Frozen Account Entries"" can transact.",冻结供应商会阻止新交易和分类账分录，直到解冻。只有具有公司“允许设置和编辑冻结账户分录的角色”中设置的角色的用户才能交易。
+Full name is required.,全名为必填项。
+Full screen,全屏
+G - H,G - H
+GL Reposting Entries,总账重新过账分录
+GL reposting entries created: {0},已创建总账重新过账分录：{0}
+GL reposting is not allowed against the voucher type {0}.,不允许针对凭证类型 {0} 进行总账重新过账。
+GTIN-14,GTIN-14
+Gantt View Mode,甘特图视图模式
+Gap,间隙
+General Ledger Report,总账报告
+General Ledger remarks length,总账备注长度
+General Ledger requires {0} to be synced to DuckDB,总账需要将 {0} 同步到 DuckDB
+General information about your Supplier,关于你供应商的一般信息
+Generate To Delete List,生成要删除列表
+Generate To Delete list first,首先生成要删除列表
+Generating PDF...,正在生成 PDF…
+Generating preview\u2026,正在生成预览…
+Generating preview…,正在生成预览…
+Geo,地理
+Get Secondary Items,获取次要物料
+Get Started,开始
+Get around the system quickly with keyboard shortcuts.,使用键盘快捷键快速浏览系统。
+Get notified when a recipient opens an email you send.,当收件人打开你发送的电子邮件时获得通知。
+Get notified when there's a new reply in an email thread you're part of.,当你参与的电子邮件线程中有新回复时获得通知。
+Getting Secondary Items,正在获取次要物料
+Getting started,入门
+Give the version a name,给版本命名
+Global,全局
+Global Layouts,全局布局
+Global Search,全局搜索
+Global search updated,全局搜索已更新
+Go back to the current version before applying,在应用前返回当前版本
+Go to <a href='/banking/statement-importer' target='_blank' style='text-decoration: underline;'>Bank Statement Importer</a> in the Banking module to use this importer.,转到银行模块中的 <a href='/banking/statement-importer' target='_blank' style='text-decoration: underline;'>银行对账单导入器</a> 以使用此导入器。
+Go to Access Control section,转到访问控制部分
+Go to list,转到列表
+Go to the <a href='/banking' target='_blank' style='text-decoration: underline;'>Banking module</a> to setup this rule.,转到 <a href='/banking' target='_blank' style='text-decoration: underline;'>银行模块</a> 以设置此规则。
+Going to Projects,转到项目
+Good,良好
+Google Sheet,Google 表格
+Grand Total (Transaction Currency),总计（交易货币）
+Grand Total must match sum of Payment References,总计必须等于付款参考之和
+Granted,已授予
+Gravatar URL deletion has been queued.,Gravatar URL 删除已排队。
+Gravatar URLs will not be deleted.,Gravatar URL 将不会被删除。
+Great,很好
+Grid,网格
+Grid lines,网格线
+Gross Total,总计
+Group Name,组名称
+Groups accounts into the lines your financial statements show.,将账户分组到你的财务报表显示的行中。
+Groups and submenus,组和子菜单
+Groups assets that share accounts and depreciation rules.,对共享账户和折旧规则的资产进行分组。
+Guests are not allowed to upload files for {0} Doctype,不允许访客为 {0} 单据类型上传文件
+HR-DRI-.YYYY.-,HR-DRI-.YYYY.-
+HR-EMP-,HR-EMP-
+HTML block,HTML 块
+HTML message with inline link,带有内联链接的 HTML 消息
+Half Day,半天
+Handlers,处理器
+Has Operating Cost,有运营成本
+Have default Naming Series for Batch ID?,是否有默认的批次 ID 命名系列？
+Header Text,页眉文本
+Heading {0},标题 {0}
+Headline of the in-app notification. Falls back to Subject if left blank. Supports Jinja.,应用内通知的标题。如果留空，则回退到主题。支持 Jinja。
+Height,高度
+Hidden Line (Internal Use Only),隐藏行（仅限内部使用）
+Hide Customer's Tax ID from sales transactions,在销售交易中隐藏客户的税号
+Hide If Zero,如果为零则隐藏
+Hide colon,隐藏冒号
+Hide this line if amount is zero,如果金额为零则隐藏此行
+Holiday List - {0} is not valid for current date.,假日列表 - {0} 对当前日期无效。
+Horizontal,with icons
+Horizontal rule,水平线
+Hover me,悬停在我上面
+How big is the team?,团队有多大？
+How cards look in the new Kanban experience.,卡片在新看板体验中的外观。
+How do you want to start?,你想如何开始？
+How fast issues must be answered and resolved.,问题必须多快得到答复和解决。
+How it reads on the rail.,它在侧边栏上的显示方式。
+How long a claimed row may stay Running before it is assumed crashed and requeued.,已认领行在被假定崩溃并重新排队之前可以保持运行状态的时间。
+How long it takes to get or make an item.,获取或制造物料所需的时间。
+How many times an automation may trigger another before the chain is refused.,自动化在链被拒绝之前可以触发另一个自动化的次数。
+How many units of the final product this BOM makes.,此 BOM 制造多少单位的最终产品。
+How much a cost center or project may spend over a fiscal year.,成本中心或项目在一个会计年度内可以花费多少。
+How much faster an asset depreciates on a given shift.,资产在给定班次上折旧快多少。
+How often should project be updated of Total Purchase Cost ?,项目应多久更新一次总采购成本？
+How often should sales data be updated in Company/Project?,公司/项目中的销售数据应多久更新一次？
+How this line gets its data,此行如何获取数据
+How to format and present values in the financial report (only if different from column fieldtype),如何在财务报告中格式化和呈现值（仅当与列字段类型不同时）
+How urgent an issue is.,问题有多紧急。
+ID or a text field.,ID 或文本字段。
+IMPORTANT: Create a backup before proceeding!,重要：在继续之前创建备份！
+IP address:,IP 地址：
+ISS-.YYYY.-,ISS-.YYYY.-
+Icon-only pills (label becomes the accessible name),仅图标胶囊（标签成为可访问名称）
+Icons,图标
+If,如果
+If this was you:,如果这是你：
+If this wasn't you:,如果这不是你：
+Ignore Account closing balance,忽略账户期末余额
+Ignore Differences Below,忽略以下差异
+Ignore Tax Withholding Threshold,忽略预扣税阈值
+Image loaded from a web address,从网址加载的图像
+Image size,图像大小
+Import Action,导入操作
+Import Employees,导入员工
+Import Summary,导入摘要
+Import could not start. Please resolve the errors in the import file.,导入无法开始。请解决导入文件中的错误。
+Import failed,导入失败
+Import is running. Progress updates will appear shortly.,导入正在运行。进度更新将很快出现。
+Import log,导入日志
+Import settings,导入设置
+Import steps,导入步骤
+Import {0},导入 {0}
+Imported,已导入
+Imported {0} DocTypes,已导入 {0} 个单据类型
+Importing,正在导入
+Importing Code Lists from remote URLs is not allowed.,不允许从远程 URL 导入代码列表。
+Importing row {0} of {1},正在导入第 {0} 行，共 {1} 行
+Importing your data,正在导入你的数据
+Include Returned Invoices (Stand-alone),包含退回发票（独立）
+Include Revaluation Journals,包含重估日记账
+Include in Charts,包含在图表中
+Include in Import Template,包含在导入模板中
+Include {0} in global search,在全局搜索中包含 {0}
+Included Fee,包含的费用
+Included fee is bigger than the withdrawal itself.,包含的费用大于提款本身。
+Income Account Validation Error,收入账户验证错误
+Income and Expense,收入和费用
+Income from this item will be recognized over a period of months instead of all at once. Eg: annual subscription paid upfront.,此物料的收入将在数月内确认，而不是一次性确认。例如：预付年度订阅。
+Incompatible Values,不兼容的值
+Incorrect Account,账户不正确
+Incorrect Company,公司不正确
+Incorrect Inventory Dimension,库存维度不正确
+Incorrect Stock Asset Account in {0},{0} 中的库存资产账户不正确
+Incorrect configuration,配置不正确
+Increase,增加
+Increase indent,增加缩进
+Indent Level,缩进级别
+Inherit,继承
+Insert Column Left,在左侧插入列
+Insert Column Right,在右侧插入列
+Insert Row Above,在上方插入行
+Insert Row Below,在下方插入行
+Insert Table,插入表格
+Insert image,插入图像
+Insert link,插入链接
+Insert or Update Records,插入或更新记录
+Insert video,插入视频
+Inserted,已插入
+Insufficient Stock for Product Bundle Items,产品捆绑包物料库存不足
+Interactive content (a filters panel),交互式内容（筛选器面板）
+Internal Customer Accounting,内部客户会计
+Internal Customer Already Exists,内部客户已存在
+Internal Customer {0} already exists for {1}. Disable it to make this Customer internal.,内部客户 {0} 已存在于 {1}。禁用它以使此客户成为内部客户。
+Internal Supplier Already Exists,内部供应商已存在
+Internal Supplier Details,内部供应商详情
+Internal Supplier {0} already exists for {1}. Disable it to make this Supplier internal.,内部供应商 {0} 已存在于 {1}。禁用它以使此供应商成为内部供应商。
+Internal Transfer Rules,内部转移规则
+Internal notes about this customer. Not visible on transactions or the portal.,关于此客户的内部备注。在交易或门户上不可见。
+Interval,间隔
+Intervals,间隔
+Invalid Accounting Dimension,无效的会计维度
+Invalid Attribute Values,无效的属性值
+Invalid Bank Account,无效的银行账户
+Invalid CSV format. Expected column: doctype_name,无效的 CSV 格式。预期列：doctype_name
+Invalid Company Field,无效的公司字段
+Invalid Condition,无效的条件
+Invalid Customer Group,无效的客户组
+Invalid Disassembly Item,无效的拆卸物料
+Invalid Disassembly Quantity,无效的拆卸数量
+Invalid Discount Amount,无效的折扣金额
+Invalid Document Type {0},无效的文档类型 {0}
+Invalid File Type,无效的文件类型
+Invalid Filters for field {0}. Filters must be valid JSON.,字段 {0} 的筛选器无效。筛选器必须是有效的 JSON。
+Invalid JSON,无效的 JSON
+Invalid JSON format: {0},无效的 JSON 格式：{0}
+Invalid POS Field,无效的 POS 字段
+Invalid POS Fields,无效的 POS 字段
+Invalid POS Search Field,无效的 POS 搜索字段
+Invalid Package Name,无效的包名称
+Invalid Price List,无效的价格表
+Invalid Reading,无效的读数
+Invalid Sample Size,无效的样本大小
+Invalid Shipping Account,无效的运费账户
+Invalid Snippet,无效的片段
+Invalid Source and Target Warehouse,无效的源仓库和目标仓库
+Invalid Tree Type {0},无效的树类型 {0}
+Invalid Typst block,无效的 Typst 块
+Invalid Typst markup,无效的 Typst 标记
+Invalid Upload,无效的上传
+Invalid Valuation Method,无效的估值方法
+Invalid Web Form Request,无效的网页表单请求
+Invalid Website Theme Name,无效的网站主题名称
+Invalid action,无效的操作
+Invalid address,无效的地址
+Invalid aggregate function: {0},无效的聚合函数：{0}
+Invalid arguments,无效的参数
+Invalid automation relationship definition,无效的自动化关系定义
+Invalid backup path,无效的备份路径
+Invalid cron expression: {0},无效的 cron 表达式：{0}
+Invalid debit/credit formula: {0},无效的借方/贷方公式：{0}
+Invalid doctype,无效的单据类型
+Invalid doctype {0},无效的单据类型 {0}
+Invalid document type,无效的文档类型
+Invalid expression in Web Form Dynamic Filter for {0}: {1},{0} 的网页表单动态筛选器中的表达式无效：{1}
+Invalid file URL,无效的文件 URL
+Invalid file name,无效的文件名
+Invalid filter,无效的筛选器
+Invalid filter formula. Please check the syntax.,无效的筛选公式。请检查语法。
+Invalid format. Supported formats are {0},无效的格式。支持的格式为 {0}
+Invalid group field,无效的分组字段
+Invalid name,无效的名称
+Invalid operator '{0}',无效的运算符“{0}”
+Invalid operator {0},无效的运算符 {0}
+Invalid or expired key,无效或过期的密钥
+Invalid parameter. 'dn' should be of type str,无效参数。“dn”应为 str 类型
+Invalid reference,无效的引用
+Invalid regex pattern.,无效的正则表达式模式。
+Invalid sort order,无效的排序顺序
+Invalid tax master doctype,无效的税主数据单据类型
+Invalid type,无效的类型
+Invalid value for {0},{0} 的值无效
+Invalid value {0} for 'Based On',“基于”的值 {0} 无效
+Invalid value {0} for 'Doctype',“单据类型”的值 {0} 无效
+Invalid values for fields:,字段值无效：
+Inventory Valuation,库存估值
+Invitation resent,邀请已重新发送
+Invoice is not blocked. Block the invoice to change the release date.,发票未被阻止。阻止发票以更改发布日期。
+Invoiced Amount (Excl. Tax),已开票金额（不含税）
+Is Credit Card,是信用卡
+Is Default Module,是默认模块
+Is Delivery Note required to create Sales Invoice?,创建销售发票是否需要交货单？
+Is Dismissible,可忽略
+Is Half Day,是半天
+Is Optional,可选
+Is Phantom BOM,是虚拟 BOM
+Is Phantom Item,是虚拟物料
+Is Purchase Order required for Purchase Invoice & Receipt creation?,创建采购发票和采购收货是否需要采购订单？
+Is Purchase Receipt required for Purchase Invoice creation?,创建采购发票是否需要采购收货？
+Is Rule Evaluated,规则已评估
+Is Sales Order required to create Sales Invoice/Delivery Note?,创建销售发票/交货单是否需要销售订单？
+Issue a debit note against an existing Sales Invoice to adjust the rate. The quantity will be retained from the original invoice.,针对现有销售发票开具借项通知单以调整费率。数量将保留自原始发票。
+It expires in 1 minute.,它在 1 分钟后过期。
+It expires in {0} minutes.,它在 {0} 分钟后过期。
+It has no stock transactions by then.,届时它没有库存交易。
+Italic,斜体
+Italic Text,斜体文本
+Italic text for subtotals or notes,用于小计或注释的斜体文本
+Item,物料
+Item Attributes,物料属性
+Item Out of Stock,物料缺货
+Item Price added for {0} in Price List - {1},已在价格表 - {1} 中为 {0} 添加物料价格
+Item Price created at rate {0},已按费率 {0} 创建物料价格
+Item Restricted for Party,物料对往来方受限
+Item Row,物料行
+Item Where Used,物料使用位置
+Item Wise Consumption,按物料消耗
+Item Wise Tax Details,按物料税详情
+Item Wise Tax Details do not match with Taxes and Charges at the following rows:,按物料税详情与以下行的税费不匹配：
+Item rates have been updated based on the selected Buying Price List {0},物料费率已根据所选采购价格表 {0} 更新
+Item with name {0} not found in the Purchase Order,在采购订单中未找到名称为 {0} 的物料
+Item {0} added multiple times under the same parent item {1} at rows {2} and {3},物料 {0} 在同一父物料 {1} 下的第 {2} 和 {3} 行多次添加
+Item {0} cannot be ordered more than once,物料 {0} 不能订购多次
+Item {0} has no changes in delivered quantity. Please unselect the row if you do not wish to update its quantity.,物料 {0} 的已交付数量没有变化。如果你不希望更新其数量，请取消选择该行。
+Item {0} in Warehouse {1} cannot be adjusted on {2}: {3},仓库 {1} 中的物料 {0} 无法在 {2} 上调整：{3}
+Item {0} is not a drop ship item. Only drop ship items can have Delivered Qty updated.,物料 {0} 不是直运物料。只有直运物料才能更新已交付数量。
+Item {0} is not a template item.,物料 {0} 不是模板物料。
+Item {0}: Ordered qty {1} {2} exceeds the minimum order qty {3} {2} by {4} {2} due to purchase UOM rounding.,物料 {0}：由于采购计量单位舍入，订购数量 {1} {2} 超过最小订购数量 {3} {2}，超出 {4} {2}。
+Items must be a list of Item codes,物料必须是物料代码列表
+Items not found.,未找到物料。
+Items received from a subcontractor.,从分包商收到的物料。
+Items received from a supplier.,从供应商收到的物料。
+Items shipped to a customer.,发货给客户的物料。
+Its difference on {0} is not before the adjustment date.,其在 {0} 上的差异不在调整日期之前。
+Its sidebar is derived from the module that owns it.,其侧边栏派生自拥有它的模块。
+Its stock qty and value are already right on this date.,其库存数量和值在此日期已经正确。
+JSON value must be an object,JSON 值必须是对象
+Job Card On Hold,作业卡暂停
+Job Card Secondary Item,作业卡次要物料
+Job Worker Currency,工作中心货币
+Job was not running; status updated.,作业未运行；状态已更新。
+Just for me,仅为我
+K,K
+Kanban Board Field,看板字段
+Kanban Board Group Field,看板分组字段
+Kanban Board {0} not found.,未找到看板 {0}。
+Kanban Settings,看板设置
+Keep Gravatar URLs,保留 Gravatar URL
+Keep scanner open after scan,扫描后保持扫描器打开
+Keep together,保持在一起
+Key Required,需要密钥
+Key required,需要密钥
+Kh,Kh
+Kind,类型
+L,L
+Label Color,标签颜色
+Label gap,标签间隙
+Label side,标签侧
+Last Edited By You,最后由你编辑
+Last Edited By {0},最后由 {0} 编辑
+Last Seen,最后出现
+Last modified by,最后修改人
+Last modified on,最后修改于
+Later Stock Closing Entry Exists,存在较晚的库存结账分录
+Layers,层
+Layout <b>{0}</b> created,布局 <b>{0}</b> 已创建
+Layout <b>{0}</b> deleted,布局 <b>{0}</b> 已删除
+Layout <b>{0}</b> updated,布局 <b>{0}</b> 已更新
+Layout Order,布局顺序
+Layout and fields used by the new Kanban experience for this board.,此看板的新看板体验使用的布局和字段。
+Layout name,布局名称
+Layout name is required,布局名称为必填项
+Layouts you create will show up here.,你创建的布局将显示在此处。
+Leave anyway,仍然离开
+Leave as 0 to allow zero valuation rate.,保留为 0 以允许零估值率。
+Leave blank to inherit the app-shipped color.,留空以继承应用提供的颜色。
+Leave blank to inherit the app-shipped icon.,留空以继承应用提供的图标。
+Leave blank to make this snippet available for all document types,留空以使此片段可用于所有文档类型
+Leave blank to make this template available in all print formats,留空以使此模板可用于所有打印格式
+Leave blank to show every row. Reference the row with,留空以显示每一行。引用该行使用
+Leave empty to grant {0} directly.,留空以直接授予 {0}。
+Leave it empty to keep the one it inherits.,将其留空以保留它继承的那个。
+Leaves the desk. It has no sidebar.,离开桌面。它没有侧边栏。
+Ledger Type,分类账类型
+Ledgers Posted,已过账分类账
+Legacy html content (frappe.show_alert),旧版 HTML 内容（frappe.show_alert）
+Let's get the basics right,让我们把基础设置好
+Let's get your workspace ready. It only takes a few minutes.,让我们准备好你的工作区。只需几分钟。
+Let's setup your account.,让我们设置你的账户。
+Letter head changes are saved right away and apply to every print format that uses it.,信头更改会立即保存，并应用于使用它的每个打印格式。
+Letterhead footer with HTML content,带有 HTML 内容的信头页脚
+Letterhead image loaded from a web address,从网址加载的信头图像
+Letterhead with HTML content,带有 HTML 内容的信头
+Letterhead with custom CSS,带有自定义 CSS 的信头
+Limits,限制
+Line Reference,行引用
+Link the Serial and Batch Bundles of the raw materials and finished goods first. Serial / batch nos picked on submit can be mapped after the entry is submitted.,首先链接原材料和成品的序列和批次捆绑。提交时选取的序列号/批次号可以在分录提交后映射。
+Linked Field,链接字段
+Links To,链接到
+List virtualization failed to load. Rendering full list.,列表虚拟化加载失败。正在渲染完整列表。
+Lists,列表
+Live (next / previous on the first stepper above),实时（在上方第一个步进器上下一个/上一个）
+Live (updates via set_value),实时（通过 set_value 更新）
+Live activity updates will appear here.,实时活动更新将显示在此处。
+Load More Communications,加载更多通信
+Load a document to see live status,加载文档以查看实时状态
+Load the template from a file in a module instead of the Template field. Requires developer mode.,从模块中的文件加载模板，而不是从模板字段。需要开发者模式。
+Loading error stats...,正在加载错误统计…
+Loading full tree...,正在加载完整树…
+Loading groups\u2026,正在加载分组…
+Loading groups…,正在加载分组…
+Loading import log,正在加载导入日志
+Loading import preview...,正在加载导入预览…
+Loading preview...,正在加载预览…
+Loading tree preview...,正在加载树预览…
+Locale,区域设置
+Locked steps,已锁定步骤
+Logical condition must have exactly one operator,逻辑条件必须恰好有一个运算符
+Logical conditions need at least 1 sub-condition,逻辑条件至少需要 1 个子条件
+Logical operators must be 'and' or 'or',逻辑运算符必须是“and”或“or”
+Login or a request key is required to see web form list view. Enable {0} to see list settings,查看网页表单列表视图需要登录或请求密钥。启用 {0} 以查看列表设置
+Login to {0},登录到 {0}
+Login with password,使用密码登录
+Long,长
+Long current page (truncates),长当前页（截断）
+Long text (wraps),长文本（换行）
+Loyalty scheme this customer earns points under. Auto-assigned if a matching program exists.,此客户赚取积分的忠诚度计划。如果存在匹配的计划，则自动分配。
+M,M
+MAT-DN-.YYYY.-,MAT-DN-.YYYY.-
+MAT-DN-RET-.YYYY.-,MAT-DN-RET-.YYYY.-
+MAT-DT-.YYYY.-,MAT-DT-.YYYY.-
+MAT-INS-.YYYY.-,MAT-INS-.YYYY.-
+MAT-LCV-.YYYY.-,MAT-LCV-.YYYY.-
+MAT-MR-.YYYY.-,MAT-MR-.YYYY.-
+MAT-MSH-.YYYY.-,MAT-MSH-.YYYY.-
+MAT-MVS-.YYYY.-,MAT-MVS-.YYYY.-
+MAT-PAC-.YYYY.-,MAT-PAC-.YYYY.-
+MAT-PR-RET-.YYYY.-,MAT-PR-RET-.YYYY.-
+MAT-PRE-.YYYY.-,MAT-PRE-.YYYY.-
+MAT-QA-.YYYY.-,MAT-QA-.YYYY.-
+MAT-RECO-.YYYY.-,MAT-RECO-.YYYY.-
+MAT-SCR-.YYYY.-,MAT-SCR-.YYYY.-
+MAT-SCR-RET-.YYYY.-,MAT-SCR-RET-.YYYY.-
+MAT-STE-.YYYY.-,MAT-STE-.YYYY.-
+MFG-BLR-.YYYY.-,MFG-BLR-.YYYY.-
+MFG-PP-.YYYY.-,MFG-PP-.YYYY.-
+MFG-WO-.YYYY.-,MFG-WO-.YYYY.-
+MPS.YY.-.######,MPS.YY.-.######
+Main Item Code,主物料代码
+Maintain same rate throughout internal Transaction,在整个内部交易中保持相同费率
+Maintain same rate throughout sales cycle,在整个销售周期中保持相同费率
+Make Adjustment Entry,创建调整分录
+Malformed Address Header,格式错误的地址头
+Manage,管理
+Manage Dock,管理停靠栏
+Manage Layouts,管理布局
+Manage Workspaces,管理工作区
+Manage priority,管理优先级
+Manage sales partner's and sales team's commissions,管理销售合作伙伴和销售团队的佣金
+Manage your preferences,管理你的偏好
+Manage your profile information and display picture.,管理你的个人资料信息和显示图片。
+Manage {0} Dock,管理 {0} 停靠栏
+Manage {0} Sidebar,管理 {0} 侧边栏
+Mandatory Depends On (Backend),必填依赖（后端）
+Mandatory fields required:,必填字段：
+Manual,手动
+Manufactured Qty (including Process Loss),制造数量（包括工艺损耗）
+Map Raw Materials to Finished Goods,将原材料映射到成品
+Map To,映射到
+Map each file column to a field. Save to apply changes.,将每个文件列映射到字段。保存以应用更改。
+Mapping must be a dictionary of raw material entries to finished goods,映射必须是原材料条目到成品的字典
+Mapping saved,映射已保存
+Mapping warnings,映射警告
+Mappings,映射
+Maps To,映射到
+Margin,利润率
+Margins (mm),边距（毫米）
+Mark as Closed,标记为已关闭
+Mark as Standard,标记为标准
+Mark as group,标记为组
+Mark as leaf,标记为叶子
+Mark if this customer represents an internal company. Enables inter-company transactions.,如果此客户代表内部公司，则标记。启用公司间交易。
+Match Fields,匹配字段
+Match transfers within 'N' days,在“N”天内匹配转移
+Matched,已匹配
+Matched Transaction Rule,匹配的交易规则
+Matches payments to invoices in the background.,在后台将付款与发票匹配。
+Matches the event name passed to emit().,匹配传递给 emit() 的事件名称。
+Material Request already created for the ordered quantity,已为订购数量创建物料请求
+Material Request must be submitted to create Work Orders,必须提交物料请求才能创建工单
+Max Bulk Print Documents,最大批量打印文档数
+Max Concurrent Bulk Exports Per User,每用户最大并发批量导出数
+Max Zip Extract Size (MB),最大 ZIP 解压大小（MB）
+Maximum Attempts,最大尝试次数
+Maximum Producible Items,最大可生产物料数
+Maximum Recursion Depth,最大递归深度
+Maximum number of bulk PDF export jobs a single user can have queued or running at once.,单个用户一次可以排队或运行的最大批量 PDF 导出作业数。
+Maximum number of documents that can be combined into a single bulk PDF export.,可以合并到单个批量 PDF 导出中的最大文档数。
+Maximum total size a ZIP archive is allowed to expand to when extracted.,解压时允许 ZIP 存档扩展到的最大总大小。
+Maybe,也许
+Meaning of Different Permission Types,不同权限类型的含义
+Merge fields,合并字段
+Merge similar Account Heads,合并相似的账户头
+Merged From,合并自
+Merged table columns,合并的表格列
+Messaging CRM Campaign,消息 CRM 营销活动
+Method '{0}' must be whitelisted and permit GET requests,方法“{0}”必须列入白名单并允许 GET 请求
+Method {0} is not allowed to be run on a Job Card.,不允许在作业卡上运行方法 {0}。
+Method {0} must permit GET requests,方法 {0} 必须允许 GET 请求
+Min amount cannot be greater than max amount.,最小金额不能大于最大金额。
+Min height,最小高度
+Minimize,最小化
+Minimum stock level to maintain as a buffer. Used to calculate recommended reorder level: Reorder Level = Safety Stock + (Average Daily Consumption × Lead Time).,作为缓冲维持的最低库存水平。用于计算建议再订货水平：再订货水平 = 安全库存 +（日均消耗 × 提前期）。
+Miscellaneous,杂项
+Missing Accounting Dimension,缺少会计维度
+Missing Company,缺少公司
+Missing Dependency,缺少依赖
+Missing Parameter,缺少参数
+Missing Required Filter,缺少必需的筛选器
+Missing Warehouse,缺少仓库
+Missing required filter: {0},缺少必需的筛选器：{0}
+Mixed,混合
+Modified,已修改
+Modified By,修改人
+Module (for Export),模块（用于导出）
+Module is required for a standard Kanban Board,标准看板需要模块
+Module is required for a standard Print Format Snippet,标准打印格式片段需要模块
+Module is required for a standard Print Template,标准打印模板需要模块
+Module is required for a standard layout,标准布局需要模块
+Module {0} is now shipped by {1}; this site's module of that name is now {2}.,模块 {0} 现在由 {1} 提供；此站点上该名称的模块现在是 {2}。
+More actions,更多操作
+More options,更多选项
+More send options,更多发送选项
+Most Customers have a unique Tax ID that is fetched into selling transactions. Enable this setting if you do not want Customer Tax IDs to appear in sales transactions.,大多数客户都有唯一的税号，该税号会获取到销售交易中。如果你不希望客户税号出现在销售交易中，请启用此设置。
+Mount On,挂载于
+Move to,移动到
+Move to...,移动到...
+Move to\u2026,移动到…
+Move to…,移动到…
+Move {0},移动 {0}
+Moves an asset to another location or person.,将资产移动到另一个位置或人员。
+Moving {0},正在移动 {0}
+Multiple Accounts,多个账户
+Multiple actions (create button + docs link),多个操作（创建按钮 + 文档链接）
+Multiple company fields available: {0}. Please select manually.,有多个公司字段可用：{0}。请手动选择。
+Mute sounds,静音
+Muted,已静音
+My Action,我的操作
+My Bulk,我的批量
+My Filter,我的筛选器
+My Space,我的空间
+Named record alias this action operates on.,此操作所操作的命名记录别名。
+Naming Rules,命名规则
+Naming Series options,命名系列选项
+Naming Series updated,命名系列已更新
+Naming series '{0}' for DocType '{1}' does not contain standard '.' or '{{' separator. Using fallback extraction.,单据类型“{1}”的命名系列“{0}”不包含标准“.”或“{{”分隔符。使用回退提取。
+Narrow down the list.,缩小列表范围。
+Navigate list down,向下导航列表
+Navigate list up,向上导航列表
+Navigation on the desktop has two modes:,桌面上的导航有两种模式：
+Need Workspace Manager role to edit public workspaces.,需要工作区管理员角色才能编辑公共工作区。
+Negative Batch Report,负批次报告
+Negative Stock,负库存
+New Fiscal Year - {0},新会计年度 - {0}
+New Format Name,新格式名称
+New Journal Entry will be posted for the difference amount. The Posting Date can be modified.,将针对差异金额过账新的日记账分录。过账日期可以修改。
+New Kanban,新看板
+New Parent,新父项
+New Print Format,新打印格式
+New Sales Invoices are blocked when the customer's overdue amount exceeds this. Requires 'Restrict Customer Over Billing' in Accounts Settings.,当客户的逾期金额超过此值时，新的销售发票将被阻止。需要在账户设置中启用“限制客户超额开票”。
+New Template,新模板
+New Workflow,新工作流
+New login to the Administrator account,管理员账户的新登录
+New revised budget created successfully,新修订预算创建成功
+Next Run,下次运行
+Next page,下一页
+Next step,下一步
+Next: {0},下一步：{0}
+No <strong>Account Data</strong> row found,未找到 <strong>账户数据</strong> 行
+No Company Found,未找到公司
+No DocTypes in To Delete list. Please generate or import the list before submitting.,要删除列表中没有单据类型。请在提交前生成或导入列表。
+No Email Templates found,未找到电子邮件模板
+No HTML content yet.,尚无 HTML 内容。
+No Items with Bill of Materials to Manufacture or all items already manufactured,没有带物料清单要制造的物料，或所有物料已制造
+No Kanban Board specified.,未指定看板。
+No Matching Vouchers Found,未找到匹配的凭证
+No Material Request created,未创建物料请求
+No New Notifications,没有新通知
+No Print Formats found,未找到打印格式
+No Role Profiles include this role.,没有角色配置文件包含此角色。
+No Tables Detected,未检测到表格
+No Tax withholding account set for Company {0} in Tax Withholding Category {1}.,在预扣税类别 {1} 中未为公司 {0} 设置预扣税账户。
+No Workflows found,未找到工作流
+No access,无访问权限
+No account set,未设置账户
+No actions available,没有可用操作
+No active item prices found.,未找到有效的物料价格。
+No active user found with email address {0},未找到电子邮件地址为 {0} 的有效用户
+No addresses added yet,尚未添加地址
+No attachments,无附件
+No availability of slots are found. Please add on Appointment Booking Settings.,未找到可用时间段。请在预约预订设置中添加。
+No available parents,没有可用的父项
+No barcode value \u2014 set one in the panel,无条形码值——在面板中设置一个
+No barcode value — set one in the panel,无条形码值——在面板中设置一个
+No cards to group.,没有可分组的卡片。
+No charts or cards yet,尚无图表或卡片
+No columns configured,未配置列
+No contact details,无联系方式
+No contacts added yet,尚未添加联系人
+No data yet,尚无数据
+No default warehouse set for this company. Entry will use Stock Settings default.,未为此公司设置默认仓库。分录将使用库存设置默认值。
+No delay,无延迟
+No document available to preview,没有可预览的文档
+No document to preview,没有可预览的文档
+No documents added.,未添加文档。
+No documents found.,未找到文档。
+No editable fields available for bulk edit.,没有可用于批量编辑的可编辑字段。
+No email account associated with the User. Please add an account under User > Settings > User Emails.,没有与用户关联的电子邮件账户。请在用户 > 设置 > 用户电子邮件下添加账户。
+No email found for {0} {1},未找到 {0} {1} 的电子邮件
+No error log found for this import.,未找到此导入的错误日志。
+No failed log entries,没有失败的日志条目
+No fields match,没有匹配的字段
+No file uploaded or URL provided.,未上传文件或未提供 URL。
+No filters available for this report,此报告没有可用的筛选器
+No image \u2014 set one in the panel,无图像——在面板中设置一个
+No image — set one in the panel,无图像——在面板中设置一个
+No invoices yet,尚无发票
+No issues to fix,没有要修复的问题
+No letter head,无信头
+No linked field set,未设置链接字段
+No matching field,没有匹配的字段
+No matching records,没有匹配的记录
+No matching records.,没有匹配的记录。
+No module,无模块
+No naming series defined,未定义命名系列
+No new GL reposting entries were created for the selected rows.,未为所选行创建新的总账重新过账分录。
+No notifications configured,未配置通知
+No of Items to Repost,要重新过账的物料数
+No of Parallel Reposting (Per Item),并行重新过账数（每物料）
+No options,无选项
+No other document types.,没有其他文档类型。
+No pages found.,未找到页面。
+No permission to '{0}' {1},无权“{0}”{1}
+No pinned document types.,没有固定的文档类型。
+No pre-upgrade edits to standard workspaces were found.,未找到对标准工作区的升级前编辑。
+No pre-upgrade layout edit is recorded for {0}.,未记录 {0} 的升级前布局编辑。
+No preview data for this row,此行没有预览数据
+No printable fields,没有可打印字段
+No private workspaces yet,尚无私有工作区
+No problem. You can try it anytime from Desktop Settings.,没问题。你可以随时从桌面设置中尝试。
+No recipients found for campaign {0},未找到营销活动 {0} 的收件人
+No recipients to notify,没有要通知的收件人
+No records found.,未找到记录。
+No related settings,无相关设置
+No reports found.,未找到报告。
+No results,无结果
+No roles have access yet.,尚无角色有访问权限。
+No rows were imported,未导入任何行
+No rows with zero document count found,未找到文档计数为零的行
+No rules found.,未找到规则。
+No saved layouts yet,尚无保存的布局
+No sections yet,尚无节
+No session defaults configured.,未配置会话默认值。
+No settings from other areas are linked to {0}.,没有来自其他区域的设置链接到 {0}。
+No source table selected,未选择源表
+No stock available for this batch.,此批次没有可用库存。
+No successful log entries,没有成功的日志条目
+No templates,无模板
+No thanks,不用了
+No user permissions yet.,尚无用户权限。
+No users have this role.,没有用户拥有此角色。
+No valid tree nodes found in the import file.,在导入文件中未找到有效的树节点。
+No value to encode,没有要编码的值
+No warehouse found for company {0}. Please set a Default Warehouse in Item Defaults or Stock Settings.,未找到公司 {0} 的仓库。请在物料默认值或库存设置中设置默认仓库。
+No warnings or mapping issues were found. You can continue to import.,未找到警告或映射问题。你可以继续导入。
+No workspaces found.,未找到工作区。
+No workspaces in this module.,此模块中没有工作区。
+No {0} created,未创建 {0}
+No {0} linked to this Work Order.,没有 {0} 链接到此工单。
+No {0} records yet,尚无 {0} 记录
+No.,否。
+No. of Rows,行数
+Non-phantom BOM cannot be created for non-stock item {0}.,无法为非库存物料 {0} 创建非虚拟 BOM。
+Noop Source,空操作源
+Normal Balances,正常余额
+Not Editable,不可编辑
+Not Used,未使用
+Not a builder format,不是构建器格式
+Not configured,未配置
+Not imported:,未导入：
+Not in any app,不在任何应用中
+Not permitted for {0},不允许用于 {0}
+Not permitted to update Serial No,不允许更新序列号
+Not set,未设置
+Not yet overwritten,尚未覆盖
+Not your workspace,不是你的工作区
+Note: On checking Is Mandatory the accounting dimension will become mandatory against that specific account for all accounting transactions,注意：选中“是否必填”后，会计维度将针对该特定账户在所有会计交易中变为必填
+Nothing has been added yet.,尚未添加任何内容。
+Nothing here yet,这里还没有内容
+Nothing left to navigate to,没有可导航的内容了
+Nothing on the dock,停靠栏上没有内容
+Nothing on the sidebar,侧边栏上没有内容
+Nothing to order from the selected rows,所选行没有可订购的内容
+Nothing to paste,没有可粘贴的内容
+Nothing to restore,没有可恢复的内容
+Notification Message,通知消息
+Notification Title,通知标题
+Notification Type,通知类型
+Notification Type Preference,通知类型偏好
+Notification categories,通知类别
+Notified {0},已通知 {0}
+Notify by email on creation of automatic Material Request,创建自动物料请求时通过电子邮件通知
+Null = run as soon as possible. Used by waits and date/cron triggers.,空 = 尽快运行。由等待和日期/cron 触发器使用。
+Number of Events,事件数量
+Number of Transactions,交易数量
+Number of days to consider for matching transfers across bank accounts,跨银行账户匹配转移时考虑的天数
+Numbered list,编号列表
+Numbers this customer uses to identify your company in their own system.,此客户在其自己的系统中用于识别你公司的编号。
+Occurrences (last 30 days),出现次数（最近 30 天）
+On hold,暂停
+Only CSV and Excel formats are supported for export,导出仅支持 CSV 和 Excel 格式
+Only CSV files are allowed,仅允许 CSV 文件
+Only a System Manager can write a script step,只有系统管理员才能编写脚本步骤
+Only a new Kanban Board can be made standard,只有新看板才能设为标准
+Only a new list layout can be made standard,只有新列表布局才能设为标准
+Only an {0} Server Script can be run from a flow,只能从流程运行 {0} 服务器脚本
+Only files up to {0} MB are supported for preview.,预览仅支持最大 {0} MB 的文件。
+Only if Creator,仅当创建者
+Only one of Deposit or Withdrawal should be non-zero when applying an Excluded Fee.,应用排除的费用时，存款或取款中只有一个应为非零。
+Only one operation can have 'Is Final Finished Good' checked when 'Track Semi Finished Goods' is enabled.,启用“跟踪半成品”时，只能有一个工序选中“是最终成品”。
+Only own,仅自己的
+Only pending invitations can be resent,只能重新发送待处理的邀请
+Only records belonging to {0} will be deleted,只会删除属于 {0} 的记录
+Only standard (app-shipped) workspaces can be customized.,只能自定义标准（应用提供的）工作区。
+Only to you,仅对你
+Only users with one of these roles can send SMS. Leave empty to allow only System Manager.,只有具有这些角色之一的用户才能发送短信。留空则仅允许系统管理员。
+Only users with the {0} role can repost GL entries,只有具有 {0} 角色的用户才能重新过账总账分录
+Open Frappe CRM,打开 Frappe CRM
+Open Frappe Helpdesk,打开 Frappe 帮助台
+Open Global Search,打开全局搜索
+Open Role Permissions Manager,打开角色权限管理器
+Open Source applications for the web.,用于 Web 的开源应用。
+Open a linked document in a side panel instead of navigating away from the report. Not available on mobile.,在侧面板中打开链接文档，而不是从报告导航离开。移动端不可用。
+Open file,打开文件
+Open file in new tab,在新选项卡中打开文件
+Open in Desk,在桌面中打开
+Open in New Tab,在新选项卡中打开
+Open in full page,在全页中打开
+Open linked documents in a side panel instead of navigating away from the report.,在侧面板中打开链接文档，而不是从报告导航离开。
+Open list item,打开列表项
+Open the app dock,打开应用停靠栏
+Open {0} Workspace,打开 {0} 工作区
+Opening Purchase Invoice(s) have been created.,期初采购发票已创建。
+Opening Sales Invoice(s) have been created.,期初销售发票已创建。
+Opening Stock can only be set for stock items.,只能为库存物料设置期初库存。
+Opening Stock cannot be created as stock transactions already exist for item {0}.,无法创建期初库存，因为物料 {0} 已存在库存交易。
+Opening Stock for serialised or batch items must be set via the Stock Reconciliation form.,序列化或批次物料的期初库存必须通过库存盘点表单设置。
+Opening Stock reconciliation created with zero valuation rate: {0},已创建零估值率的期初库存盘点：{0}
+Opening Stock reconciliation created: {0},已创建期初库存盘点：{0}
+Opening settings...,正在打开设置…
+Opening stock creation has been queued and will be created in the background. Please check the Stock Reconciliation after some time.,期初库存创建已排队，将在后台创建。请稍后检查库存盘点。
+Opens a POS shift with the cash in the drawer.,使用抽屉中的现金打开 POS 班次。
+Opens the module's home and shows its sidebar.,打开模块主页并显示其侧边栏。
+Operator '{0}' requires a list value,运算符“{0}”需要列表值
+Optional,可选
+Optional alias for the destination reference returned by this action.,此操作返回的目标引用的可选别名。
+Optional body of the in-app notification. Supports Jinja.,应用内通知的可选正文。支持 Jinja。
+Optional group warehouse. Raw material availability is checked across its child warehouses; material is still received into For Warehouse.,可选组仓库。原材料可用性在其子仓库中检查；物料仍接收到“对于仓库”中。
+Optional heading,可选标题
+Optional. Checked against a related record.,可选。根据相关记录检查。
+Optional. Select a specific manufacture entry to reverse.,可选。选择要冲销的特定制造分录。
+Optional. The step runs only if this expression is true.,可选。仅当此表达式为真时运行该步骤。
+Optional. Used with Financial Report Template,可选。与财务报告模板一起使用
+Or copy and paste:,或复制并粘贴：
+Or skip rows instead,或改为跳过行
+Output Alias,输出别名
+Over Order Allowance (%),超额订购允许量（%）
+Over Picking Allowance (%),超额拣货允许量（%）
+Over Withheld,超额预扣
+Overdue Limit,逾期限制
+Overdue Limit Crossed,超过逾期限制
+Overdue Limit crossed for customer {0}. Overdue amount {1} exceeds the allowed limit {2}.,客户 {0} 超过逾期限制。逾期金额 {1} 超过允许限制 {2}。
+Override Sidebar Position,覆盖侧边栏位置
+Override the default payable / advance accounts on a per-company basis. Leave blank to use each company's defaults from Company settings.,按公司覆盖默认应付/预付款账户。留空则使用公司设置中每个公司的默认值。
+"Override whether the standard workspace is shown. ""Inherit"" keeps the app-shipped value.",覆盖是否显示标准工作区。“继承”保留应用提供的值。
+Overrides the dock label for this module.,覆盖此模块的停靠栏标签。
+Overwritten,已覆盖
+Owner,所有者
+Ownership,所有权
+P&L Closing Balance,损益表期末余额
+PCV,PCV
+PCV Job Timeout (seconds),PCV 作业超时（秒）
+PCV Paused,PCV 已暂停
+PCV Resumed,PCV 已恢复
+PDF Renderer,PDF 渲染器
+PDF Tables,PDF 表格
+PDF encryption is not supported by the Typst renderer,Typst 渲染器不支持 PDF 加密
+PDF statement support requires the 'pdfplumber' library to be installed.,PDF 对账单支持需要安装“pdfplumber”库。
+PMO-,PMO-
+PO-JOB.#####,PO-JOB.#####
+POS Configurations,POS 配置
+POS Item Details,POS 物料详情
+POS Item Selector,POS 物料选择器
+POS Profile {0} cannot be disabled as there are ongoing POS sessions.,由于存在正在进行的 POS 会话，无法禁用 POS 配置文件 {0}。
+POS-CLO-,POS-CLO-
+PRLE-.####,PRLE-.####
+PROJ-.####,PROJ-.####
+PU-SSP-.YYYY.-,PU-SSP-.YYYY.-
+PUR-ORD-.YYYY.-,PUR-ORD-.YYYY.-
+PUR-RFQ-.YYYY.-,PUR-RFQ-.YYYY.-
+PUR-SQTN-.YYYY.-,PUR-SQTN-.YYYY.-
+Package contains disallowed path entry,包包含不允许的路径条目
+Padding,内边距
+Page break must follow a section,分页符必须跟随节
+Page size: {0},页面大小：{0}
+Pages,页面
+Pages this role can access.,此角色可以访问的页面。
+Paid From and Paid To accounts must be different for an Internal Transfer.,对于内部转移，付款方账户和收款方账户必须不同。
+Paragraph,段落
+Parameters,参数
+Parent Step,父步骤
+Parent Task {0} must be a Group Task,父任务 {0} 必须是组任务
+Parent document is required to search child rows,搜索子行需要父文档
+Parent {0} not found in file,在文件中未找到父项 {0}
+Partially Billed,部分开票
+Partially Failed,部分失败
+Partially Reposted,部分重新过账
+Partially Transferred,部分转移
+Party Account No.,往来方账户号
+Party IBAN,往来方 IBAN
+Party ID,往来方 ID
+Party Name/Account Holder,往来方名称/账户持有人
+Party account is required to create a payment entry.,创建付款分录需要往来方账户。
+Party type is required to create a payment entry.,创建付款分录需要往来方类型。
+Pass either an existing {0} name or a {1} to import into.,传入现有 {0} 名称或要导入到的 {1}。
+Password Required,需要密码
+Password changed,密码已更改
+Password used to open password-protected PDF statements for this account. Stored encrypted.,用于打开此账户的受密码保护 PDF 对账单的密码。加密存储。
+Paused,已暂停
+Payload for custom emit() events.,自定义 emit() 事件的负载。
+Payment Link couldn't be sent.,付款链接无法发送。
+Payment Options,付款选项
+Payment Requests made from Sales / Purchase Invoice will be put in Draft explicitly,从销售/采购发票创建的付款请求将显式置于草稿状态
+Payment Schedule based Payment Requests cannot be created because a Payment Entry already exists for this document.,无法创建基于付款计划的付款请求，因为此文档已存在付款分录。
+Payment Schedules,付款计划
+Payment methods refreshed. Please review before proceeding.,付款方式已刷新。请在继续之前查看。
+Pending Quantity cannot be greater than {0},待处理数量不能大于 {0}
+Pending Quantity cannot be less than 0,待处理数量不能小于 0
+Pending Repost,待重新过账
+Pending qty,待处理数量
+Pending quantity cannot be greater than the for quantity.,待处理数量不能大于目标数量。
+Pending quantity cannot be negative.,待处理数量不能为负。
+Per-Company Accounts,按公司账户
+Period Closing Voucher {0} GL Entry Cancellation Failed,期间结账凭证 {0} 总账分录取消失败
+Period Closing Voucher {0} GL Entry Processing Failed,期间结账凭证 {0} 总账分录处理失败
+Period Movement (Debits - Credits),期间变动（借方 - 贷方）
+Permission,权限
+Permission Denied,权限被拒绝
+Permission added.,权限已添加。
+Permission removed.,权限已移除。
+Permission row not found after add. Please refresh.,添加后未找到权限行。请刷新。
+Permission row not found after conversion. Please refresh.,转换后未找到权限行。请刷新。
+Permission updated.,权限已更新。
+Permissions for this doctype have been customized.,此单据类型的权限已被自定义。
+Permissions reset,权限已重置
+Personalizing your setup,个性化你的设置
+Phantom BOM cannot be created for stock item {0}.,无法为库存物料 {0} 创建虚拟 BOM。
+Phantom Item is mandatory,虚拟物料为必填项
+Pick a module,选择模块
+Pick a record in the toolbar above to preview it.,在上方工具栏中选择一条记录以预览。
+Pick a source table,选择源表
+Pick a {0} to preview...,选择要预览的 {0}…
+Pick another title,选择另一个标题
+Pick something for it to open.,选择要打开的内容。
+Pick the finished good serial / batch each raw material went into. The Serial No and Batch Traceability report uses this mapping.,选择每种原材料所进入的成品序列号/批次。序列号和批次追溯报告使用此映射。
+Pin,固定
+Pinned sits beside the sidebar. Floating slides in from the left edge.,固定位于侧边栏旁边。浮动从左侧边缘滑入。
+Placement,放置
+Placement and empty state,放置和空状态
+Places,地点
+Plain,纯文本
+Planned End Date cannot be before Planned Start Date,计划结束日期不能早于计划开始日期
+Planned visits to service what a customer bought.,对客户所购物品进行服务的计划访问。
+Plans the work orders and materials needed for your demand.,为你需求计划所需的工单和物料。
+Play video,播放视频
+Please add Operations first.,请先添加工序。
+Please add a valid Holiday List on Appointment Booking Settings.,请在预约预订设置中添加有效的假日列表。
+Please add an account for the Bank Entry rule.,请为银行分录规则添加账户。
+Please add at least one naming series.,请至少添加一个命名系列。
+Please add at least one row in Item Defaults with a Company before setting opening stock.,在设置期初库存之前，请在物料默认值中至少添加一行并包含公司。
+Please add atleast one user on Allowed Users to allow Data Synchronization from Frappe CRM site.,请在允许的用户中至少添加一个用户，以允许从 Frappe CRM 站点进行数据同步。
+Please attach an import file or provide a Google Sheets URL.,请附加导入文件或提供 Google 表格 URL。
+Please capitalize this asset before submitting.,请在提交前将此资产资本化。
+Please check the 'Activate Serial and Batch No for Item' checkbox in the {0} to make Serial and Batch Bundle for the item.,请在 {0} 中选中“为物料启用序列号和批次号”复选框，以为该物料创建序列和批次捆绑。
+Please check your email.,请检查你的电子邮件。
+Please complete the job first before entering Pending Quantity,在输入待处理数量之前，请先完成作业
+Please configure accounts for the Bank Entry rule.,请为银行分录规则配置账户。
+Please configure the start field for this Doctype in the controller file.,请在控制器文件中为此单据类型配置开始字段。
+Please contact any of the following users for this transaction.,请就此交易联系以下任何用户。
+Please enter Batch No,请输入批次号
+Please enter Serial No,请输入序列号
+Please enter a valid URL,请输入有效的 URL
+Please enter a valid Write Off Account,请输入有效的核销账户
+Please enter a valid Write Off Cost Center,请输入有效的核销成本中心
+Please enter a valid date for when your financial year begins.,请输入你的会计年度开始的有效日期。
+Please enter a valid email.,请输入有效的电子邮件。
+Please enter the password for: <b>{0}</b>,请输入以下密码：<b>{0}</b>
+Please fill the following mandatory fields before saving:,请在保存前填写以下必填字段：
+Please fill up the Availability of Slots table to enable Appointment Scheduling.,请填写可用时间段表以启用预约排程。
+Please generate To Delete list before submitting,请在提交前生成要删除列表
+Please generate the To Delete list before submitting,请在提交前生成要删除列表
+Please make sure you really want to delete all the transactions for {0}. Your master data will remain as it is. This action cannot be undone.,请确保你真的想删除 {0} 的所有交易。你的主数据将保持不变。此操作无法撤销。
+Please pick a company name other than Company.,请选择“Company”以外的公司名称。
+Please review the {0} configuration and complete any required financial setup activities.,请查看 {0} 配置并完成任何所需的财务设置活动。
+Please save the Sales Order before adding a delivery schedule.,请在添加交货计划之前保存销售订单。
+Please select Document Type and Import Type.,请选择文档类型和导入类型。
+Please select Document Type first.,请先选择文档类型。
+Please select a Document Type first,请先选择文档类型
+Please select a Holiday List to enable Appointment Scheduling.,请选择假日列表以启用预约排程。
+Please select a Report first,请先选择报告
+Please select a company.,请选择公司。
+Please select a transaction.,请选择交易。
+Please select a valid {0},请选择有效的 {0}
+Please select a warehouse first.,请先选择仓库。
+Please select at least one attribute value,请至少选择一个属性值
+Please select at least one item to update delivered quantity.,请至少选择一个物料以更新已交付数量。
+Please select at least one row with difference value,请至少选择一行具有差异值的行
+Please select at least one schedule.,请至少选择一个计划。
+Please select rows to create GL Reposting Entries,请选择要创建总账重新过账分录的行
+Please select rows to create {0},请选择要创建 {0} 的行
+Please select the Warehouse first,请先选择仓库
+Please set a Temporary Opening account for company {0} to create an Opening Stock reconciliation.,请为公司 {0} 设置临时期初账户以创建期初库存盘点。
+Please set a primary email ID for the Contact {0},请为联系人 {0} 设置主电子邮件 ID
+Please set actual demand or sales forecast to generate Material Requirements Planning Report.,请设置实际需求或销售预测以生成物料需求计划报告。
+Please set at least one filter: User or DocType,请至少设置一个筛选器：用户或单据类型
+Please set company on the Document before requesting for invoices.,在请求发票之前，请在文档上设置公司。
+Please set {0} in Company {1} or in the Item Defaults of Item {2},请在公司 {1} 中或物料 {2} 的物料默认值中设置 {0}
+Point Of Sale,销售点
+Points a customer earned or spent under a loyalty program.,客户在忠诚度计划下赚取或花费的积分。
+Poor,差
+Posting Date inheritance for exchange gain / loss,汇兑收益/损失的过账日期继承
+Posting date is required,过账日期为必填项
+Pre-filled on payment entries for this customer. Must be a company account.,在此客户的付款分录上预填。必须是公司账户。
+Pre-filled with all document fields. Customize from there.,预填所有文档字段。从那里进行自定义。
+Preferences,偏好
+Prefix and suffix (rich content per option),前缀和后缀（每个选项的富内容）
+Preparing import...,正在准备导入…
+Prevent Sales Invoice when Customer is Overdue,当客户逾期时阻止销售发票
+Prevents the automatic reservation of stock quantities from sales orders when processing sales returns.,处理销售退货时阻止自动从销售订单预留库存数量。
+Prevents the system from automatically using the rate from the last purchase transaction when creating new purchase orders or transactions.,阻止系统在创建新的采购订单或交易时自动使用上次采购交易的费率。
+Preview Fields,预览字段
+Preview Image,预览图像
+Preview not available for this file type.,此文件类型无法预览。
+Preview: {0},预览：{0}
+Previous Qty,先前数量
+Previous page,上一页
+Previous step,上一步
+Price List & Currency,价格表和货币
+Price List {0} cannot be used on a buying transaction,价格表 {0} 不能用于采购交易
+Price List {0} cannot be used on a selling transaction,价格表 {0} 不能用于销售交易
+Price List {0} is disabled,价格表 {0} 已禁用
+Price List {0} is not enabled for {1},价格表 {0} 未为 {1} 启用
+Prices HTML,价格 HTML
+Prices a supplier offered you.,供应商向你提供的价格。
+Prices you offer a customer or lead.,你向客户或潜在客户提供的价格。
+Pricing Rule {0} is disabled,定价规则 {0} 已禁用
+Primary Address Preview,主地址预览
+Print Format Snippet,打印格式片段
+Print Formats,打印格式
+Print Settings updated,打印设置已更新
+Print format,打印格式
+Print if empty,如果为空则打印
+Process Loss Quantity cannot be greater than {0},工艺损耗数量不能大于 {0}
+Process Loss qty,工艺损耗数量
+Process Period Closing Voucher,处理期间结账凭证
+Process Period Closing Voucher Detail,处理期间结账凭证详情
+Process loss booked against the operations of this work order.,针对此工单的工序记录的工艺损耗。
+Process loss quantity cannot be negative.,工艺损耗数量不能为负。
+Processing Date,处理日期
+Processing import...,正在处理导入…
+Product Bundle Component,产品捆绑包组件
+Product Bundle Parent,产品捆绑包父项
+Product engineer. Writes the release notes nobody reads.,产品工程师。编写没人阅读的发行说明。
+Production Item Info,生产物料信息
+Production Plan Quantity Exceeded,超出生产计划数量
+Profit and Loss Statement requires {0} to be synced to DuckDB,损益表需要将 {0} 同步到 DuckDB
+Progress summary,进度摘要
+Project Management,项目管理
+Projected,预计
+Projected On Hand,预计现有量
+Projected Quantity as Source,预计数量作为来源
+Promise that fails,失败的承诺
+Promise that succeeds,成功的承诺
+Protect,保护
+Protected DocType,受保护的单据类型
+Provisional liability account used for service items before invoice is received,在收到发票之前用于服务物料的暂估负债账户
+Published version,已发布版本
+Purchase Invoice Settings,采购发票设置
+Purchase Invoice can be held after submitting.,采购发票提交后可以保留。
+Purchase Invoice without any outstanding amount cannot be held.,没有任何未结金额的采购发票不能保留。
+Purchase Tax Withholding Category,采购预扣税类别
+Put this sidebar back to the site's arrangement? Everything you have arranged here is dropped.,将此侧边栏恢复为站点的安排？你在此安排的所有内容都将被放弃。
+Python expression evaluated on the server. Use doc.fieldname for the row and parent.fieldname for the parent document. When it evaluates to true the dimension becomes mandatory. Example: doc.t_warehouse and doc.qty > 0,在服务器上评估的 Python 表达式。使用 doc.fieldname 表示行，使用 parent.fieldname 表示父文档。当评估为真时，维度变为必填。示例：doc.t_warehouse and doc.qty > 0
+QZ Tray Connection Active!,QZ Tray 连接活动！
+Qty (As per BOM),数量（按 BOM）
+Qty for Manufacture must be greater than the process loss of {0} to produce a finished good.,制造数量必须大于工艺损耗 {0} 才能生产成品。
+Qty left for a later cycle or for another job card.,留待后续周期或另一个作业卡的数量。
+Qty to Disassemble,要拆卸的数量
+Qty to Manufacture,要制造的数量
+Qty to Manufacture in this Cycle,此周期的制造数量
+Qty to Transfer,要转移的数量
+Quality Inspection Not Configured,未配置质量检验
+Quality Inspection is required for the item {0} before completing the job card {1},在完成作业卡 {1} 之前，物料 {0} 需要质量检验
+Quality Inspection {0} is not submitted for the item: {1},物料 {1} 的质量检验 {0} 未提交
+Quality Inspection {0} is rejected for the item: {1},物料 {1} 的质量检验 {0} 被拒绝
+Quantities updated successfully.,数量已成功更新。
+Quantity (Output Qty),数量（输出数量）
+Quantity Available,可用数量
+Quantity Tolerance,数量容差
+Quantity for Item {0} must be greater than zero and cannot exceed {1},物料 {0} 的数量必须大于零且不能超过 {1}
+Quantity is mandatory for the selected items.,所选物料的数量为必填项。
+Quantity must be greater than zero,数量必须大于零
+Quantity must be greater than zero.,数量必须大于零。
+Quantity must be less than or equal to {0},数量必须小于或等于 {0}
+Quarter Day,四分之一天
+Queries,查询
+Queue Retention Days,队列保留天数
+Quick List,快速列表
+RFQ and Purchase Order Settings,询价和采购订单设置
+Radius,半径
+Raise Material Request when stock reaches re-order level,当库存达到再订货水平时创建物料请求
+Raise money against unpaid sales invoices.,以未付销售发票为抵押筹集资金。
+Ran script,已运行脚本
+Rate at which Price List Currency is converted to Company Currency,价格表货币转换为公司货币的汇率
+Rate at which document currency is converted to company currency,文档货币转换为公司货币的汇率
+Rates a supplier over time on criteria you choose.,根据你选择的标准对供应商进行长期评分。
+Raw HTML can be used only with Email Templates having 'Use HTML' checked. Proceeding with plain text email.,原始 HTML 只能与选中“使用 HTML”的电子邮件模板一起使用。将继续使用纯文本电子邮件。
+Raw HTML or Jinja template,原始 HTML 或 Jinja 模板
+Raw Material Group Warehouse,原材料组仓库
+Raw Materials Missing,缺少原材料
+Raw Method,原始方法
+Raw Typst markup,原始 Typst 标记
+Raw material {0} is already mapped and can't be changed after {1} is submitted,原材料 {0} 已映射，且在 {1} 提交后无法更改
+Raw materials consumed qty will be validated based on FG BOM required qty,原材料消耗数量将根据成品 BOM 所需数量进行验证
+Re-check filters and condition in the worker before executing.,在执行前，在 worker 中重新检查筛选器和条件。
+Read the docs,阅读文档
+Read the migration guide,阅读迁移指南
+Rebuilds the ledger entries of transactions that were posted wrongly.,重建错误过账的交易的分类账分录。
+Rebuilds the payment ledger so outstanding amounts are right again.,重建付款分类账，使未结金额再次正确。
+Recalculate Valuation Rate,重新计算估值率
+Recalculate Values,重新计算值
+Recalculates stock values after a backdated change.,在倒填更改后重新计算库存价值。
+Receive a copy of every email you send in your inbox.,在你的收件箱中接收你发送的每封电子邮件的副本。
+Receive an email for notifications of these types. Remove a type to stop its emails (in-app notifications are unaffected).,接收这些类型的通知电子邮件。移除类型以停止其电子邮件（应用内通知不受影响）。
+Recent activity,最近活动
+Recipient & Status,收件人和状态
+Reconciliation Failed,对账失败
+Reconciliation Type,对账类型
+Reconciliation queue size,对账队列大小
+Record alias could not be resolved,无法解析记录别名
+Recorder Event,记录器事件
+Records you add will appear here.,你添加的记录将显示在此处。
+Recursion Depth,递归深度
+Redact Message After Send,发送后编辑消息
+Refresh to see changes,刷新以查看更改
+Refreshing,正在刷新
+Regex,正则表达式
+Rejected malformed encoded address header with synthesized '@': {0},拒绝了带有合成“@”的格式错误编码地址头：{0}
+Related Item,相关物料
+Related Record Condition,相关记录条件
+Related Reports,相关报告
+Related record condition must be a JSON object,相关记录条件必须是 JSON 对象
+Related record condition needs a relationship,相关记录条件需要关系
+Related record does not exist: {0} {1},相关记录不存在：{0} {1}
+Relationship provider returned an invalid record reference,关系提供者返回了无效的记录引用
+Relationship source DocType does not match,关系源单据类型不匹配
+Relationship target DocType is not allowed,不允许关系目标单据类型
+Relationship {0} cannot be used as a single record alias,关系 {0} 不能用作单记录别名
+Relationship {0} did not resolve to one record,关系 {0} 未解析为一条记录
+Relationship {0} returns multiple records,关系 {0} 返回多条记录
+Relationships,关系
+Relationships Snapshot,关系快照
+Relationships must be a JSON list,关系必须是 JSON 列表
+Reliability,可靠性
+Reload Tree,重新加载树
+Remove Default,移除默认值
+Remove Permission,移除权限
+Remove Zero Counts,移除零计数
+Remove formatting,移除格式
+Remove selected,移除所选
+Remove this role's access to {0}?,移除此角色对 {0} 的访问权限？
+Remove this role's permission on {0}?,移除此角色对 {0} 的权限？
+Remove {0} from this role?,从此角色中移除 {0}？
+Removed Roles,已移除角色
+Removed from global search,已从全局搜索中移除
+Removed {0} rows with zero document count. Please save to persist changes.,已移除 {0} 行文档计数为零的行。请保存以保留更改。
+Rename Entry,重命名条目
+Renderer unavailable,渲染器不可用
+Replace your current draft with {0}? Nothing prints differently until you Save & Apply.,用 {0} 替换你当前的草稿？在你保存并应用之前，打印内容不会有任何不同。
+Report Line Items,报告行项目
+Report Settings,报告设置
+Report Template,报告模板
+Reporting & Sharing,报告和共享
+Reports this role can access.,此角色可以访问的报告。
+Repost,重新过账
+Repost GL Entries,重新过账总账分录
+Repost Item Valuation restarted for selected failed records.,已为所选失败记录重新启动重新过账物料估值。
+Repost Item Valuation will be made for:,将针对以下进行重新过账物料估值：
+Repost Only Accounting Ledgers,仅重新过账会计分类账
+Repost Stock & GL Entries,重新过账库存和总账分录
+Repost {0} is already pending.,重新过账 {0} 已在待处理。
+Reposted,已重新过账
+Reposting Entries,重新过账分录
+Reposting Item and Warehouse,重新过账物料和仓库
+Reposting Reference,重新过账参考
+Reposting Status,重新过账状态
+Reposting Vouchers,重新过账凭证
+Reposting Vouchers Progress,重新过账凭证进度
+Reposting can be started only for submitted document.,只能为已提交的文档开始重新过账。
+Reposting cannot be started when status is {0}.,当状态为 {0} 时无法开始重新过账。
+Reposting could not be queued for:,无法为以下排队重新过账：
+Reposting for Item-Wh Completed {0}%,物料-仓库重新过账已完成 {0}%
+Reposting for Vouchers Completed {0}%,凭证重新过账已完成 {0}%
+Reposting has been queued for:,已为以下排队重新过账：
+Reposting is still in progress in background.,重新过账仍在后台进行中。
+Reposting {0} {1},正在重新过账 {0} {1}
+Request read receipts for outgoing emails,为外发电子邮件请求已读回执
+Request to your server failed.,请求你的服务器失败。
+Requests to internal network addresses are not permitted,不允许请求内部网络地址
+Requires approval for transactions above a limit.,超过限额的交易需要批准。
+Resend,重新发送
+Reserved Batch Conflict,预留批次冲突
+Reserved Inventory,预留库存
+Reset all,全部重置
+Reset for everyone,为所有人重置
+Reset link emailed,重置链接已通过电子邮件发送
+Reset node,重置节点
+Reset password,重置密码
+Reset to Standard,重置为标准
+Reset {0} permissions to their default? This removes all customizations.,将 {0} 权限重置为其默认值？这会移除所有自定义。
+Resizing preview...,正在调整预览大小…
+Restart Failed Entries,重新启动失败条目
+Restates foreign currency balances at today's exchange rate.,按今天的汇率重述外币余额。
+Restore Workspace,恢复工作区
+Restore Workspace Edits,恢复工作区编辑
+Restore again,再次恢复
+Restore classic layout,恢复经典布局
+Restore this version,恢复此版本
+Restore this version as your draft,将此版本恢复为你的草稿
+Restored with limits,已有限制地恢复
+Restoring\u2026,正在恢复…
+Restoring…,正在恢复…
+Restrict specific users to specific {0} records.,将特定用户限制为特定的 {0} 记录。
+Restrictions,限制
+Resume From Step,从步骤恢复
+Resume Queue,恢复队列
+Resume Run,恢复运行
+Retention,保留
+Return Purchase Invoice cannot be held.,退货采购发票不能保留。
+Returned Quantity,退回数量
+Reuse email templates when emailing {0}.,在通过电子邮件发送 {0} 时重复使用电子邮件模板。
+Revalidate on Run,运行时重新验证
+Reversal Journal Entries,冲销日记账分录
+Reversal Of Exchange Rate Revaluation,汇率重估的冲销
+Reverse Sign,反转符号
+Reverse {0} already available in draft status: {1},冲销 {0} 已在草稿状态可用：{1}
+Reversing Journals...,正在冲销日记账…
+Review pending imports,查看待处理导入
+Revise Budget,修订预算
+Revision Of,修订自
+Revision cancelled,修订已取消
+Revisiting a finished flow (factual completion),重新访问已完成的流程（事实完成）
+Rewards customers with points they can spend on later purchases.,用客户可在以后购买中使用的积分奖励客户。
+Right-click here,在此处右键单击
+Right-click this task card,右键单击此任务卡
+Role Allowed to Bypass Over Billing Restriction,允许绕过超额开票限制的角色
+Role Allowed to over bill ,允许超额开票的角色
+Role Managed by Role Profile,由角色配置文件管理的角色
+Role Profiles that include this role.,包含此角色的角色配置文件。
+Role allowed to bypass credit limit,允许绕过信用额度的角色
+Role allowed to bypass period restrictions.,允许绕过期间限制的角色。
+Role allowed to create/edit back-dated transactions,允许创建/编辑倒填交易的角色
+Role allowed to edit frozen stock,允许编辑冻结库存的角色
+Role allowed to override stop action,允许覆盖停止操作的角色
+Role to Notify on Depreciation Failure,折旧失败时通知的角色
+Roles Allowed to Set and Edit Frozen Account Entries,允许设置和编辑冻结账户分录的角色
+Roles granted access on top of the app-shipped roles.,在应用提供的角色之上授予访问权限的角色。
+Root records can't be deleted,根记录不能删除
+Root records can't be renamed,根记录不能重命名
+Round tax amount row-wise,按行舍入税额
+Route Signature,路由签名
+Row #{0},第 #{0} 行
+Row #{0}: % of Component Cost needs a BOM secondary item. Choose Valuation Rate or Manual for {1}.,第 #{0} 行：组件成本百分比需要 BOM 次要物料。为 {1} 选择估值率或手动。
+Row #{0}: '{1}' cannot be used to search items.,第 #{0} 行：“{1}”不能用于搜索物料。
+Row #{0}: '{1}' does not match {2}.,第 #{0} 行：“{1}”不匹配 {2}。
+Row #{0}: '{1}' is not a valid field of {2}.,第 #{0} 行：“{1}”不是 {2} 的有效字段。
+Row #{0}: Cannot cancel this Manufacturing Stock Entry as quantity of Secondary Item {1} produced cannot be less than quantity delivered.,第 #{0} 行：无法取消此制造库存分录，因为生产的次要物料 {1} 的数量不能小于已交付数量。
+Row #{0}: Cannot create entry with different taxable AND withholding document links.,第 #{0} 行：无法创建具有不同应税和预扣文档链接的分录。
+Row #{0}: Cannot delete item {1} which is already ordered against this Sales Order.,第 #{0} 行：无法删除已针对此销售订单订购的物料 {1}。
+Row #{0}: Cannot transfer {1} {2} of Item {3}. Maximum transferable quantity is {4} {2}.,第 #{0} 行：无法转移物料 {3} 的 {1} {2}。最大可转移数量为 {4} {2}。
+Row #{0}: Company {1} does not match with the company {2} in Serial and Batch Bundle {3}.,第 #{0} 行：公司 {1} 与序列和批次捆绑 {3} 中的公司 {2} 不匹配。
+Row #{0}: Could not find enough {1} entries to match. Remaining amount: {2},第 #{0} 行：找不到足够的 {1} 条目来匹配。剩余金额：{2}
+Row #{0}: Dates overlapping with other row in group {1},第 #{0} 行：日期与组 {1} 中的其他行重叠
+Row #{0}: Expense account {1} is not valid for Purchase Invoice {2}. Only expense accounts from non-stock items are allowed.,第 #{0} 行：费用账户 {1} 对采购发票 {2} 无效。仅允许来自非库存物料的费用账户。
+Row #{0}: FG / Semi FG Item is required for the operation {1} as 'Track Semi Finished Goods' is enabled.,第 #{0} 行：由于启用了“跟踪半成品”，工序 {1} 需要成品/半成品物料。
+Row #{0}: Finished Good Item {1} cannot be added in the Secondary Items table.,第 #{0} 行：成品物料 {1} 不能添加到次要物料表中。
+Row #{0}: Finished Good reference is mandatory for Secondary Item {1}.,第 #{0} 行：次要物料 {1} 的成品参考为必填项。
+Row #{0}: Frequency of Depreciation must be greater than zero,第 #{0} 行：折旧频率必须大于零
+Row #{0}: Item {1} cannot be transferred more than {2} against {3} {4},第 #{0} 行：物料 {1} 针对 {3} {4} 的转移不能超过 {2}
+Row #{0}: Item {1} has no stock in warehouse {2}.,第 #{0} 行：物料 {1} 在仓库 {2} 中没有库存。
+Row #{0}: Item {1} has zero rate but '{2}' is not enabled.,第 #{0} 行：物料 {1} 的费率为零，但“{2}”未启用。
+Row #{0}: Item {1} is already added with the same Type in the Secondary Items table.,第 #{0} 行：物料 {1} 已在次要物料表中以相同类型添加。
+Row #{0}: Item {1} is not part of the source manufacture entry and cannot be added to this disassembly.,第 #{0} 行：物料 {1} 不是源制造分录的一部分，不能添加到此拆卸中。
+Row #{0}: Planned Qty must be greater than 0 for Item {1}.,第 #{0} 行：物料 {1} 的计划数量必须大于 0。
+Row #{0}: Process Loss Percentage should be less than 100% for {1} Item {2},第 #{0} 行：{1} 物料 {2} 的工艺损耗百分比应小于 100%
+Row #{0}: Quantity must be greater than 0 for Item {1},第 #{0} 行：物料 {1} 的数量必须大于 0
+Row #{0}: Reading {1} {2} is not a valid number in the {3} number format. Use {4} as the decimal separator.,第 #{0} 行：读数 {1} {2} 在 {3} 数字格式中不是有效数字。请使用 {4} 作为小数分隔符。
+Row #{0}: Rejected Qty cannot be set for Secondary Item {1}.,第 #{0} 行：无法为次要物料 {1} 设置拒收数量。
+Row #{0}: Repair cost {1} exceeds available amount {2} for Purchase Invoice {3} and Account {4},第 #{0} 行：维修成本 {1} 超过采购发票 {3} 和账户 {4} 的可用金额 {2}
+Row #{0}: Secondary Item Qty cannot be zero,第 #{0} 行：次要物料数量不能为零
+Row #{0}: Serial No {1} is not reserved against Sales Order {2}. Deliver only the Serial Nos produced and reserved for it.,第 #{0} 行：序列号 {1} 未针对销售订单 {2} 预留。仅交付为其生产和预留的序列号。
+Row #{0}: Source and Target Warehouse cannot be the same for Material Transfer,第 #{0} 行：物料转移的源仓库和目标仓库不能相同
+Row #{0}: Stock cannot be reserved for the Item {1} as its delivery is ensured based on the produced Serial Nos. The Work Order will reserve them on manufacture.,第 #{0} 行：无法为物料 {1} 预留库存，因为其交付基于生产的序列号保证。工单将在制造时预留它们。
+Row #{0}: Target Warehouse {1} must be a Transit warehouse when Add to Transit is enabled.,第 #{0} 行：启用添加到中转时，目标仓库 {1} 必须是中转仓库。
+Row #{0}: Total Number of Depreciations must be greater than zero,第 #{0} 行：折旧总数必须大于零
+Row #{0}: Warehouse {1} does not match with the warehouse {2} in Serial and Batch Bundle {3}.,第 #{0} 行：仓库 {1} 与序列和批次捆绑 {3} 中的仓库 {2} 不匹配。
+Row #{0}: Withholding Amount {1} does not match calculated amount {2}.,第 #{0} 行：预扣金额 {1} 与计算金额 {2} 不匹配。
+Row #{0}: an entry on this dock needs an icon and a title of its own.,第 #{0} 行：此停靠栏上的条目需要自己的图标和标题。
+Row #{0}: {1} account is not of type {2},第 #{0} 行：{1} 账户不是类型 {2}
+Row #{0}: {1} is mandatory for the Inventory Dimension {2}.,第 #{0} 行：库存维度 {2} 需要 {1}。
+Row #{0}:Quantity for Item {1} cannot be zero.,第 #{0} 行：物料 {1} 的数量不能为零。
+Row Data,行数据
+Row Numbers,行号
+Row errors,行错误
+Row validation failed,行验证失败
+Row {0} failed,第 {0} 行失败
+Row {0} in {1} {2}: Work Order quantity after process loss {3} exceeds the remaining allowed quantity {4}.,{1} {2} 中的第 {0} 行：工艺损耗后的工单数量 {3} 超过剩余允许数量 {4}。
+Row {0} is not a raw material serial / batch entry of {1},第 {0} 行不是 {1} 的原材料序列/批次条目
+Row {0}: Branch is only meaningful inside an If step,第 {0} 行：分支仅在 If 步骤内有意义
+Row {0}: Cannot sell item {1} from Sample Retention Warehouse {2},第 {0} 行：无法从样品保留仓库 {2} 销售物料 {1}
+Row {0}: Expected Value After Useful Life cannot be negative,第 {0} 行：使用寿命后的预期价值不能为负
+Row {0}: Expense Account {1} is linked to company {2}. Please select an account belonging to company {3}.,第 {0} 行：费用账户 {1} 链接到公司 {2}。请选择属于公司 {3} 的账户。
+Row {0}: Item {1} is not allowed for {2} {3}.,第 {0} 行：物料 {1} 不允许用于 {2} {3}。
+Row {0}: Item {1} must be linked to a {2}.,第 {0} 行：物料 {1} 必须链接到 {2}。
+Row {0}: Operation time should be greater than 0 for operation {1},第 {0} 行：工序 {1} 的工序时间应大于 0
+Row {0}: Parent Step must be an earlier row,第 {0} 行：父步骤必须是较早的行
+Row {0}: Parent Step {1} is not an If step,第 {0} 行：父步骤 {1} 不是 If 步骤
+Row {0}: Sales Invoice {1} is already created for {2},第 {0} 行：已为 {2} 创建销售发票 {1}
+Row {0}: Serial/Batch has been reset to values linked with Work Order {1} because the previously selected serial/batch does not belong to this Work Order.,第 {0} 行：序列/批次已重置为与工单 {1} 链接的值，因为先前选择的序列/批次不属于此工单。
+Row {0}: Step Key must be unique,第 {0} 行：步骤键必须唯一
+Row {0}: The entire expense amount for account {1} in {2} has already been allocated.,第 {0} 行：{2} 中账户 {1} 的全部费用金额已分配。
+Row {0}: Transferred quantity cannot be greater than the requested quantity.,第 {0} 行：转移数量不能大于请求数量。
+Row {0}: Update Stock must be checked for item {1} because it is against Pick List {2}.,第 {0} 行：物料 {1} 必须选中“更新库存”，因为它针对拣货单 {2}。
+Row {0}: Wait unit must be one of {1},第 {0} 行：等待单位必须是 {1} 之一
+Row {0}: Warehouse is required,第 {0} 行：仓库为必填项
+Row {0}: Warehouse {1} is linked to company {2}. Please select a warehouse belonging to company {3}.,第 {0} 行：仓库 {1} 链接到公司 {2}。请选择属于公司 {3} 的仓库。
+Row {0}: an If step needs a Step Condition,第 {0} 行：If 步骤需要步骤条件
+Row {0}: choose the If or Else branch,第 {0} 行：选择 If 或 Else 分支
+Row {0}: duplicate output alias {1},第 {0} 行：重复的输出别名 {1}
+Row {0}: unknown target alias {1},第 {0} 行：未知目标别名 {1}
+Row {0}: unsupported Step Type {1},第 {0} 行：不支持的步骤类型 {1}
+Row {0}: {1},第 {0} 行：{1}
+Row {0}: {1} {2} is linked to company {3}. Please select a document belonging to company {4}.,第 {0} 行：{1} {2} 链接到公司 {3}。请选择属于公司 {4} 的文档。
+Rows,行
+Rows a drain runs between commits.,排空在提交之间运行的行数。
+Rows checked,已检查行
+Rows skipped,已跳过行
+Rules for configuring series,配置系列的规则
+Run,运行
+Run 3-step progress,运行 3 步进度
+Run After,运行于之后
+Run As,运行身份
+Run State,运行状态
+Run against,运行对象
+Running,正在运行
+Running…,正在运行…
+SABB-.########,SABB-.########
+SAL-CAM-.YYYY.-,SAL-CAM-.YYYY.-
+SAL-ORD-.YYYY.-,SAL-ORD-.YYYY.-
+SAL-QTN-.YYYY.-,SAL-QTN-.YYYY.-
+SC-ORD-.YYYY.-,SC-ORD-.YYYY.-
+SCI-ORD-.YYYY.-,SCI-ORD-.YYYY.-
+SER-WRN-.YYYY.-,SER-WRN-.YYYY.-
+SF.YY.-.######,SF.YY.-.######
+STO-ITEM-.YYYY.-,STO-ITEM-.YYYY.-
+STO-PICK-.YYYY.-,STO-PICK-.YYYY.-
+SUP-.YYYY.-,SUP-.YYYY.-
+Sales & Purchase,销售和采购
+Sales Order Item {0} does not belong to {1},销售订单物料 {0} 不属于 {1}
+Sales Order {0} is not available for production,销售订单 {0} 不可用于生产
+Sales Tax Withholding Category,销售预扣税类别
+Same as what prints,与打印内容相同
+Same id updates in place,相同 ID 就地更新
+Sample Retention Stock Entry,样品保留库存分录
+Sample Size must be greater than zero,样本大小必须大于零
+Save & Apply,保存并应用
+Save & Apply Print Format,保存并应用打印格式
+Save Field as Snippet,将字段保存为片段
+Save Filters,保存筛选器
+Save Layout,保存布局
+Save Section as Snippet,将节保存为片段
+Save a named version,保存命名版本
+Save as snippet,保存为片段
+Save failed,保存失败
+Save the Work Order to view linked documents.,保存工单以查看链接的文档。
+Save the document to attach files.,保存文档以附加文件。
+Save the role first to view this information.,请先保存角色以查看此信息。
+Save version,保存版本
+Save your changes before importing.,在导入前保存更改。
+Saved Reports,已保存报告
+Saved Snippets,已保存片段
+Saved versions,已保存版本
+Saving your language and region,正在保存你的语言和区域
+Saving\u2026,正在保存…
+Saving…,正在保存…
+Schedule Name,计划名称
+Schedule Send,计划发送
+Schedule email,计划电子邮件
+Scheduled for {0},计划于 {0}
+Scheduled trigger requires a Cron Expression,计划触发器需要 Cron 表达式
+Scheduler is inactive. Reposting will only run once background jobs are processed.,调度程序未激活。重新过账仅在后台作业处理后运行。
+Scheduling & Costing,排程和成本计算
+Scrap,报废
+Search by label or field name,按标签或字段名搜索
+Search fields updated.,搜索字段已更新。
+Search values...,搜索值…
+Secondary,次要
+Secondary Item Code,次要物料代码
+Secondary Item Name,次要物料名称
+Secondary Items,次要物料
+Secondary Items (as per BOM),次要物料（按 BOM）
+Secondary Items (as per Manufacture Entries),次要物料（按制造分录）
+Secondary Items Cost,次要物料成本
+Secondary Items Cost (Company Currency),次要物料成本（公司货币）
+Secondary Items Cost Per Qty,每数量次要物料成本
+Secondary Items Generated,已生成次要物料
+Seconds,秒
+Seconds a drain may keep claiming batches. 0 derives it from the queue's own timeout.,排空可以持续认领批次的秒数。0 表示从队列自己的超时派生。
+Section saved as snippet,节已保存为片段
+Section:,节：
+Sections hold the columns and fields of your document.,节包含文档的列和字段。
+Security.txt,Security.txt
+See previous responses,查看以前的回复
+See warning icons on nodes below or check the Warnings section.,查看下方节点上的警告图标或检查警告部分。
+Select Company Address,选择公司地址
+Select Items to Receive,选择要接收的物料
+Select Options,选择选项
+Select Payment Schedule,选择付款计划
+Select Supplier for Items,为物料选择供应商
+Select a Document Type to add field rules.,选择文档类型以添加字段规则。
+Select a Document Type to upload a file or Google Sheet.,选择文档类型以上传文件或 Google 表格。
+Select a Supplier for Item {0},为物料 {0} 选择供应商
+Select a field,选择字段
+Select a link field,选择链接字段
+Select at least one Item,至少选择一个物料
+Select at least one attribute value.,至少选择一个属性值。
+Select at least one field,至少选择一个字段
+Select attachments,选择附件
+Select date format,选择日期格式
+Select field whose options become the board columns.,选择其选项成为看板列的字段。
+Select format,选择格式
+Select list item,选择列表项
+Select multiple list items,选择多个列表项
+Select or Link field of the board's reference doctype to group cards by (swimlanes).,选择看板参考单据类型的 Select 或 Link 字段以对卡片进行分组（泳道）。
+Select parent section (Esc),选择父节（Esc）
+Select table\u2026,选择表格…
+Select table…,选择表格…
+Select the differences to fix.,选择要修复的差异。
+Select the group first to filter the applicable withholding categories below.,请先选择组以筛选下方适用的预扣税类别。
+Select the modules that you plan to implement,选择你计划实施的模块
+Selection,选择
+Sell Qty,销售数量
+Sell quantity cannot exceed the asset quantity,销售数量不能超过资产数量
+Sell quantity cannot exceed the asset quantity. Asset {0} has only {1} item(s).,销售数量不能超过资产数量。资产 {0} 只有 {1} 个物料。
+Sell quantity must be greater than zero,销售数量必须大于零
+Sells several items together as one item.,将多个物料作为一个物料一起销售。
+Send Acknowledgement Email,发送确认电子邮件
+Send Link,发送链接
+Send an acknowledgement email to the email address entered in the contact form.,向联系表单中输入的电子邮件地址发送确认电子邮件。
+Send automatic notifications for events on any {0}.,对任何 {0} 上的事件发送自动通知。
+Send me a copy of outgoing emails,向我发送外发电子邮件的副本
+Send notifications for email threads,为电子邮件线程发送通知
+Send raw ESC/POS commands to a label or thermal printer.,将原始 ESC/POS 命令发送到标签或热敏打印机。
+Send read receipt,发送已读回执
+Sending Email,正在发送电子邮件
+Separate columns for withdrawal and deposit,取款和存款的单独列
+Sequence,序列
+Serial / Batch,序列/批次
+Serial / Batch No Not Activated,序列/批次号未激活
+Serial Item settings,序列物料设置
+Serial No Not Reserved,序列号未预留
+Serial No Series Overlap,序列号系列重叠
+Serial No status sync has been queued. Reload the report after a few minutes.,序列号状态同步已排队。几分钟后重新加载报告。
+Serial No {0} is not available in the selected inventory dimensions: {1},序列号 {0} 在所选库存维度中不可用：{1}
+Serial Nos / Batches,序列号/批次
+Serial Nos Exist,序列号存在
+Serial Nos {0} are already Delivered. You cannot use them again in Manufacture / Repack entry.,序列号 {0} 已交付。你不能在制造/重新包装分录中再次使用它们。
+Serial and Batch Bundle Exists,序列和批次捆绑存在
+Serial and Batch Bundle {0} is submitted and its entries cannot be modified.,序列和批次捆绑 {0} 已提交，其条目无法修改。
+Serial and Batch No for Item Disabled,物料的序列号和批次号已禁用
+Serialized items are valued at Moving Average once stock transactions exist and Serial No Wise Valuation is disabled.,一旦存在库存交易且序列号估值被禁用，序列化物料将按移动平均估值。
+Series added,系列已添加
+Series already exists,系列已存在
+Series removed,系列已移除
+Series updated,系列已更新
+Server Scripts are disabled. Enable them from the bench configuration.,服务器脚本已禁用。请从 bench 配置中启用它们。
+Server is busy. Please try again in a few seconds.,服务器繁忙。请几秒钟后重试。
+Set <strong>{0}</strong> = <em>?</em> to auto complete,设置 <strong>{0}</strong> = <em>?</em> 以自动完成
+Set Dropship Items Delivered Quantity,设置直运物料已交付数量
+Set Opening Stock,设置期初库存
+Set Operating Cost / Secondary Items From Sub-assemblies,从子装配件设置运营成本/次要物料
+Set Supplier,设置供应商
+Set Supplier for All Items,为所有物料设置供应商
+Set as Primary,设为主
+Set as default,设为默认
+Set at least one field,至少设置一个字段
+Set default values for the current session. Values set here will be autofilled in forms and reports.,为当前会话设置默认值。此处设置的值将自动填充到表单和报告中。
+Set dynamic filter values as Python expressions.,将动态筛选器值设置为 Python 表达式。
+Set incoming rate as zero for expired Batch,将过期批次的入库费率设置为零
+Set this to decide which position a layout appears in the dropdown,设置此项以决定布局在下拉菜单中出现的位置
+Set this value to 0 to disable the feature.,将此值设置为 0 以禁用该功能。
+Set up your authenticator app,设置你的身份验证器应用
+Set up your company,设置你的公司
+Set valuation rate for rejected Materials,为拒收物料设置估值率
+Set {0},设置 {0}
+Set {0} in {1} to finish this step.,在 {1} 中设置 {0} 以完成此步骤。
+Set {0}\u2026,设置 {0}…
+Set {0}…,设置 {0}…
+Sets stock quantities and values to what is actually in your warehouses.,将库存数量和值设置为你仓库中的实际值。
+Setting Field,设置字段
+Setting things up,正在设置
+Setting up the basics,正在设置基础
+Setting up your apps,正在设置你的应用
+Settings DocType,设置单据类型
+Settings from across the system that apply to {0}.,系统中适用于 {0} 的设置。
+Setup Wizard,设置向导
+Setup a multi-step workflow for {0}.,为 {0} 设置多步骤工作流。
+Shapes,形状
+Share usage data to help us improve,分享使用数据以帮助我们改进
+Ship this off by default,默认关闭此项
+Ship with the app,随应用提供
+Shipping Account {0} does not belong to Company {1},运费账户 {0} 不属于公司 {1}
+Shortcut,快捷方式
+Show Alternate UOM Balance,显示替代计量单位余额
+Show Assigned To,显示分配给
+Show Board,显示看板
+Show Colon After Field Labels,在字段标签后显示冒号
+Show Differences Settled by Adjustment Entries,显示由调整分录结清的差异
+Show My Space,显示我的空间
+Show Payment Schedule in print,在打印中显示付款计划
+Show Similar Errors,显示类似错误
+Show Tags on Cards,在卡片上显示标签
+Show absolute datetime in timeline,在时间线中显示绝对日期时间
+Show all (including disabled),显示全部（包括已禁用）
+Show availability of exploded items,显示展开物料的可用性
+Show barcode field in stock transactions,在库存交易中显示条形码字段
+Show column when,显示列条件
+Show custom icon,显示自定义图标
+Show dashboard,显示仪表板
+Show desktop and in-app notifications for activity on your account.,为你的账户活动显示桌面和应用内通知。
+Show inclusive tax in print,在打印中显示含税
+Show keyboard shortcuts,显示键盘快捷键
+Show label,显示标签
+Show more,显示更多
+Show navigation buttons,显示导航按钮
+Show navigation buttons to view the previous and next record in the form toolbar.,显示导航按钮以在表单工具栏中查看上一条和下一条记录。
+Show negative values as positive (for expenses in P&L),将负值显示为正数（用于损益表中的费用）
+Show pay button in Purchase Order portal,在采购订单门户中显示付款按钮
+Show row when,显示行条件
+Show search bar,显示搜索栏
+Show taxes as table in print,在打印中将税费显示为表格
+Show the assignee stack and Assign control on cards and in the hover preview.,在卡片上和悬停预览中显示受派人堆栈和分配控件。
+Show timeline,显示时间线
+Show title,显示标题
+Show view switcher,显示视图切换器
+Show with Undo,显示撤销
+Show with description,显示描述
+Showing all {0} rows,显示全部 {0} 行
+Showing first {0} rows of {1},显示 {1} 的前 {0} 行
+Showing {0},显示 {0}
+Showing {0} of {1},显示 {1} 中的 {0}
+Showing {0} of {1} columns.,显示 {1} 列中的 {0} 列。
+Showing {0} of {1} rows and {2} of {3} columns.,显示 {1} 行中的 {0} 行和 {3} 列中的 {2} 列。
+Showing {0} of {1} rows.,显示 {1} 行中的 {0} 行。
+Shown as the group option's name. Auto-filled from the field; edit to override.,显示为分组选项的名称。从字段自动填充；编辑以覆盖。
+Shown only when: {0},仅在以下情况显示：{0}
+Shows which POS invoices were merged into a sales invoice.,显示哪些 POS 发票已合并到销售发票中。
+Sidebar Item,侧边栏项
+Sidebar Menu,侧边栏菜单
+Sidebar Moved,侧边栏已移动
+Sidebar Position,侧边栏位置
+Sidebar is no longer shipped with {0},侧边栏不再随 {0} 提供
+Sidebar reset for everyone,已为所有人重置侧边栏
+Sidebar reset to the site's,侧边栏已重置为站点的
+Sidebar saved to its app,侧边栏已保存到其应用
+Sidebar updated,侧边栏已更新
+Sidebar updated for everyone,已为所有人更新侧边栏
+Sides,边
+Sign In,登录
+Sign Up,注册
+Single Account,单个账户
+Single DocTypes cannot be renamed,单单据类型不能重命名
+Sizes,with icons (sm is the default)
+Skip Row,跳过行
+Skip every row that has one of these values. Skipped rows are not imported.,跳过具有这些值之一的每一行。跳过的行不会被导入。
+Skipped Rows,已跳过行
+Skipped row {0},已跳过第 {0} 行
+Slow,慢
+Small structured result returned by the action.,操作返回的小型结构化结果。
+Snapshot,快照
+Snapshot Report,快照报告
+Snapshot Reports,快照报告
+Snippet Type,片段类型
+Snippet name,片段名称
+Some cards were saved in another column,有些卡片保存在另一列中
+Some of its serial nos or batches should be short of stock on this date.,其某些序列号或批次在此日期应库存不足。
+Some settings tabs may not load. Please refresh the page.,某些设置选项卡可能无法加载。请刷新页面。
+Someone who can log in to your site.,可以登录你站点的人。
+Someone who might buy from you.,可能从你这里购买的人。
+Something that did not meet your quality standard.,未达到你质量标准的东西。
+Source Manufacture Entry,源制造分录
+Source Stock Entry (Manufacture),源库存分录（制造）
+Source Stock Entry {0} has no finished goods quantity,源库存分录 {0} 没有成品数量
+Source Warehouse is required for item {0},物料 {0} 需要源仓库
+Source warehouse required for stock item {0},库存物料 {0} 需要源仓库
+Space Between,间距
+Space Evenly,均匀分布
+Spacing,间距
+Split across pages,跨页拆分
+Split commission credit across multiple sales persons.,在多个销售人员之间拆分佣金贷记。
+Split view,拆分视图
+Split view in reports,报告中的拆分视图
+Splits one cost center's amounts across others by percentage.,按百分比将一个成本中心的金额拆分到其他成本中心。
+Spreads a yearly budget or target across months for seasonal businesses.,将年度预算或目标分摊到各月，适用于季节性业务。
+Sr. No,序号
+Stage,阶段
+Stale Running Minutes,陈旧运行分钟数
+Standard Cost,标准成本
+Standard DocType Settings Map can only be changed in Developer Mode.,标准单据类型设置映射只能在开发者模式下更改。
+Standard Kanban Boards can only be changed in developer mode,标准看板只能在开发者模式下更改
+Standard Kanban Boards can only be deleted in developer mode,标准看板只能在开发者模式下删除
+Standard Report,标准报告
+Standard list layout {0} already exists with a similar name,具有相似名称的标准列表布局 {0} 已存在
+Standard list layouts can only be changed in developer mode,标准列表布局只能在开发者模式下更改
+Standard list layouts can only be deleted in developer mode,标准列表布局只能在开发者模式下删除
+Standard maps are shipped with an app and can only be changed in Developer Mode. Leave unchecked for user-created (custom) maps.,标准映射随应用提供，只能在开发者模式下更改。对于用户创建的（自定义）映射，请保持未选中。
+Standard print formats can only be converted in developer mode,标准打印格式只能在开发者模式下转换
+Standard print formats can only be restored in developer mode,标准打印格式只能在开发者模式下恢复
+Standard reports can only be created in developer mode.,标准报告只能在开发者模式下创建。
+Standard workspaces can't be edited directly. Your changes are saved as a customization.,标准工作区不能直接编辑。你的更改将保存为自定义。
+Standard workspaces cannot be deleted. Reset to standard instead.,标准工作区不能删除。请改为重置为标准。
+Start Closed,开始时关闭
+Start Date cannot be after End Date,开始日期不能晚于结束日期
+Start blank,从空白开始
+Start from default,从默认开始
+Start the import before opening the Import step.,在打开导入步骤之前开始导入。
+Start with,以…开始
+Start with # to search by tag,以 # 开头以按标签搜索
+Started a background job to create {1} {0}. {2},已启动后台作业以创建 {1} {0}。{2}
+Started by,开始人
+Started on,开始于
+Starting from the default layout instead.,改为从默认布局开始。
+Starting import...,正在开始导入…
+Starts With,以…开始
+Statement Format,对账单格式
+Statement Of Accounts,账户对账单
+Statement PDF Password,对账单 PDF 密码
+Statement Period,对账单期间
+Static value,静态值
+Status and Reference,状态和参考
+Step Condition,步骤条件
+Step Key,步骤键
+Step Output Limit,步骤输出限制
+Step Type,步骤类型
+Step condition did not match,步骤条件不匹配
+Step {0} is not an If step,步骤 {0} 不是 If 步骤
+Step {0} of {1},{1} 的第 {0} 步
+Stock Closing Entry In Progress,库存结账分录进行中
+Stock Closing Entry Outdated,库存结账分录已过时
+Stock Closing Entry Required,需要库存结账分录
+Stock Closing Entry {0} belongs to a closed accounting period. Cancel the Period Closing Voucher {1} first.,库存结账分录 {0} 属于已关闭的会计期间。请先取消期间结账凭证 {1}。
+Stock Entries,库存分录
+Stock Expense,库存费用
+Stock Expense Accounting,库存费用会计
+Stock Frozen,库存已冻结
+Stock Ledger Entries of Cancelled Vouchers,已取消凭证的库存分类账分录
+Stock Ledger Entries of the selected vouchers have been cancelled and reposting has been queued.,所选凭证的库存分类账分录已取消，并已排队重新过账。
+Stock Ledgers won’t be reposted.,库存分类账将不会被重新过账。
+Stock Levels HTML,库存水平 HTML
+Stock Qty vs Batch Qty,库存数量与批次数量
+Stock Reservation Entries created,已创建库存预留分录
+Stock Update Not Allowed,不允许更新库存
+Stock Valuation Comparison,库存估值比较
+Stock Value Difference,库存价值差异
+Stock Value Mismatch,库存价值不匹配
+Stock account where inventory value for this item will be tracked,用于跟踪此物料库存价值的库存账户
+Stock and accounting values could not be reconciled by reposting for {0}.,无法通过重新过账为 {0} 对库存和会计价值进行对账。
+Stock cannot be updated for Purchase Invoice {0} because a Purchase Receipt {1} has already been created for this transaction. Please disable the 'Update Stock' checkbox in the Purchase Invoice and save the invoice.,无法为采购发票 {0} 更新库存，因为已为此交易创建采购收货 {1}。请禁用采购发票中的“更新库存”复选框并保存发票。
+Stock frozen up to,库存冻结至
+Stock not available to reserve for the Item {0} in Warehouse {1}.,仓库 {1} 中的物料 {0} 没有可预留的库存。
+Stock set aside for a sales order or production.,为销售订单或生产预留的库存。
+Stock transactions were created or modified after the Stock Closing Entry {0} was generated. Regenerate it before submitting the Period Closing Voucher.,在生成库存结账分录 {0} 之后创建或修改了库存交易。请在提交期间结账凭证之前重新生成它。
+Stop dispatching automations site-wide. Queued rows are left untouched.,停止全站范围调度自动化。排队的行保持不变。
+Stop on Error,出错时停止
+Strength:,强度：
+Strikethrough,删除线
+Striped,条纹
+Styled,已设置样式
+Sub Assembly Item Reference,子装配件物料参考
+Sub assembly item references are missing. Please fetch the sub assemblies and raw materials again.,子装配件物料参考缺失。请再次获取子装配件和原材料。
+Subcontracting Finished Good,分包成品
+Subcontracting Inward Order Secondary Item,分包入库订单次要物料
+Subcontracting Service Item,分包服务物料
+Submenus,子菜单
+Submit Journal entries,提交日记账分录
+Submit a {0} to finish this step.,提交 {0} 以完成此步骤。
+Submit another response,提交另一个回复
+Submit it to finish this step.,提交它以完成此步骤。
+Submit {0} documents?,提交 {0} 个文档？
+Submitted Job Card cannot be processed.,已提交的作业卡无法处理。
+Submitting,正在提交
+Submitting...,正在提交…
+Subscript,下标
+Success ({0}),成功（{0}）
+Successfully inserted {0},已成功插入 {0}
+Successfully inserted {0} and updated {1} out of {2} records.,已成功插入 {0} 并更新 {2} 条记录中的 {1} 条。
+Superscript,上标
+Supplier Defaults,供应商默认值
+Supplier Quotation {0} already exists against Request for Quotation {1},供应商报价单 {0} 已针对询价单 {1} 存在
+Supplier Required,供应商为必填项
+Supplier is required for all selected Items,所有所选物料都需要供应商
+Supported Variables:,支持的变量：
+Swimlanes,泳道
+Swimlanes (Group By),泳道（分组依据）
+Switch theme,切换主题
+Switch to CRM,切换到 CRM
+Switched back to Chromium: {0},已切换回 Chromium：{0}
+Switched to {0},已切换到 {0}
+Switching you to the new navigation\u2026,正在将你切换到新导航…
+Switching you to the new navigation…,正在将你切换到新导航…
+Sync Data,同步数据
+Sync In Batches,分批同步
+Sync Serial No Status,同步序列号状态
+Sync Timeout (Seconds),同步超时（秒）
+Synced,已同步
+System default,系统默认
+T,T
+TDS / withholding tax category applied when paying this supplier,支付此供应商时应用的 TDS/预扣税类别
+TDS/TCS is calculated at the rate defined here on every payment from this customer.,来自此客户的每笔付款均按此处定义的费率计算 TDS/TCS。
+TS-.YYYY.-,TS-.YYYY.-
+Table column conditions,表格列条件
+Table styling,表格样式
+Table title,表格标题
+Target Document Type is required,目标文档类型为必填项
+Target Warehouse is required for item {0},物料 {0} 需要目标仓库
+Task Name,任务名称
+Task Progress,任务进度
+Task id is required.,任务 ID 为必填项。
+Task list,任务列表
+Tax Identification,税号
+Tax Row,税行
+Tax Withholding Entries,预扣税分录
+Tax Withholding Entry,预扣税分录
+Tax Withholding Group,预扣税组
+Tax rates for items that are taxed differently from the rest.,与其他物料征税方式不同的物料的税率。
+Tax withheld only for amount exceeding cumulative threshold,仅对超过累计阈值的金额预扣税
+Taxable Date,应税日期
+Taxable Document Name,应税文档名称
+Taxable Document Type,应税文档类型
+Telephony,电话
+Template Name,模板名称
+Test Run,测试运行
+Test Run: {0},测试运行：{0}
+Text color,文本颜色
+Text direction,文本方向
+Text style,文本样式
+Thank you for reaching out to us. We will get back to you at the earliest.,感谢你联系我们。我们将尽快回复你。
+That Server Script is disabled,该服务器脚本已禁用
+The <strong>Doc Status</strong> for all states has been reset to <strong>0</strong> because <strong>{0}</strong> is not submittable,所有状态的 <strong>文档状态</strong> 已重置为 <strong>0</strong>，因为 <strong>{0}</strong> 不可提交
+The <strong>Doc Status</strong> for all states has been reset to <strong>Draft</strong> because <strong>{0}</strong> is not submittable,所有状态的 <strong>文档状态</strong> 已重置为 <strong>草稿</strong>，因为 <strong>{0}</strong> 不可提交
+The Administrator account may be compromised. Change the Administrator password immediately.,管理员账户可能已泄露。请立即更改管理员密码。
+The Company {0} of Sales Forecast {1} does not match with the Company {2} of Master Production Schedule {3}.,销售预测 {1} 的公司 {0} 与主生产计划 {3} 的公司 {2} 不匹配。
+The DocType these settings apply to.,这些设置适用的单据类型。
+The Excluded Fee is bigger than the Deposit it is deducted from.,排除的费用大于其扣除的存款。
+The File URL does not belong to this File record,文件 URL 不属于此文件记录
+The Stock Closing Entry for {0} is not completed yet. Wait for it to complete before submitting the Period Closing Voucher.,{0} 的库存结账分录尚未完成。请等待其完成后再提交期间结账凭证。
+The Typst block could not render its template: {0},Typst 块无法渲染其模板：{0}
+The Typst block in {0} does not compile: {1},{0} 中的 Typst 块无法编译：{1}
+The Typst block in {0} has a template error: {1},{0} 中的 Typst 块有模板错误：{1}
+The Typst renderer cannot embed this image: {0},Typst 渲染器无法嵌入此图像：{0}
+The VAT accounts to report in the South Africa VAT audit report.,在南非增值税审计报告中要报告的增值税账户。
+The account type of {0} cannot be changed from {1} because stock ledger entries exist against it.,{0} 的账户类型无法从 {1} 更改，因为已存在针对它的库存分类账分录。
+The app whose dock lists this module. A custom module may leave it empty and stand on its own.,其停靠栏列出此模块的应用。自定义模块可以将其留空并独立存在。
+The bank account is disabled. Please enable it,银行账户已禁用。请启用它
+The bank account is not a company account. Please select a company account,银行账户不是公司账户。请选择公司账户
+The block {0} points at a {1} this version of the app no longer ships.,块 {0} 指向此版本应用不再提供的 {1}。
+The card was saved in another column,卡片已保存在另一列中
+The change to {0} cannot be carried by a customization.,对 {0} 的更改不能由自定义承载。
+The classic builder can no longer create formats,经典构建器无法再创建格式
+The classic builder will be removed in version 17.,经典构建器将在版本 17 中移除。
+The classic builder will be removed in version 17. Convert this format to the new builder to keep editing it.,经典构建器将在版本 17 中移除。将此格式转换为新构建器以继续编辑。
+The closing balance {0} of the Stock Asset accounts does not match the closing value {1} of the Stock Balance report as on {2}. Resolve the difference using the Stock Ledger Variance report before closing the period.,库存资产账户的期末余额 {0} 与截至 {2} 的库存余额报告的期末价值 {1} 不匹配。请在关闭期间之前使用库存分类账差异报告解决差异。
+The colour {0} is not one the desk offers and was skipped.,颜色 {0} 不是桌面提供的颜色，已被跳过。
+The company {0} is not in South Africa. VAT Audit Report is only available for companies in South Africa.,公司 {0} 不在南非。增值税审计报告仅适用于南非的公司。
+The company {0} is not in United Arab Emirates. UAE VAT 201 report is only available for companies in United Arab Emirates.,公司 {0} 不在阿拉伯联合酋长国。UAE VAT 201 报告仅适用于阿拉伯联合酋长国的公司。
+The completed quantity {0} of an operation {1} cannot be greater than the completed quantity {2} of a previous operation {3}.,工序 {1} 的完成数量 {0} 不能大于前一工序 {3} 的完成数量 {2}。
+The completed quantity {0} of an operation {1} cannot be greater than the manufactured quantity {2} of a previous operation {3}. Submit the manufacturing entry for the operation {3} first.,工序 {1} 的完成数量 {0} 不能大于前一工序 {3} 的制造数量 {2}。请先提交工序 {3} 的制造分录。
+The contents and weight of each package in a delivery.,交付中每个包裹的内容和重量。
+The cost of the secondary items cannot exceed the raw material cost of {0}.,次要物料的成本不能超过 {0} 的原材料成本。
+The default value for the Check field {0} must be either '0' or '1',复选框字段 {0} 的默认值必须是“0”或“1”
+The dock as this arrangement leaves it.,此安排留下的停靠栏。
+The email button is enabled for the user in the document.,文档中为用户启用了电子邮件按钮。
+The final item that will be produced using this BOM.,将使用此 BOM 生产的最终物料。
+The fiscal year has been automatically created in a Disabled state to maintain consistency with the previous fiscal year's status.,会计年度已自动创建为禁用状态，以与上一会计年度的状态保持一致。
+The following Purchase Invoices are not submitted:,以下采购发票未提交：
+The following rows are duplicates:,以下行是重复的：
+The following rows are not valid fields of {0} and have to be removed: {1},以下行不是 {0} 的有效字段，必须移除：{1}
+The following vouchers are not submitted: {0},以下凭证未提交：{0}
+The frequency at which project progress and company transaction details will be updated. Set it to daily or monthly if you post a lot of transactions.,项目进度和公司交易详情更新的频率。如果你过账大量交易，请将其设置为每日或每月。
+The holidays and weekly offs of a company or employee.,公司或员工的假日和每周休息日。
+The items and quantities to pick from the warehouse.,要从仓库拣货的物料和数量。
+The last account row must not have any debit or credit amounts set.,最后一个账户行不能设置任何借方或贷方金额。
+The latest changes could not be saved and will be lost if you leave.,最新更改无法保存，如果你离开将会丢失。
+The latest changes to this letter head are not saved.,对此信头的最新更改未保存。
+The latest changes to this print format are not saved.,对此打印格式的最新更改未保存。
+The latest changes to {0} could not be saved.,对 {0} 的最新更改无法保存。
+The layout of {0} will be rewritten for the new builder. The original layout is kept as a backup you can restore from the Print Format form. Continue?,{0} 的布局将为新构建器重写。原始布局将保留为备份，你可以从打印格式表单恢复。是否继续？
+The link expires in 1 minute.,链接在 1 分钟后过期。
+The link expires in {0} minutes.,链接在 {0} 分钟后过期。
+The link {0} was added to a shipped card and cannot be carried by a customization.,链接 {0} 已添加到已提供的卡片，不能由自定义承载。
+The materials a subcontractor uses to make an item for you.,分包商为你制造物料所使用的材料。
+The materials and operations it takes to make an item.,制造物料所需的材料和工序。
+The module this workspace belongs to. Decides which module's dock entry and sidebar it appears under.,此工作区所属的模块。决定它出现在哪个模块的停靠栏条目和侧边栏下。
+The next generated name continues after this number.,下一个生成的名称在此数字之后继续。
+The order of operations to make an item.,制造物料的工序顺序。
+The outstanding amount {0} in {1} is lesser than {2}. Updating the outstanding to this invoice.,{1} 中的未结金额 {0} 小于 {2}。正在将未结金额更新为此发票。
+The parameters to check an item for.,检查物料的参数。
+The people responsible for maintaining assets.,负责维护资产的人员。
+The price of an item in a price list.,价格表中物料的价格。
+The print button is enabled for the user in the document.,文档中为用户启用了打印按钮。
+The progress of a BOM replacement or cost update.,BOM 替换或成本更新的进度。
+The questions to ask when collecting quality feedback.,收集质量反馈时要问的问题。
+The rate at which this item was last purchased via a Purchase Invoice. Auto-updated by the system.,此物料上次通过采购发票采购的费率。由系统自动更新。
+The rate to convert one currency into another.,将一种货币转换为另一种货币的汇率。
+The request could not be completed. Check your connection and try again.,请求无法完成。请检查你的连接并重试。
+The result of creating or submitting many documents at once.,一次创建或提交许多文档的结果。
+The rows and formulas of a custom financial statement.,自定义财务报表的行和公式。
+The rows of Item {0} in Warehouse {1} are not the stock it should hold on this date. Make the Adjustment Entry again from the Stock Valuation Comparison report.,仓库 {1} 中物料 {0} 的行不是它在此日期应持有的库存。请从库存估值比较报告再次创建调整分录。
+The serial numbers and batches moved in a transaction.,交易中移动的序列号和批次。
+The sidebar as this arrangement leaves it.,此安排留下的侧边栏。
+The standard chart for your country works for most businesses.,你国家的标准图表适用于大多数企业。
+The step condition that skipped this step.,跳过此步骤的步骤条件。
+The steps of a process you follow to keep quality in check.,你为保持质量而遵循的流程步骤。
+The tariff code an item is declared under at customs.,物料在海关申报的关税代码。
+The title of a standard workspace is managed by the app.,标准工作区的标题由应用管理。
+The uploaded file could not be parsed as a genericode XML document.,上传的文件无法解析为 genericode XML 文档。
+The user can create a new Item but cannot edit existing items.,用户可以创建新物料，但不能编辑现有物料。
+The user can delete Draft / Cancelled documents.,用户可以删除草稿/已取消的文档。
+The user can export report data.,用户可以导出报告数据。
+The user can import new records or update existing data for the document.,用户可以导入新记录或更新文档的现有数据。
+The user can select a Customer in Sales Order but cannot open the Customer master.,用户可以在销售订单中选择客户，但不能打开客户主数据。
+The user can share document access with another user.,用户可以与其他用户共享文档访问权限。
+The user can update a customer or any other fields in an existing Sales Order but cannot create a new Sales Order.,用户可以更新现有销售订单中的客户或任何其他字段，但不能创建新销售订单。
+The user can view Sales Invoices but cannot modify any field values in them.,用户可以查看销售发票，但不能修改其中的任何字段值。
+The warehouse account(s) below are not of type 'Stock'. Please set a correct Stock asset account on the warehouse (Account Type must be 'Stock'):,以下仓库账户不是“库存”类型。请在仓库上设置正确的库存资产账户（账户类型必须为“库存”）：
+The wording and fee for a kind of payment reminder.,一种付款提醒的措辞和费用。
+The work done for one operation of a work order.,为工单的一个工序所做的工作。
+The workspace list may not load. Please refresh the page.,工作区列表可能无法加载。请刷新页面。
+The workspace's place in the sidebar is not restored.,工作区在侧边栏中的位置未恢复。
+The year your books are kept and closed for.,你的账簿保留和关闭的年份。
+Theme and layout preferences.,主题和布局偏好。
+Theme name cannot contain '/' or path separators,主题名称不能包含“/”或路径分隔符
+Themes,主题
+There are no differences to fix.,没有要修复的差异。
+There are no serial / batch tracked raw materials or finished goods to map,没有要映射的序列/批次跟踪原材料或成品
+There is already a section called {0}.,已存在名为 {0} 的节。
+There is nothing else you need to do.,你无需做其他任何事情。
+There is nothing to export for {0}. Put some entries on its dock first.,{0} 没有可导出的内容。请先在其停靠栏上放置一些条目。
+These already have a pending repost and are left out:,这些已有待处理的重新过账，已被排除：
+These announcements will appear inside an alert below the Navbar.,这些公告将出现在导航栏下方的警报中。
+These cannot be settled by an Adjustment Entry and need a repost:,这些无法通过调整分录结清，需要重新过账：
+These fields no longer exist in the DocType and were removed from the layout: {0},这些字段不再存在于单据类型中，并已从布局中移除：{0}
+This DocType is deprecated and may be removed in a future release,此单据类型已弃用，可能会在未来的版本中移除
+This Job Card has no raw materials to transfer.,此作业卡没有要转移的原材料。
+This PDF is password protected. Please set the correct statement password on the Bank Account and try again.,此 PDF 受密码保护。请在银行账户上设置正确的对账单密码并重试。
+This Payment Entry is reconciled with {0}. Cancelling will automatically unreconcile it. Do you want to proceed?,此付款分录已与 {0} 对账。取消将自动取消对账。你想继续吗？
+This Web Form Request has already been used,此网页表单请求已被使用
+This Web Form Request has expired,此网页表单请求已过期
+This action does not support the selected trigger,此操作不支持所选触发器
+This action requires a Document Type,此操作需要文档类型
+This app has nothing to arrange,此应用没有可安排的内容
+This can be enabled at specific Item level as well,这也可以在特定物料级别启用
+This can take a minute. Please keep this page open.,这可能需要一分钟。请保持此页面打开。
+This can't be saved with a Typst block: {0},无法使用 Typst 块保存此内容：{0}
+This card is visible only to Administrator and System Managers by default. Set a DocType to share with users who have read access.,默认情况下，此卡片仅对管理员和系统管理员可见。设置单据类型以与具有读取权限的用户共享。
+This chart couldn't load,此图表无法加载
+This doctype isn't named by a series.,此单据类型不由系列命名。
+This document is a draft and cannot be printed.,此文档是草稿，无法打印。
+This document is cancelled and cannot be printed.,此文档已取消，无法打印。
+This document is locked,此文档已锁定
+This document type has no fields to print.,此文档类型没有可打印的字段。
+This email was sent from {0},此电子邮件发送自 {0}
+This feature is deprecated and may be removed in a future release,此功能已弃用，可能会在未来的版本中移除
+This flow has no steps to run.,此流程没有可运行的步骤。
+This format can no longer render through Typst: {0},此格式无法再通过 Typst 渲染：{0}
+This format cannot use the Typst renderer: {0},此格式不能使用 Typst 渲染器：{0}
+This format still has a classic layout. Convert it to the new builder first.,此格式仍有经典布局。请先将其转换为新构建器。
+This import is complete. There are no pending warnings or mapping issues.,此导入已完成。没有待处理的警告或映射问题。
+This invitation expires in 1 day.,此邀请在 1 天后过期。
+This invitation expires in {0} days.,此邀请在 {0} 天后过期。
+This invitation has expired,此邀请已过期
+This is a snapshot report generated {0}.,这是生成于 {0} 的快照报告。
+This is an archive of the previous navigation. Customize the module's sidebar instead.,这是先前导航的存档。请改为自定义模块的侧边栏。
+This label is already used by another {0} in this workspace.,此标签已被此工作区中的另一个 {0} 使用。
+This link is valid for {0} minutes,此链接有效期为 {0} 分钟
+This module has nothing to arrange,此模块没有可安排的内容
+This option is useful if you want to ensure a constant supply of raw materials/products and avoid shortage. A Material Request will be raised automatically when stock reached the re-order level defined in the Item form.,如果你想确保原材料/产品的持续供应并避免短缺，此选项很有用。当库存达到物料表单中定义的再订货水平时，将自动创建物料请求。
+This restores the classic layout backup and discards the converted layout. Continue?,这将恢复经典布局备份并放弃转换后的布局。是否继续？
+This role does not have access to any pages.,此角色无权访问任何页面。
+This role does not have access to any reports.,此角色无权访问任何报告。
+This role does not have access to any workspaces.,此角色无权访问任何工作区。
+This row has fewer cells than the header — check for missing commas or columns,此行的单元格少于表头——请检查缺少的逗号或列
+This row has more cells than the header — check for extra commas or columns,此行的单元格多于表头——请检查多余的逗号或列
+This site is in read-only mode - it is undergoing maintenance or being updated.,此站点处于只读模式——正在维护或更新。
+This site needs a migration,此站点需要迁移
+This statement has already been imported.,此对账单已导入。
+This supplier will be auto-selected in new purchase transactions,此供应商将在新的采购交易中自动选择
+This verification link is invalid. Please book the appointment again.,此验证链接无效。请重新预约。
+This version does not belong to {0},此版本不属于 {0}
+This will be applied if no naming series is configured in Item master,如果在物料主数据中未配置命名系列，将应用此项
+This will update the warehouse and status of Serial Nos counted in {0} to match the stock ledger. Continue?,这将更新 {0} 中盘点的序列号的仓库和状态，以匹配库存分类账。是否继续？
+This workspace is hidden from other users. You can see it because you're a Workspace Manager.,此工作区对其他用户隐藏。你可以看到它，因为你是工作区管理员。
+Threshold Exemption,阈值豁免
+Time logs,时间日志
+Time:,时间：
+Timeout (in seconds) for each background job enqueued by Process Period Closing Voucher,处理期间结账凭证排队的每个后台作业的超时时间（秒）
+Timeout must be between 1 and {0} seconds,超时必须在 1 到 {0} 秒之间
+Timesheet {0} cannot be invoiced in its current state,工时表 {0} 在其当前状态下无法开票
+Timing,时间安排
+Timing (quick preview: shorter delays),时间安排（快速预览：较短延迟）
+Tip,提示
+Tip: Select report lines to view their accounts,提示：选择报告行以查看其账户
+To Delete list generated with {0} DocTypes,已生成包含 {0} 个单据类型的要删除列表
+To Manufacture,要制造
+To Produce,要生产
+To Value,到值
+To a group of users,对一组用户
+To everyone,对所有人
+Toggle Flash,切换闪光灯
+Toggle error details,切换错误详情
+Too many redirects,重定向过多
+Too many requests. Please try again later.,请求过多。请稍后重试。
+Top level,顶层
+Total Advance Paid,预付款总额
+Total Advance Paid: {0},预付款总额：{0}
+Total Advance Received,预收款总额
+Total Advance Received: {0},预收款总额：{0}
+Total Completed qty,完成总数量
+Total Credit Transactions,贷记交易总数
+Total Credits,贷方总计
+Total Debit Transactions,借记交易总数
+Total Debits,借方总计
+Total Expenses booked through,通过以下方式记录的费用总额
+Total Ledgers,分类账总数
+Total Taxable Amount,应税总额
+Total Unpaid,未付总额
+Total distributed amount {0} must be equal to Budget Amount {1},分配总额 {0} 必须等于预算金额 {1}
+Total distribution percent must equal 100 (currently {0}),分配百分比总计必须等于 100（当前为 {0}）
+Total rows,总行数
+Total {0} of all items is zero. Set 'Distribute Charges Based On' to {1}.,所有物料的 {0} 总计为零。请将“费用分摊依据”设置为 {1}。
+Totals (Company Currency),总计（公司货币）
+Track each unit with a unique serial number for warranty and return tracking. Cannot be changed after a stock transaction exists.,使用唯一序列号跟踪每个单位，用于保修和退货跟踪。存在库存交易后无法更改。
+Track this item in batches. Cannot be changed after a stock transaction exists.,按批次跟踪此物料。存在库存交易后无法更改。
+Transaction Deletion Document {0} has been triggered for company {1},已为公司 {1} 触发交易删除文档 {0}
+Transaction Deletion Record To Delete,要删除的交易删除记录
+Transaction Deletion Record {0} is already running. {1},交易删除记录 {0} 已在运行。{1}
+Transaction Deletion Record {0} is currently deleting {1}. Cannot save documents until deletion completes.,交易删除记录 {0} 当前正在删除 {1}。在删除完成之前无法保存文档。
+Transaction Qty,交易数量
+Transaction Threshold,交易阈值
+Transaction date can't be earlier than previous movement date,交易日期不能早于先前移动日期
+Transaction for which tax is withheld,预扣税所针对的交易
+Transaction from which tax is withheld,预扣税所来自的交易
+"Transaction type column has ""C""/""D"" values",交易类型列具有“C”/“D”值
+"Transaction type column has ""CR""/""DR"" values",交易类型列具有“CR”/“DR”值
+"Transaction type column has ""Deposit""/""Withdrawal"" values",交易类型列具有“存款”/“取款”值
+Transferred Qty (in Stock UOM),转移数量（以库存计量单位）
+Transparent,透明
+Tree Parent Overrides,树父项覆盖
+Tree Preview,树预览
+Tree preview of {0} nodes,{0} 个节点的树预览
+Trial Balance requires {0} to be synced to DuckDB,试算平衡表需要将 {0} 同步到 DuckDB
+Trigger,触发器
+Trigger Field,触发字段
+Trigger Queue Row,触发器队列行
+Trigger Type,触发器类型
+Trigger primary action,触发主要操作
+Triggered At,触发时间
+Triggered By,触发者
+Triggering User,触发用户
+Truncated to 5k characters.,截断为 5k 个字符。
+Try a different search.,尝试不同的搜索。
+Try a different word.,尝试不同的词。
+Try it,试试
+Try the new navigation,尝试新导航
+Try the {0} for a better experience.,尝试 {0} 以获得更好的体验。
+Type Name,类型名称
+Type of financial statement this template generates,此模板生成的财务报表类型
+Type something...,输入一些内容…
+Type {0} or more characters for results.,输入 {0} 个或更多字符以获取结果。
+Types,类型
+Typst,Typst
+Typst (fast),Typst（快速）
+Typst Markup,Typst 标记
+Typst block requires the Typst renderer,Typst 块需要 Typst 渲染器
+Typst block — content appears in the PDF,Typst 块——内容出现在 PDF 中
+Typst cannot render:,Typst 无法渲染：
+Typst renderer unavailable,Typst 渲染器不可用
+UOM Conversion Details,计量单位换算详情
+UOM Defaults,计量单位默认值
+URL has no host,URL 没有主机
+URL is required,URL 为必填项
+URL must be http or https,URL 必须是 http 或 https
+UTM Analytics,UTM 分析
+Unable to Repost Accounting Ledger,无法重新过账会计分类账
+Unable to fetch DocType details. Please contact system administrator.,无法获取单据类型详情。请联系系统管理员。
+Unable to load attachments.,无法加载附件。
+Unassign,取消分配
+Unassign {0} from {1}?,从 {1} 取消分配 {0}？
+Unassigned {0},已取消分配 {0}
+Uncancelled Serial and Batch Bundle,未取消的序列和批次捆绑
+Under Withheld,预扣不足
+Under Withheld Reason,预扣不足原因
+Underline,下划线
+Undo Skip,撤销跳过
+Undo Skip Duplicates,撤销跳过重复项
+Undo a payment's match against invoices.,撤销付款与发票的匹配。
+Undo skip,撤销跳过
+Unexpected Naming Series Pattern,意外的命名系列模式
+Unit Of Measure,计量单位
+Unit Price,单价
+Unknown DocType,未知单据类型
+Unknown Email Template,未知电子邮件模板
+Unknown Server Script,未知服务器脚本
+Unknown automation action: {0},未知自动化操作：{0}
+Unknown automation relationship: {0},未知自动化关系：{0}
+Unknown derived relationship: {0},未知派生关系：{0}
+Unknown derived relationship: {0} on {1},{1} 上的未知派生关系：{0}
+Unknown parameter: {0},未知参数：{0}
+Unknown related-condition source alias: {0},未知相关条件源别名：{0}
+Unknown relationship source alias: {0},未知关系源别名：{0}
+Unlink Advance Payment on cancellation of order,取消订单时取消链接预付款
+Unlink Payment on cancellation of invoice,取消发票时取消链接付款
+Unlink {0},取消链接 {0}
+Unlink {0} {1} from {2}?,从 {2} 取消链接 {0} {1}？
+Unmark as Standard,取消标记为标准
+Unpin,取消固定
+Unregistered automation event: {0},未注册的自动化事件：{0}
+Unsafe html gets stripped,不安全的 HTML 会被剥离
+Unsaved changes,未保存的更改
+Unset as Primary,取消设为主
+Unsupported Feature,不支持的功能
+Unsupported HTTP method,不支持的 HTTP 方法
+Unsupported count comparison: {0},不支持的计数比较：{0}
+Unsupported file format: {0},不支持的文件格式：{0}
+Unsupported related condition: {0},不支持的相关条件：{0}
+Untitled,无标题
+Untitled section,无标题节
+Untitled {0},无标题 {0}
+Upcoming events,即将发生的事件
+Update Available,有可用更新
+Update Batch Qty,更新批次数量
+Update Price List based on,更新价格表基于
+Update existing Price List Rate,更新现有价格表费率
+Update {0} rows,更新 {0} 行
+Updated To A New Version \u{1F389},已更新到新版本 \u{1F389}
+Updated To A New Version u{1F389},已更新到新版本 u{1F389}
+Updated {0},已更新 {0}
+Updated {0} Financial Report Row(s) with new category name,已使用新类别名称更新 {0} 个财务报告行
+Updated {0} selected {1}. Save the form to keep changes.,已更新 {0} 个所选 {1}。保存表单以保留更改。
+Updating global search,正在更新全局搜索
+Updating search index,正在更新搜索索引
+Upload Failed,上传失败
+Upload Photo,上传照片
+Upload an image or use a URL,上传图像或使用 URL
+Upsert,更新插入
+Use 'Download Skipped Rows' on the Skipped metric to export the skipped rows.,在“已跳过”指标上使用“下载跳过行”以导出跳过的行。
+Use <strong>Python</strong> filters to get Accounts,使用 <strong>Python</strong> 筛选器获取账户
+Use HTML editor,使用 HTML 编辑器
+Use Kanban v2 (New Experience),使用看板 v2（新体验）
+Use Posting Datetime for Naming Documents,使用过账日期时间命名文档
+Use Serial / Batch fields,使用序列/批次字段
+Use Serial No Wise Valuation,使用序列号估值
+Use ampersand to match multiple terms,使用 & 匹配多个词项
+Use legacy Budget Controller,使用旧版预算控制器
+Use legacy controller for Period Closing Voucher,为期间结账凭证使用旧版控制器
+Use prices from Default Price List as fallback,使用默认价格表中的价格作为回退
+Use strong passwords.,使用强密码。
+Use template,使用模板
+Use {0} for values from the document.,使用 {0} 表示文档中的值。
+Used for inter-company transactions,用于公司间交易
+Used to balance the books when recording expenses added to stock,在记录添加到库存的费用时用于平衡账簿
+Used to pick the correct rate row inside the Tax Withholding Category for this supplier (e.g. Company vs Individual rates),用于为此供应商在预扣税类别中选择正确的费率行（例如公司 vs 个人费率）
+Used with Financial Report Template,与财务报告模板一起使用
+User Workspaces,用户工作区
+User added.,用户已添加。
+User created.,用户已创建。
+User don't have permissions to select/read this account.,用户无权选择/读取此账户。
+User not allowed to synchronize data from Frappe CRM on ERPNext. Contact System Manager of ERPNext.,不允许用户在 ERPNext 上从 Frappe CRM 同步数据。请联系 ERPNext 的系统管理员。
+User permission added,用户权限已添加
+Users can make manufacture entry against Job Cards,用户可以针对作业卡创建制造分录
+Users who have this role.,拥有此角色的用户。
+Users with any of these roles can see this workspace,具有这些角色中任一角色的用户可以看到此工作区
+Users with this role can still submit invoices for customers who have crossed their Overdue Limit.,具有此角色的用户仍可为超过逾期限制的客户提交发票。
+Users with this role will be notified if the asset depreciation gets failed,如果资产折旧失败，具有此角色的用户将收到通知
+Utilities,实用工具
+Valid Upto,有效期至
+Validate Material Transfer warehouses,验证物料转移仓库
+Validate consumed quantity (as per BOM),验证消耗数量（按 BOM）
+Validate selling price for Item against purchase or valuation rate,根据采购或估值率验证物料的销售价格
+Valuation Method for Item {0} must be Moving Average because Serial No Wise Valuation is disabled. Enable Serial No Wise Valuation to use FIFO or LIFO.,物料 {0} 的估值方法必须是移动平均，因为序列号估值已禁用。启用序列号估值以使用 FIFO 或 LIFO。
+Valuation Rate cannot be negative.,估值率不能为负。
+Valuation Type,估值类型
+Value Based On field is required to create a dashboard chart,创建仪表板图表需要“基于值”字段
+Value Color,值颜色
+Value Mappings,值映射
+Value Type,值类型
+Value from,值来自
+Value in File,文件中的值
+Value text,值文本
+Variant {0} and its template {1} cannot both be added to the same Pricing Rule,变体 {0} 及其模板 {1} 不能同时添加到同一定价规则中
+Variants,变体
+Verification Link Expiry Duration,验证链接过期时长
+Verification Token,验证令牌
+Verification link has expired.,验证链接已过期。
+Version History,版本历史
+Version deleted,版本已删除
+Version history,版本历史
+Version name,版本名称
+Version restored,版本已恢复
+Version saved,版本已保存
+Vertical,with icons
+Vertical (in a flex row),垂直（在弹性行中）
+Vertical whitespace,垂直空白
+View Account Coverage,查看账户覆盖范围
+View All Prices,查看所有价格
+View Documentation,查看文档
+View Stock Balance,查看库存余额
+View Stock Ledger,查看库存分类账
+View your response,查看你的回复
+Virtual DocType,虚拟单据类型
+Visibility conditions,可见性条件
+Visible,可见
+Visit Frappe Support Portal,访问 Frappe 支持门户
+Visual Plant Floor,可视化车间
+Voucher Created,凭证已创建
+Voucher Details,凭证详情
+Wait Resume,等待恢复
+Wait for Event correlation key rendered empty,等待事件关联键渲染为空
+Wait for Event requires a correlation key,等待事件需要关联键
+Wait for Event requires a timeout,等待事件需要超时
+Wait for Event timeout unit must be one of {0},等待事件超时单位必须是 {0} 之一
+Wait for it to finish. Deleting the lock file {} will not release the lock.,等待其完成。删除锁文件 {} 不会释放锁。
+Wait steps require a duration value and unit,等待步骤需要持续时间值和单位
+Waited for {0} (simulated),已等待 {0}（模拟）
+Waited {0} {1} (simulated),已等待 {0} {1}（模拟）
+Waiting,正在等待
+Waiting for {0},正在等待 {0}
+Waiting {0} seconds,等待 {0} 秒
+Warehouse Defaults,仓库默认值
+Warehouse is required to get producible FG Items,获取可生产成品物料需要仓库
+Warehouse {0} does not exist,仓库 {0} 不存在
+Warn or stop if Item rate is changed in Delivery Notes and Sales Invoices generated from a Sales Order.,如果从销售订单生成的交货单和销售发票中的物料费率发生更改，则警告或停止。
+Warn or stop if Item rate is changed in Purchase Invoice or Purchase Receipt generated from a Purchase Order.,如果从采购订单生成的采购发票或采购收货中的物料费率发生更改，则警告或停止。
+Warning: Account changed for warehouse,警告：仓库的账户已更改
+Warning: This action cannot be undone!,警告：此操作无法撤销！
+Warnings,警告
+We couldn't add the demo data,我们无法添加演示数据
+We couldn't apply the recommended settings,我们无法应用推荐设置
+We couldn't create your company,我们无法创建你的公司
+We couldn't finish setting things up,我们无法完成设置
+We couldn't finish setting up your apps,我们无法完成你的应用设置
+We couldn't personalize your setup,我们无法个性化你的设置
+We couldn't save your language and region,我们无法保存你的语言和区域
+We couldn't set up the basics,我们无法设置基础
+We do not allow editing of this document.,我们不允许编辑此文档。
+We look forward to meeting you,我们期待与你见面
+We'll use these to create your company and its accounts.,我们将使用这些来创建你的公司及其账户。
+WeasyPrint,WeasyPrint
+WeasyPrint cannot render this format: {0}. Switch the PDF Renderer to Chrome.,WeasyPrint 无法渲染此格式：{0}。请将 PDF 渲染器切换为 Chrome。
+WeasyPrint cannot render:,WeasyPrint 无法渲染：
+WeasyPrint cannot render: {0},WeasyPrint 无法渲染：{0}
+WeasyPrint is deprecated and cannot be selected for a new format. Use Chrome instead.,WeasyPrint 已弃用，无法为新格式选择。请改用 Chrome。
+WeasyPrint is deprecated and will be removed in version 17. Switch this format to Chrome.,WeasyPrint 已弃用，将在版本 17 中移除。请将此格式切换为 Chrome。
+WeasyPrint renderer unavailable,WeasyPrint 渲染器不可用
+Web Form Request,网页表单请求
+Web Form Request key is required,网页表单请求密钥为必填项
+Web Form Request link copied,网页表单请求链接已复制
+Web Form Values,网页表单值
+Web address,网址
+Week of the year,一年中的第几周
+Welcome to the Portal,欢迎来到门户
+Welcome! Please sign in to continue.,欢迎！请登录以继续。
+What an employee costs and bills per hour for an activity.,员工为某项活动每小时的成本和计费。
+What do you use today?,你今天使用什么？
+What it opens,它打开什么
+What kind of work do you do?,你做什么类型的工作？
+What prints now,现在打印什么
+What the recipient receives by email when this notification fires. Mirrors Title/Description by default; set these to make the email differ from the in-app text.,当此通知触发时收件人通过电子邮件收到什么。默认镜像标题/描述；设置这些以使电子邮件与应用内文本不同。
+What will be deleted:,将删除什么：
+What you did to fix or prevent a quality problem.,你为修复或预防质量问题所做的工作。
+Where a web address entry goes. A URL row has no shell and is gated by nothing.,网址条目指向哪里。URL 行没有外壳，且不受任何限制。
+Where each detail goes when you print on your bank's cheque.,当你打印到银行支票上时，每个细节的位置。
+Which module's sidebar this workspace appears in,此工作区出现在哪个模块的侧边栏中
+Which timestamp to show in the card footer.,在卡片页脚中显示哪个时间戳。
+Which warehouse received items go to.,收到的物料进入哪个仓库。
+Who are you setting this up for?,你为谁设置这个？
+Who can see this workspace,谁可以看到此工作区
+Widget Color,小组件颜色
+Width (px),宽度（像素）
+Width in pixels,宽度（像素）
+With a create action,带有创建操作
+With action,带有操作
+With click handlers,带有点击处理程序
+With description,带有描述
+With icon,带有图标
+With image,带有图像
+With indicator,带有指示器
+Withholding Date,预扣日期
+Withholding Document,预扣文档
+Withholding Document Name,预扣文档名称
+Withholding Document Type,预扣文档类型
+Work Order Additional Item,工单额外物料
+Work Order Mismatch,工单不匹配
+Work Order Not Finished,工单未完成
+Work Order must reference a row in Production Plan {0}.,工单必须引用生产计划 {0} 中的一行。
+Work Order must reference only one Production Plan row.,工单只能引用一个生产计划行。
+Work Order {0} has no produced qty,工单 {0} 没有生产数量
+Working draft \xB7 not applied yet,工作草稿 · 尚未应用
+Working draft · not applied yet,工作草稿 · 尚未应用
+Working...,正在工作…
+Works out the shipping charge on a sale or purchase.,计算销售或采购的运费。
+Workspace reset to standard,工作区已重置为标准
+Workspace updated,工作区已更新
+Workspace {0} deleted,工作区 {0} 已删除
+Workspaces this role can access.,此角色可以访问的工作区。
+Workspaces whose sidebars were merged to build this one. Read by the module-split tool.,其侧边栏被合并以构建此工作区的工作区。由模块拆分工具读取。
+Would {0} {1} (not sent),将 {0} {1}（未发送）
+Write Typst here. Use {0} for values from the document. Check the PDF preview to see the result.,在此编写 Typst。使用 {0} 表示文档中的值。检查 PDF 预览以查看结果。
+Write the format by hand in HTML and Jinja.,使用 HTML 和 Jinja 手写格式。
+Write the text to print,编写要打印的文本
+Write {0} into {1} so the app ships it?,将 {0} 写入 {1} 以便应用提供它？
+Year in 2 digits,年份 2 位数
+Year in 4 digits,年份 4 位数
+You,你
+You already have the maximum number of bulk PDF exports in progress. Please wait for one to finish.,你已有最大数量的批量 PDF 导出正在进行中。请等待其中一个完成。
+You are about to permanently delete data for {0} entries for company {1}.,你即将永久删除公司 {1} 的 {0} 个条目的数据。
+You are impersonating {0}.,你正在冒充 {0}。
+You are not allowed to assign layouts to other users,你不允许向其他用户分配布局
+You are not allowed to create or edit global layouts,你不允许创建或编辑全局布局
+You are not allowed to delete global layouts,你不允许删除全局布局
+You are not allowed to delete this layout,你不允许删除此布局
+You are not allowed to see this onboarding step,你不允许查看此入门步骤
+You are not allowed to update attendance for another user.,你不允许更新其他用户的考勤。
+You are not allowed to update global layouts,你不允许更新全局布局
+You are not allowed to update this layout,你不允许更新此布局
+You are not allowed to update this onboarding step,你不允许更新此入门步骤
+You are not permitted to access Company {0},你不允许访问公司 {0}
+You are not permitted to access {0}.,你不允许访问 {0}。
+You are not permitted to change Print Settings,你不允许更改打印设置
+You are not permitted to create a Task for Project {0},你不允许为项目 {0} 创建任务
+You are not permitted to print one of the selected documents,你不允许打印所选文档之一
+You are not permitted to repair the Stock Ledger Entries of {0} {1},你不允许修复 {0} {1} 的库存分类账分录
+You are not permitted to send SMS,你不允许发送短信
+You attached {0},你附加了 {0}
+You can also drag column borders directly in the list view to resize,你也可以在列表视图中直接拖动列边框来调整大小
+You can also use variables in the series name by putting them between (.) dots,你也可以通过将变量放在 (.) 点之间来在系列名称中使用变量
+You can continue other work while this runs. Progress updates will appear here.,此操作运行时你可以继续其他工作。进度更新将显示在此处。
+You can delete it anytime.,你可以随时删除它。
+You can only create a private workspace for yourself.,你只能为自己创建私有工作区。
+You can only edit your own replies.,你只能编辑自己的回复。
+You can use {0} to reconcile against {1} later.,你可以使用 {0} 稍后与 {1} 对账。
+You cancelled this document,你取消了此文档
+You cancelled this document {1},你取消了此文档 {1}
+You changed {0} to {1},你将 {0} 更改为 {1}
+You created this document,你创建了此文档
+You created this document {0},你创建了此文档 {0}
+You do not have access to Cloud Settings for this site.,你无权访问此站点的云设置。
+You do not have enough permission to access {0}: {1},你没有足够的权限访问 {0}：{1}
+You do not have permission to access this file,你无权访问此文件
+You do not have permission to create or restore documents of type {0}.,你无权创建或恢复类型 {0} 的文档。
+You do not have permission to import and submit bank transactions,你无权导入和提交银行交易
+You do not have permission to import bank transactions,你无权导入银行交易
+You do not have permission to restore this document.,你无权恢复此文档。
+You don't have permission to create Report records.,你无权创建报告记录。
+You don't have permission to create a Company Address. Please contact your System Manager.,你无权创建公司地址。请联系你的系统管理员。
+You don't have permission to create report for {0},你无权为 {0} 创建报告
+You don't have permission to print: {0},你无权打印：{0}
+You don't have permission to read/attach the file {0}.,你无权读取/附加文件 {0}。
+You don't have permission to update Company details. Please contact your System Manager.,你无权更新公司详情。请联系你的系统管理员。
+You don't have permission to update Received Qty DocField for item {0},你无权更新物料 {0} 的已收数量文档字段
+You don't have permission to update this document. Please contact your System Manager.,你无权更新此文档。请联系你的系统管理员。
+You don't have permission to view this.,你无权查看此内容。
+You have 1 pending {0} import with a file attached.,你有 1 个待处理的 {0} 导入，附有文件。
+You have no new notifications,你没有新通知
+You have {0} pending {1} imports with files attached.,你有 {0} 个待处理的 {1} 导入，附有文件。
+You last edited this document,你最后编辑了此文档
+You must login to use this form,你必须登录才能使用此表单
+You need the Workspace Manager role to create a workspace others can see.,你需要工作区管理员角色才能创建其他人可以看到的工作区。
+You need the Workspace Manager role to delete this workspace.,你需要工作区管理员角色才能删除此工作区。
+You need the Workspace Manager role to edit this workspace.,你需要工作区管理员角色才能编辑此工作区。
+You need the Workspace Manager role to make a workspace public.,你需要工作区管理员角色才能将工作区设为公开。
+You need the Workspace Manager role to manage this workspace.,你需要工作区管理员角色才能管理此工作区。
+You need the Workspace Manager role to move this workspace.,你需要工作区管理员角色才能移动此工作区。
+You need the Workspace Manager role to restore workspace edits.,你需要工作区管理员角色才能恢复工作区编辑。
+You need the Workspace Manager role to see pre-upgrade workspace edits.,你需要工作区管理员角色才能查看升级前的工作区编辑。
+You need to be Workspace Manager to change the dock for everyone.,你需要是工作区管理员才能为所有人更改停靠栏。
+You need to be Workspace Manager to change this for everyone.,你需要是工作区管理员才能为所有人更改此内容。
+You need to be Workspace Manager to reset a workspace.,你需要是工作区管理员才能重置工作区。
+You need to be Workspace Manager to reset the dock for everyone.,你需要是工作区管理员才能为所有人重置停靠栏。
+You need to be Workspace Manager to reset this for everyone.,你需要是工作区管理员才能为所有人重置此内容。
+You need to be Workspace Manager to see the dock's site layer.,你需要是工作区管理员才能查看停靠栏的站点层。
+You need to be Workspace Manager to see the sidebar's site layer.,你需要是工作区管理员才能查看侧边栏的站点层。
+You need write permissions to add attachments to this record.,你需要写入权限才能向此记录添加附件。
+You removed attachment {0},你移除了附件 {0}
+You submitted this document,你提交了此文档
+You submitted this document {0},你提交了此文档 {0}
+You will receive a copy of this email,你将收到此电子邮件的副本
+You will receive a copy of this email and a read receipt,你将收到此电子邮件的副本和已读回执
+You will receive a read receipt,你将收到已读回执
+You'll use these details to sign in.,你将使用这些详细信息登录。
+You're all set.,你已全部设置完成。
+You're invited to join {0},邀请你加入 {0}
+YouTube video player,YouTube 视频播放器
+Your Layouts,你的布局
+Your authorization attempt is invalid or has expired. Please try again.,你的授权尝试无效或已过期。请重试。
+Your email has been verified and your appointment has been confirmed for {0},你的电子邮件已验证，你的预约已确认为 {0}
+Your invitation has been cancelled,你的邀请已取消
+Your invitation to join {0} is no longer valid. Ask your team to send a new invitation if you'd still like to join.,你加入 {0} 的邀请不再有效。如果你仍想加入，请让你的团队发送新邀请。
+Your login ID is:,你的登录 ID 是：
+Your login attempt is invalid or has expired. Please try again.,你的登录尝试无效或已过期。请重试。
+Your password has expired. Please set a new password.,你的密码已过期。请设置新密码。
+Your session has expired due to inactivity. Please log in again to continue.,由于不活动，你的会话已过期。请重新登录以继续。
+Your verification code,你的验证码
+Zero-Quantity Line Items,零数量行项目
+Zip file extracts to more than the maximum allowed size of {0} MB,ZIP 文件解压后超过允许的最大大小 {0} MB
+Zoom,缩放
+\u2190 Back to upload files,← 返回上传文件
+a2bf,a2bf
+a352,a352
+a434,a434
+a4d3,a4d3
+a630,a630
+a640,a640
+a691,a691
+ab13,ab13
+ac1f,ac1f
+ad6d,ad6d
+added,已添加
+added {0} row(s) to {1},已将 {0} 行添加到 {1}
+ae40,ae40
+ae93,ae93
+and {0} more,以及另外 {0} 项
+app ships this off,应用默认关闭此项
+applied the builder draft,已应用构建器草稿
+as of {0},截至 {0}
+auto,自动
+b041,b041
+b0c0,b0c0
+b622,b622
+b64b,b64b
+b727,b727
+c04e,c04e
+c430,c430
+c6b6,c6b6
+c6cd,c6cd
+c740,c740
+c8ba,c8ba
+c975,c975
+ca84,ca84
+caad,caad
+card,卡片
+cc12,cc12
+ce4e,ce4e
+changed {0},已更改 {0}
+chart,图表
+cleared {0},已清除 {0}
+custom block,自定义块
+d,d
+d012,d012
+d039,d039
+d066,d066
+d1e7,d1e7
+d28b,d28b
+d2bb,d2bb
+d3b7,d3b7
+d44e,d44e
+d58f,d58f
+d784,d784
+d81d,d81d
+da84,da84
+dbb4,dbb4
+dbf1,dbf1
+ddb0,ddb0
+df75,df75
+e.g.,例如
+e.g. doc.apply_discount,例如 doc.apply_discount
+e.g. doc.status == 'Paid',例如 doc.status == 'Paid'
+e.g. row.qty > 0,例如 row.qty > 0
+e.g. {0},例如 {0}
+e01a,e01a
+e163,e163
+e177,e177
+e260,e260
+e439,e439
+e538,e538
+e893,e893
+e8b5,e8b5
+e95a,e95a
+edited {0} by {1},由 {1} 编辑了 {0}
+event,事件
+f5df,f5df
+f772,f772
+fb6a,fb6a
+fc6a,fc6a
+fdbc,fdbc
+fdbf,fdbf
+fieldname on the document e.g.,文档上的字段名，例如
+found,已找到
+frankfurter.dev,frankfurter.dev
+frankfurter.dev - v2,frankfurter.dev - v2
+from {0},来自 {0}
+h,h
+here,此处
+inverted,反转
+its app,其应用
+m,m
+none,无
+number card,数字卡片
+onboarding,入门
+or image URL,或图像 URL
+quick list,快速列表
+removed,已移除
+removed {0} row(s) from {1},已从 {1} 移除 {0} 行
+row {0},第 {0} 行
+rows {0},第 {0} 行
+s,s
+saved version {0},已保存版本 {0}
+set {0} to,将 {0} 设置为
+set {0} to {1} in row #{2},在第 #{2} 行将 {0} 设置为 {1}
+setup_wizard_text,setup_wizard_text
+shortcut,快捷方式
+the app,应用
+the sidebar generated from this module's contents,根据此模块内容生成的侧边栏
+the site's,站点的
+title,标题
+to open Awesome Bar,打开 Awesome Bar
+to open Global Search,打开全局搜索
+unlinked,未链接
+updated delivered quantity for item {0} to {1},已将物料 {0} 的已交付数量更新为 {1}
+updated {0},已更新 {0}
+value,值
+visible_types entries must be strings or {type: [fields]} maps,visible_types 条目必须是字符串或 {type: [fields]} 映射
+visible_types fields for {0} must be a list,{0} 的 visible_types 字段必须是列表
+visible_types is not valid JSON: {0},visible_types 不是有效的 JSON：{0}
+visible_types must be a list,visible_types 必须是列表
+what the apps ship,应用提供的内容
+widget,小组件
+wkhtmltopdf is deprecated. Chrome is the supported PDF renderer.,wkhtmltopdf 已弃用。Chrome 是支持的 PDF 渲染器。
+wkhtmltopdf is deprecated; Chrome is the supported renderer.,wkhtmltopdf 已弃用；Chrome 是支持的渲染器。
+{0} (Accounting Period {1}),{0}（会计期间 {1}）
+{0} (Copy),{0}（副本）
+{0} (New Builder),{0}（新构建器）
+{0} (by {1}),{0}（由 {1}）
+{0} (detected),{0}（检测到）
+{0} Budget for Account {1} against {2} {3} is {4}. It is already exceeded by {5}.,账户 {1} 针对 {2} {3} 的 {0} 预算为 {4}。已超出 {5}。
+{0} Budget for Account {1} against {2} {3} is {4}. It will be exceeded by {5}.,账户 {1} 针对 {2} {3} 的 {0} 预算为 {4}。将超出 {5}。
+{0} Naming Series,{0} 命名系列
+{0} Permission for {1},{1} 的 {0} 权限
+{0} and {1} more,{0} 以及另外 {1} 项
+{0} attached {1},{0} 附加了 {1}
+{0} belongs to its app and can only be edited in developer mode. Customize the sidebar instead to change it for this site.,{0} 属于其应用，只能在开发者模式下编辑。请改为自定义侧边栏以在此站点上更改它。
+{0} block,{0} 块
+{0} blocks,{0} 个块
+{0} can be either {1} or {2}.,{0} 可以是 {1} 或 {2}。
+{0} cancelled this document {1},{0} 取消了此文档 {1}
+{0} cannot be cleared against a bank statement,{0} 无法针对银行对账单清算
+{0} cannot be reconciled against a Bank Transaction,{0} 无法针对银行交易对账
+{0} cannot be used as an accounting dimension as it is not a standalone document type.,{0} 不能用作会计维度，因为它不是独立的文档类型。
+{0} contains invalid field(s): {1},{0} 包含无效字段：{1}
+{0} converted,{0} 已转换
+{0} created this document,{0} 创建了此文档
+{0} created this document {1},{0} 创建了此文档 {1}
+{0} creation for the following records will be skipped.,以下记录的 {0} 创建将被跳过。
+{0} documents become searchable for everyone in this site,{0} 个文档对此站点中的所有人变为可搜索
+{0} does not belong to the Company {1}.,{0} 不属于公司 {1}。
+{0} does not exist,{0} 不存在
+{0} does not hold a Serial and Batch Bundle,{0} 不持有序列和批次捆绑
+{0} does not support {1} triggers,{0} 不支持 {1} 触发器
+{0} doesn't belong to Company {1}. Please select a Cost Center that belongs to Company {1}.,{0} 不属于公司 {1}。请选择属于公司 {1} 的成本中心。
+{0} doesn't belong to Company {1}. Please select an Income Account that belongs to Company {1}.,{0} 不属于公司 {1}。请选择属于公司 {1} 的收入账户。
+{0} fields,{0} 个字段
+{0} has been modified after you pulled it. Please pull it again.,{0} 在你拉取后已被修改。请再次拉取。
+{0} has changed since you opened it. Refresh to get the latest version.,{0} 自你打开以来已更改。刷新以获取最新版本。
+{0} has children but Is Group is 0 — parent must be a group node,{0} 有子项但 Is Group 为 0——父项必须是组节点
+{0} has invited you to join {1}.,{0} 邀请你加入 {1}。
+{0} has no classic layout to restore,{0} 没有可恢复的经典布局
+{0} has no field {1},{0} 没有字段 {1}
+{0} has no serial / batch tracked finished good,{0} 没有序列/批次跟踪的成品
+{0} in {1},{1} 中的 {0}
+{0} is a Virtual DocType and must implement its own delete() method.,{0} 是虚拟单据类型，必须实现自己的 delete() 方法。
+{0} is a built-in Notification Type and cannot be deleted. Disable it instead.,{0} 是内置通知类型，无法删除。请改为禁用它。
+{0} is a child table and will be deleted automatically with its parent,{0} 是子表，将随其父项自动删除
+{0} is a custom HTML format and cannot be edited in the builder.,{0} 是自定义 HTML 格式，无法在构建器中编辑。
+{0} is a group Cost Center. Please select a non-group Cost Center.,{0} 是组成本中心。请选择非组成本中心。
+{0} is a group account. Please select a non-group Income Account.,{0} 是组账户。请选择非组收入账户。
+{0} is a shipped {1} edited in place; the app's version is shown.,{0} 是就地编辑的已提供 {1}；显示的是应用的版本。
+{0} is a standard format and cannot be changed. A copy with this name will open in the new builder.,{0} 是标准格式，无法更改。具有此名称的副本将在新构建器中打开。
+{0} is already a Reverse Journal Entry of {1}. Cancel it instead of reversing it.,{0} 已经是 {1} 的冲销日记账分录。请取消它而不是冲销它。
+{0} is already on the sidebar,{0} 已在侧边栏上
+{0} is an archive of the previous navigation and can no longer be edited. Customize the module's sidebar instead.,{0} 是先前导航的存档，无法再编辑。请改为自定义模块的侧边栏。
+{0} is back to standard,{0} 已恢复为标准
+{0} is disabled. Please select a valid Income Account.,{0} 已禁用。请选择有效的收入账户。
+{0} is disabled. Please select an enabled Cost Center.,{0} 已禁用。请选择启用的成本中心。
+{0} is empty \u2014 click to add,{0} 为空——点击添加
+{0} is empty — click to add,{0} 为空——点击添加
+{0} is in Draft. Submit it before creating the Asset.,{0} 处于草稿状态。在创建资产之前提交它。
+{0} is no longer a sidebar of {1}. Reopen the one you meant to arrange.,{0} 不再是 {1} 的侧边栏。请重新打开你打算安排的侧边栏。
+{0} is no longer standard; its exported file has been removed.,{0} 不再是标准；其导出的文件已被移除。
+{0} is not a CSV file.,{0} 不是 CSV 文件。
+{0} is not a child table,{0} 不是子表
+{0} is not a classic print format,{0} 不是经典打印格式
+{0} is not a finished good serial / batch produced by {1},{0} 不是由 {1} 生产的成品序列号/批次
+{0} is not a module you can assign a workspace to.,{0} 不是你可以分配工作区的模块。
+{0} is not a module.,{0} 不是模块。
+{0} is not a standard workspace.,{0} 不是标准工作区。
+{0} is not a valid Accounting Dimension.,{0} 不是有效的会计维度。
+{0} is not a valid condition: {1},{0} 不是有效的条件：{1}
+{0} is not a valid field of {1},{0} 不是 {1} 的有效字段
+{0} is not a valid reference field for {1},{0} 不是 {1} 的有效参考字段
+{0} is not a valid {1} fieldname.,{0} 不是有效的 {1} 字段名。
+{0} is not an Income Account. Please select a valid Income Account.,{0} 不是收入账户。请选择有效的收入账户。
+{0} is not an app on this site.,{0} 不是此站点上的应用。
+{0} is not an enabled Print Format for a Report,{0} 不是报告启用的打印格式
+{0} is now standard and exported to {1}.,{0} 现在是标准并已导出到 {1}。
+{0} is rendered from an HTML file and cannot be converted,{0} 从 HTML 文件渲染，无法转换
+{0} is rendered from an HTML file and cannot be edited in the builder.,{0} 从 HTML 文件渲染，无法在构建器中编辑。
+{0} is required to get raw materials when {1} is set.,当设置 {1} 时，获取原材料需要 {0}。
+{0} is required when {1} is {2},当 {1} 为 {2} 时，需要 {0}
+{0} is set from the lead's linked documents,{0} 从潜在客户的链接文档设置
+{0} is set from the opportunity's quotations,{0} 从商机的报价单设置
+{0} is the default print format for {1}. Disabling it will remove it as the default. Do you want to continue?,{0} 是 {1} 的默认打印格式。禁用它将其移除为默认。你想继续吗？
+{0} is the site's Demo Company and cannot be deleted directly. Use {1} instead.,{0} 是站点的演示公司，无法直接删除。请改用 {1}。
+{0} items,{0} 个物料
+{0} items disassembled,{0} 个物料已拆卸
+{0} items returned,{0} 个物料已退回
+{0} items to return,{0} 个要退回的物料
+{0} languages are marked as default languages. Please select only one of them.,{0} 种语言被标记为默认语言。请只选择其中一种。
+{0} last edited this document,{0} 最后编辑了此文档
+{0} missing,缺少 {0}
+{0} more not shown,另外 {0} 项未显示
+{0} moved under {1},{0} 已移动到 {1} 下
+{0} must be a JSON object,{0} 必须是 JSON 对象
+{0} must be a group warehouse of company {1}.,{0} 必须是公司 {1} 的组仓库。
+{0} must be a hex color code like #1a5fb4,{0} 必须是像 #1a5fb4 这样的十六进制颜色代码
+{0} must be greater than zero.,{0} 必须大于零。
+{0} must be text,{0} 必须是文本
+{0} now has no rail; its exported dock has been removed.,{0} 现在没有侧边栏；其导出的停靠栏已被移除。
+{0} of 120 files,120 个文件中的 {0} 个
+{0} of this app's modules are on no tier at all,此应用的 {0} 个模块根本不在任何层级上
+{0} of {1} cards could not be moved,{1} 张卡片中的 {0} 张无法移动
+{0} of {1} done \xB7 {2} skipped,{1} 中的 {0} 已完成 · {2} 已跳过
+{0} of {1} done · {2} skipped,{1} 中的 {0} 已完成 · {2} 已跳过
+{0} of {1} steps done,{1} 步中的 {0} 步已完成
+{0} only.,仅 {0}。
+{0} removed attachment {1},{0} 移除了附件 {1}
+{0} requires a Document Type,{0} 需要文档类型
+{0} requires a target document,{0} 需要目标文档
+{0} results found,找到 {0} 个结果
+{0} role changes,{0} 个角色更改
+{0} rows,{0} 行
+{0} rows from {1},来自 {1} 的 {0} 行
+{0} rows to {1},到 {1} 的 {0} 行
+{0} saved section(s) already exist by name and were not imported,{0} 个已保存的节按名称已存在，未被导入
+{0} selected,已选择 {0}
+{0} ships no dock yet. Export one to the app first.,{0} 尚未提供停靠栏。请先向应用导出一个。
+{0} should be in format: app.module.method,{0} 的格式应为：app.module.method
+{0} submitted this document {1},{0} 提交了此文档 {1}
+{0} trigger requires a Document Type,{0} 触发器需要文档类型
+{0} units of Item {1} is not available in any of the warehouses. Other Pick Lists exist for this item.,物料 {1} 的 {0} 个单位在任何仓库中都不可用。此物料存在其他拣货单。
+{0} units of {1} are required in {2} with the inventory dimension: {3} on {4} {5} for {6} to complete the transaction.,需要 {1} 的 {0} 个单位在 {2} 中，库存维度为：{3}，在 {4} {5} 上，以便 {6} 完成交易。
+{0} unlinked,{0} 已取消链接
+{0} view is currently unsupported in Custom Financial Report.,自定义财务报告目前不支持 {0} 视图。
+{0} warnings found.,找到 {0} 个警告。
+{0} was set to today for items whose requested date has passed,对于请求日期已过的物料，{0} 已设置为今天
+{0} {1} is blocked and on hold until {2}.,{0} {1} 被阻止并暂停至 {2}。
+{0} {1} is blocked.,{0} {1} 被阻止。
+{0} {1} not allowed to be reposted. You can enable it by adding it '{2}' table in {3}.,不允许重新过账 {0} {1}。你可以通过将其添加到 {3} 中的“{2}”表来启用。
+{0} {1} returned {2},{0} {1} 返回了 {2}
+{0} {1} returned {2}: {3},{0} {1} 返回了 {2}：{3}
+{0} {1} was submitted but could not be reconciled against Bank Transaction {2}. Match it manually from the Bank Reconciliation Tool.,{0} {1} 已提交，但无法针对银行交易 {2} 对账。请从银行对账工具手动匹配。
+{0}'s dock belongs to its app and can only be authored in developer mode. Arrange the dock instead to change it for this site.,{0} 的停靠栏属于其应用，只能在开发者模式下编写。请改为安排停靠栏以在此站点上更改它。
+{0}'s dock is now standard and exported to the app.,{0} 的停靠栏现在是标准并已导出到应用。
+{0}'s roles come from the Role Profile {1}. Edit that to change this.,{0} 的角色来自角色配置文件 {1}。请编辑它以更改此内容。
+{0}'s {1} cannot be before {2}'s Expected Start Date.,{0} 的 {1} 不能早于 {2} 的预期开始日期。
+{0}.,{0}。
+{0}: Child table (auto-deleted with parent),{0}：子表（随父项自动删除）
+{0}: Link field cannot reference DocType {1} without Guest read permission,{0}：如果没有访客读取权限，链接字段不能引用单据类型 {1}
+{0}: Not found,{0}：未找到
+{0}: Protected DocType,{0}：受保护的单据类型
+{0}: Virtual DocType (no database table),{0}：虚拟单据类型（无数据库表）
+{0}: pre-upgrade edits restored,{0}：升级前编辑已恢复
+{0}: remove invalid value(s) {1},{0}：移除无效值 {1}
+{0}: select the typed value {1} from the list or clear it,{0}：从列表中选择键入的值 {1} 或清除它
+{0}: {1} did not match any results.,{0}：{1} 未匹配任何结果。
+{0}: {1} does not exist,{0}：{1} 不存在
+{0}: {1} is not a valid field on {2},{0}：{1} 不是 {2} 上的有效字段
