@@ -4,13 +4,22 @@ ERPNext Chinese Translation Extensions
 
 ### Installation
 
-You can install this app using the [bench](https://github.com/frappe/bench) CLI:
+仓库地址：<https://github.com/0409linxiansheng/yyj-translate>
+
+仓库名是 `yyj-translate`，但这个 app 的名字（`pyproject.toml` 里的包名）是 `wlh_translate`。
+`bench get-app` 是「克隆目录用仓库名、安装时用 app 名拼路径」，两者不一致时最后那步
+`pip install -e apps/wlh_translate` 会找不到目录，所以在新 bench 上请手动克隆到 `apps/wlh_translate`：
 
 ```bash
-cd $PATH_TO_YOUR_BENCH
-bench get-app $URL_OF_THIS_REPO --branch HEAD
-bench install-app wlh_translate
+cd ~/frappe-bench
+git clone https://github.com/0409linxiansheng/yyj-translate.git apps/wlh_translate
+env/bin/python -m pip install -e apps/wlh_translate
+echo wlh_translate >> sites/apps.txt            # frappe 靠 apps.txt 认识这个 app
+bench --site <站点> install-app wlh_translate   # after_install 钩子会自动编译 mo，装完即中文
 ```
+
+已经在用的 bench 不需要上面这些，`cd apps/wlh_translate && git pull` 即可（origin 与分支跟踪已配好）；
+拉完跑一次 `bench --site <站点> migrate`（或 `install-app`）让 `after_migrate` 钩子重新编译 mo。
 
 ### Contributing
 
