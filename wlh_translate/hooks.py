@@ -96,7 +96,9 @@ app_license = "mit"
 # ------------
 
 # before_install = "wlh_translate.install.before_install"
-# after_install = "wlh_translate.install.after_install"
+# 让新装的 bench 立刻有中文：把 locale/zh.po 编译成运行时要读的 mo
+after_install = "wlh_translate.translation.install.compile_po_files"
+after_migrate = ["wlh_translate.translation.install.compile_po_files"]
 
 # Uninstallation
 # ------------
@@ -272,3 +274,6 @@ app_license = "mit"
 # List of apps whose translatable strings should be excluded from this app's translations.
 # ignore_translatable_strings_from = []
 
+
+# Custom Account tree translation
+doctype_tree_js = {"Account": "public/js/account_tree.js"}
