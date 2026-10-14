@@ -6,6 +6,7 @@
 **/desktop_icon/*.json,frappe.gettext.extractors.desktop_icon.extract
 **/workspace_sidebar/*.json,frappe.gettext.extractors.workspace_sidebar.extract
 **/sidebar/*/*.json,frappe.gettext.extractors.sidebar.extract
+**/dock/*/*.json,wlh_translate.translation.extractors.dock
 **/workspace/*/*.json,frappe.gettext.extractors.workspace.extract
 **/web_form/*/*.json,frappe.gettext.extractors.web_form.extract
 **/onboarding_step/*/*.json,frappe.gettext.extractors.onboarding_step.extract
@@ -13,6 +14,7 @@
 **/report/*/*.json,wlh_translate.translation.extractors.report
 **/custom/*.json,frappe.gettext.extractors.customization.extract
 **/fixtures/custom_field.json,frappe.gettext.extractors.custom_field.extract
+**/default_views.py,wlh_translate.translation.extractors.hd_view
 **.py,frappe.gettext.extractors.python.extract
 **/templates/**.js,wlh_translate.translation.extractors.html_template
 **.js,wlh_translate.translation.extractors.javascript
@@ -20,3 +22,18 @@
 **.vue,wlh_translate.translation.extractors.html_template
 **.ts,wlh_translate.translation.extractors.html_template
 **.tsx,wlh_translate.translation.extractors.html_template
+**/number_card/*/*.json,wlh_translate.translation.extractors.record_json
+**/dashboard_chart/*/*.json,wlh_translate.translation.extractors.record_json
+**/dashboard_chart_source/*/*.json,wlh_translate.translation.extractors.record_json
+**/*_dashboard/*/*.json,wlh_translate.translation.extractors.record_json
+**/print_format/*/*.json,wlh_translate.translation.extractors.record_json
+**/print_format_field_template/*/*.json,wlh_translate.translation.extractors.record_json
+**/print_style/*/*.json,wlh_translate.translation.extractors.record_json
+**/letter_head/*/*.json,wlh_translate.translation.extractors.record_json
+**/web_template/*/*.json,wlh_translate.translation.extractors.record_json
+**/website_theme/*/*.json,wlh_translate.translation.extractors.record_json
+**/form_tour/*/*.json,wlh_translate.translation.extractors.record_json
+**/financial_report_template/*/*.json,wlh_translate.translation.extractors.record_json
+**/email_template/*/*.json,wlh_translate.translation.extractors.record_json
+**/notification/*/*.json,wlh_translate.translation.extractors.record_json
+**/notification/*/*/*.json,wlh_translate.translation.extractors.record_json

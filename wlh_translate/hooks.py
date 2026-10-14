@@ -35,7 +35,8 @@ app_license = "mit"
 
 # include js, css files in header of desk.html
 # app_include_css = "/assets/wlh_translate/css/wlh_translate.css"
-# app_include_js = "/assets/wlh_translate/js/wlh_translate.js"
+# 让停靠栏 / 排列编辑器里的条目名走一次 __()，否则它们直接显示 dock 记录里存的英文模块名
+app_include_js = "/assets/wlh_translate/js/dock_label.js"
 
 # include js, css files in header of web template
 # web_include_css = "/assets/wlh_translate/css/wlh_translate.css"

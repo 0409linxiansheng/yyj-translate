@@ -9,7 +9,8 @@
 	**唯一归档**。所有译文最终都存在这里，也是运行时真正被读取的东西：
 	``bench wlh-extract-translations`` 会把它编译成
 	``sites/assets/locale/zh/LC_MESSAGES/wlh_translate.mo``。
-	本 app 是最后安装的，所以这个 mo 会覆盖 frappe / erpnext 自带的 mo。
+	运行时按 ``installed_apps`` 的顺序叠加，越靠后优先级越高；排在 frappe /
+	erpnext 之后就能覆盖它们的译文（详见 README「译文优先级」）。
 
 ``all_translation_worklist.csv``
 	**翻译工作台**。只有还没译文的词条，第 4 列填中文，译完跑
@@ -23,7 +24,8 @@
 （``merge_pot_into_po``），这样你手工补的、源码里扫不到的词条（比如界面定制的标签）
 不会被下一次提取冲掉。
 
-扫描范围上的两处补充见 ``extractors.py``。
+扫描范围上的补充（记录型 JSON、界面 JSON、注释里的翻译标记、page / 报表列名等）
+见 ``extractors.py`` 与 ``babel_extractors.csv``。
 """
 
 from __future__ import annotations
