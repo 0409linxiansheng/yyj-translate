@@ -5,7 +5,7 @@
 这些用例不依赖站点数据库，可以在 frappe / erpnext 升级后随时跑，确认
 “别人新加的 JSON 界面类型 / 新写法”没有把我们的提取能力悄悄削弱：
 
-	bench --site <site> run-tests --app wlh_translate
+	bench --site <site> run-tests --app yyj_translate
 """
 
 import io
@@ -15,7 +15,7 @@ import unittest
 from babel.messages.extract import extract as babel_extract
 from frappe.gettext.translate import PYTHON_KEYWORDS
 
-from wlh_translate.translation import extractors
+from yyj_translate.translation import extractors
 
 
 def run(extractor, payload: dict | str, filename: str = "sample.json"):

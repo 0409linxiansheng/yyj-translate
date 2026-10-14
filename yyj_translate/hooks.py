@@ -1,4 +1,4 @@
-app_name = "wlh_translate"
+app_name = "yyj_translate"
 app_title = "YYJ Translate"
 app_publisher = "云屿集"
 app_description = "ERPNext Chinese Translation Extensions"
@@ -13,17 +13,17 @@ app_license = "mit"
 # Each item in the list will be shown as an app in the apps page
 # add_to_apps_screen = [
 # 	{
-# 		"name": "wlh_translate",
-# 		"logo": "/assets/wlh_translate/logo.png",
+# 		"name": "yyj_translate",
+# 		"logo": "/assets/yyj_translate/logo.png",
 # 		"title": "YYJ Translate",
-# 		"route": "/wlh_translate",
-# 		"has_permission": "wlh_translate.api.permission.has_app_permission",
+# 		"route": "/yyj_translate",
+# 		"has_permission": "yyj_translate.api.permission.has_app_permission",
 # 	}
 # ]
 
 # The dock, the rail down the left of the desk, is a document rather than a hook. Author it in
 # Manage Dock on a developer-mode site and press Export to App, and it is written to
-# `wlh_translate/dock/wlh_translate/wlh_translate.json` for git to carry. An app that ships none has no
+# `yyj_translate/dock/yyj_translate/yyj_translate.json` for git to carry. An app that ships none has no
 # rail: its sidebar gets a switcher in the header instead.
 #
 # A companion app, one that extends a host app rather than standing on its own, says so with
@@ -34,16 +34,16 @@ app_license = "mit"
 # ------------------
 
 # include js, css files in header of desk.html
-# app_include_css = "/assets/wlh_translate/css/wlh_translate.css"
+# app_include_css = "/assets/yyj_translate/css/yyj_translate.css"
 # 让停靠栏 / 排列编辑器里的条目名走一次 __()，否则它们直接显示 dock 记录里存的英文模块名
-app_include_js = "/assets/wlh_translate/js/dock_label.js"
+app_include_js = "/assets/yyj_translate/js/dock_label.js"
 
 # include js, css files in header of web template
-# web_include_css = "/assets/wlh_translate/css/wlh_translate.css"
-# web_include_js = "/assets/wlh_translate/js/wlh_translate.js"
+# web_include_css = "/assets/yyj_translate/css/yyj_translate.css"
+# web_include_js = "/assets/yyj_translate/js/yyj_translate.js"
 
 # include custom scss in every website theme (without file extension ".scss")
-# website_theme_scss = "wlh_translate/public/scss/website"
+# website_theme_scss = "yyj_translate/public/scss/website"
 
 # include js, css files in header of web form
 # webform_include_js = {"doctype": "public/js/doctype.js"}
@@ -62,7 +62,7 @@ app_include_js = "/assets/wlh_translate/js/dock_label.js"
 # Svg Icons
 # ------------------
 # include app icons in desk
-# app_include_icons = "wlh_translate/public/icons.svg"
+# app_include_icons = "yyj_translate/public/icons.svg"
 
 # Home Pages
 # ----------
@@ -89,57 +89,57 @@ app_include_js = "/assets/wlh_translate/js/dock_label.js"
 
 # add methods and filters to jinja environment
 # jinja = {
-# 	"methods": "wlh_translate.utils.jinja_methods",
-# 	"filters": "wlh_translate.utils.jinja_filters"
+# 	"methods": "yyj_translate.utils.jinja_methods",
+# 	"filters": "yyj_translate.utils.jinja_filters"
 # }
 
 # Installation
 # ------------
 
-# before_install = "wlh_translate.install.before_install"
+# before_install = "yyj_translate.install.before_install"
 # 让新装的 bench 立刻有中文：把 locale/zh.po 编译成运行时要读的 mo
-after_install = "wlh_translate.translation.install.compile_po_files"
-after_migrate = ["wlh_translate.translation.install.compile_po_files"]
+after_install = "yyj_translate.translation.install.compile_po_files"
+after_migrate = ["yyj_translate.translation.install.compile_po_files"]
 
 # Uninstallation
 # ------------
 
-# before_uninstall = "wlh_translate.uninstall.before_uninstall"
-# after_uninstall = "wlh_translate.uninstall.after_uninstall"
+# before_uninstall = "yyj_translate.uninstall.before_uninstall"
+# after_uninstall = "yyj_translate.uninstall.after_uninstall"
 
 # Integration Setup
 # ------------------
 # To set up dependencies/integrations with other apps
 # Name of the app being installed is passed as an argument
 
-# before_app_install = "wlh_translate.utils.before_app_install"
-# after_app_install = "wlh_translate.utils.after_app_install"
+# before_app_install = "yyj_translate.utils.before_app_install"
+# after_app_install = "yyj_translate.utils.after_app_install"
 
 # Integration Cleanup
 # -------------------
 # To clean up dependencies/integrations with other apps
 # Name of the app being uninstalled is passed as an argument
 
-# before_app_uninstall = "wlh_translate.utils.before_app_uninstall"
-# after_app_uninstall = "wlh_translate.utils.after_app_uninstall"
+# before_app_uninstall = "yyj_translate.utils.before_app_uninstall"
+# after_app_uninstall = "yyj_translate.utils.after_app_uninstall"
 
 # Build
 # ------------------
 # To hook into the build process
 
-# after_build = "wlh_translate.build.after_build"
+# after_build = "yyj_translate.build.after_build"
 
 # Desk Notifications
 # ------------------
 # See frappe.core.notifications.get_notification_config
 
-# notification_config = "wlh_translate.notifications.get_notification_config"
+# notification_config = "yyj_translate.notifications.get_notification_config"
 
 # Awesome Bar
 # -----------
 # Extra search results: list of dicts with label, description, route, index.
 # route: ["List", "ToDo"], "/desk/docs/some/page", or "https://example.com"
-# awesomebar_search = ["wlh_translate.search.awesomebar_results"]
+# awesomebar_search = ["yyj_translate.search.awesomebar_results"]
 
 # Permissions
 # -----------
@@ -170,47 +170,47 @@ after_migrate = ["wlh_translate.translation.install.compile_po_files"]
 
 # scheduler_events = {
 # 	"all": [
-# 		"wlh_translate.tasks.all"
+# 		"yyj_translate.tasks.all"
 # 	],
 # 	"daily": [
-# 		"wlh_translate.tasks.daily"
+# 		"yyj_translate.tasks.daily"
 # 	],
 # 	"hourly": [
-# 		"wlh_translate.tasks.hourly"
+# 		"yyj_translate.tasks.hourly"
 # 	],
 # 	"weekly": [
-# 		"wlh_translate.tasks.weekly"
+# 		"yyj_translate.tasks.weekly"
 # 	],
 # 	"monthly": [
-# 		"wlh_translate.tasks.monthly"
+# 		"yyj_translate.tasks.monthly"
 # 	],
 # }
 
 # Testing
 # -------
 
-# before_tests = "wlh_translate.install.before_tests"
+# before_tests = "yyj_translate.install.before_tests"
 
 # Extend DocType Class
 # ------------------------------
 #
 # Specify custom mixins to extend the standard doctype controller.
 # extend_doctype_class = {
-# 	"Task": "wlh_translate.custom.task.CustomTaskMixin"
+# 	"Task": "yyj_translate.custom.task.CustomTaskMixin"
 # }
 
 # Overriding Methods
 # ------------------------------
 #
 # override_whitelisted_methods = {
-# 	"frappe.desk.doctype.event.event.get_events": "wlh_translate.event.get_events"
+# 	"frappe.desk.doctype.event.event.get_events": "yyj_translate.event.get_events"
 # }
 #
 # each overriding function accepts a `data` argument;
 # generated from the base implementation of the doctype dashboard,
 # along with any modifications made in other Frappe apps
 # override_doctype_dashboards = {
-# 	"Task": "wlh_translate.task.get_dashboard_data"
+# 	"Task": "yyj_translate.task.get_dashboard_data"
 # }
 
 # exempt linked doctypes from being automatically cancelled
@@ -224,13 +224,13 @@ after_migrate = ["wlh_translate.translation.install.compile_po_files"]
 
 # Request Events
 # ----------------
-# before_request = ["wlh_translate.utils.before_request"]
-# after_request = ["wlh_translate.utils.after_request"]
+# before_request = ["yyj_translate.utils.before_request"]
+# after_request = ["yyj_translate.utils.after_request"]
 
 # Job Events
 # ----------
-# before_job = ["wlh_translate.utils.before_job"]
-# after_job = ["wlh_translate.utils.after_job"]
+# before_job = ["yyj_translate.utils.before_job"]
+# after_job = ["yyj_translate.utils.after_job"]
 
 # User Data Protection
 # --------------------
@@ -260,7 +260,7 @@ after_migrate = ["wlh_translate.translation.install.compile_po_files"]
 # --------------------------------
 
 # auth_hooks = [
-# 	"wlh_translate.auth.validate"
+# 	"yyj_translate.auth.validate"
 # ]
 
 # Automatically update python controller files with type annotations for this app.

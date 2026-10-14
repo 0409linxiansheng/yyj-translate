@@ -1,6 +1,6 @@
 # Copyright (c) 2026, 云屿集 and contributors
 # License: MIT. See LICENSE
-"""wlh_translate 自带的 bench 命令。
+"""yyj_translate 自带的 bench 命令。
 
 放在 ``<app>/commands.py`` 里，bench 启动时会自动发现 ``commands`` 列表，
 不需要改 frappe / erpnext 的任何文件。
@@ -14,7 +14,7 @@ from frappe.utils import get_bench_path
 from frappe.utils.bench_helper import CliCtxObj
 
 
-@click.command("wlh-extract-translations")
+@click.command("yyj-extract-translations")
 @click.option(
 	"--apps",
 	default=None,
@@ -42,7 +42,7 @@ from frappe.utils.bench_helper import CliCtxObj
 	help="导出全部字符串，而不是只导出还没有译文的",
 )
 @pass_context
-def wlh_extract_translations(
+def yyj_extract_translations(
 	context: CliCtxObj,
 	apps: str | None,
 	lang: str,
@@ -52,7 +52,7 @@ def wlh_extract_translations(
 	include_all: bool,
 ):
 	"""汇总扫描所有已安装 app 的可翻译字符串（含 workspace / sidebar / onboarding 等 JSON 来源）"""
-	from wlh_translate.translation.extract import run_extraction
+	from yyj_translate.translation.extract import run_extraction
 
 	site = get_site(context)
 	frappe.init(site)
@@ -85,7 +85,7 @@ def wlh_extract_translations(
 		click.echo(f"工作清单：{summary['worklist_path']}")
 
 
-@click.command("wlh-import-translations")
+@click.command("yyj-import-translations")
 @click.option(
 	"--worklist",
 	"worklist_path",
@@ -100,11 +100,11 @@ def wlh_extract_translations(
 	help="只补 PO 里还没有译文的词条，不覆盖已有译文",
 )
 @pass_context
-def wlh_import_translations(
+def yyj_import_translations(
 	context: CliCtxObj, worklist_path: str | None, lang: str, no_overwrite: bool
 ):
-	"""把工作清单里填好的译文回填进 wlh_translate 的 PO 归档，并重新编译 mo"""
-	from wlh_translate.translation.extract import run_import
+	"""把工作清单里填好的译文回填进 yyj_translate 的 PO 归档，并重新编译 mo"""
+	from yyj_translate.translation.extract import run_import
 
 	site = get_site(context)
 	frappe.init(site)
@@ -127,4 +127,4 @@ def wlh_import_translations(
 	click.echo("已清缓存，刷新界面即可看到新译文。")
 
 
-commands = [wlh_extract_translations, wlh_import_translations]
+commands = [yyj_extract_translations, yyj_import_translations]

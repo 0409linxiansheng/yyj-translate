@@ -14,7 +14,7 @@
 (() => {
     const proto = frappe.ui?.Sidebar?.prototype;
     if (!proto || typeof proto.dock_entry !== "function") {
-        console.warn("wlh_translate: Sidebar.dock_entry 未就绪，停靠栏名称保持原样");
+        console.warn("yyj_translate: Sidebar.dock_entry 未就绪，停靠栏名称保持原样");
         return;
     }
 

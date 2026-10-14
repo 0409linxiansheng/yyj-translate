@@ -8,7 +8,7 @@ repos:
     rev: v6.0.0
     hooks:
       - id: trailing-whitespace
-        files: "wlh_translate.*"
+        files: "yyj_translate.*"
         exclude: ".*json$|.*txt$|.*csv|.*md|.*svg"
       - id: check-merge-conflict
       - id: check-ast
@@ -38,11 +38,11 @@ repos:
         # Ignore any files that might contain jinja / bundles
         exclude: |
             (?x)^(
-                wlh_translate/public/dist/.*|
+                yyj_translate/public/dist/.*|
                 .*node_modules.*|
                 .*boilerplate.*|
-                wlh_translate/templates/includes/.*|
-                wlh_translate/public/js/lib/.*
+                yyj_translate/templates/includes/.*|
+                yyj_translate/public/js/lib/.*
             )$
 
 
@@ -55,12 +55,12 @@ repos:
         # Ignore any files that might contain jinja / bundles
         exclude: |
             (?x)^(
-                wlh_translate/public/dist/.*|
+                yyj_translate/public/dist/.*|
                 cypress/.*|
                 .*node_modules.*|
                 .*boilerplate.*|
-                wlh_translate/templates/includes/.*|
-                wlh_translate/public/js/lib/.*
+                yyj_translate/templates/includes/.*|
+                yyj_translate/public/js/lib/.*
             )$
 
 ci:

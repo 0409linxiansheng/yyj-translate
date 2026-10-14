@@ -1,20 +1,20 @@
 # Copyright (c) 2026, 云屿集 and contributors
 # License: MIT. See LICENSE
-"""跨 app 汇总提取可翻译字符串，并维护 wlh_translate 自己的 PO 归档。
+"""跨 app 汇总提取可翻译字符串，并维护 yyj_translate 自己的 PO 归档。
 
 两个文件，各司其职
 ------------------
 
-``wlh_translate/locale/zh.po``
+``yyj_translate/locale/zh.po``
 	**唯一归档**。所有译文最终都存在这里，也是运行时真正被读取的东西：
-	``bench wlh-extract-translations`` 会把它编译成
-	``sites/assets/locale/zh/LC_MESSAGES/wlh_translate.mo``。
+	``bench yyj-extract-translations`` 会把它编译成
+	``sites/assets/locale/zh/LC_MESSAGES/yyj_translate.mo``。
 	运行时按 ``installed_apps`` 的顺序叠加，越靠后优先级越高；排在 frappe /
 	erpnext 之后就能覆盖它们的译文（详见 README「译文优先级」）。
 
 ``all_translation_worklist.csv``
 	**翻译工作台**。只有还没译文的词条，第 4 列填中文，译完跑
-	``bench wlh-import-translations`` 回填进 zh.po 并重新编译。
+	``bench yyj-import-translations`` 回填进 zh.po 并重新编译。
 	再次提取时会保留你已填、但还没导入的译文（状态标成「待导入」）。
 
 为什么不能直接用 frappe 的 ``bench update-po-files``
@@ -51,7 +51,7 @@ from frappe.gettext.translate import (
 	new_catalog,
 )
 
-APP_NAME = "wlh_translate"
+APP_NAME = "yyj_translate"
 DEFAULT_LANG = "zh"
 LEGACY_CSV_SUFFIX = ".migrated-to-po"
 
@@ -267,7 +267,7 @@ def write_po_file(path: Path, catalog: Catalog) -> Path:
 
 
 def compile_mo(lang: str) -> Path:
-	"""把 zh.po 编译成运行时真正读取的 wlh_translate.mo。"""
+	"""把 zh.po 编译成运行时真正读取的 yyj_translate.mo。"""
 	po_path = default_po_path(lang)
 	mo_path = Path(get_mo_path(APP_NAME, lang))
 

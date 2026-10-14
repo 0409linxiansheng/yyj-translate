@@ -2,7 +2,7 @@
     const settings = frappe.treeview_settings["Account"];
 
     if (!settings || typeof settings.get_label !== "function") {
-        console.warn("wlh_translate: Account tree settings not ready");
+        console.warn("yyj_translate: Account tree settings not ready");
         return;
     }
 
