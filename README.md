@@ -1,31 +1,76 @@
 ### YYJ Translate
 
-ERPNext Chinese Translation Extensions
+给 ERPNext 全站做中文翻译的扩展应用：把各个 app 源码里可翻译的字符串扫出来，汇成一份 PO
+归档，再编译成运行时真正被加载的 mo。
+
+| | |
+| --- | --- |
+| app 名 | `yyj_translate`（Frappe 要求全小写） |
+| 仓库名 / 克隆目录 | `YYJ_translate` |
+| 仓库地址 | <https://github.com/0409linxiansheng/YYJ_translate> |
+| 译文归档 | `yyj_translate/locale/zh.po`（唯一归档，运行时读的是它编译出的 mo） |
+
+### 它做什么
+
+| 能力 | 入口 | 说明 |
+| --- | --- | --- |
+| 提取 | `bench --site <站点> yyj-extract-translations` | 扫描所有已安装 app：写 `main.pot`，把新词条**只增不删**地并进 `zh.po`，编译 mo 并清缓存，生成待译工作清单 |
+| 翻译 | `all_translation_worklist.csv` | 只列还没译文的词条；只在第 4 列填中文，其它列不要动 |
+| 回填 | `bench --site <站点> yyj-import-translations` | 把清单里的译文回填进 `zh.po`、重新编译 mo、清缓存 |
+| 兜底 | `Translation` 单据（`/app/translation`） | 只想覆盖个别词条时用它：优先级最高，且不受安装顺序影响 |
+
+运行时链路：`zh.po` →（编译）`sites/assets/locale/zh/LC_MESSAGES/yyj_translate.mo`。
+Frappe 按 `installed_apps` 顺序叠加各 app 的 mo，**越靠后优先级越高**，所以本 app 通常装在最末。
+
+### 相对原版改了什么
+
+本 app 原名 `wlh_translate`，仓库名却是 `yyj-translate` —— 两者不一致，`bench get-app`
+装不上（见下面「安装」）。本次统一为 **app 名 `yyj_translate` + 仓库 / 目录名 `YYJ_translate`**。
+
+**改名**
+
+| 项 | 原来 | 现在 |
+| --- | --- | --- |
+| app 名（`pyproject.toml` / `hooks.app_name`） | `wlh_translate` | `yyj_translate` |
+| 仓库名 / 克隆目录 | `yyj-translate` | `YYJ_translate` |
+| bench 命令 | `wlh-extract-translations`、`wlh-import-translations` | `yyj-extract-translations`、`yyj-import-translations` |
+| 静态资源路径 | `/assets/wlh_translate/...` | `/assets/yyj_translate/...` |
+
+**新增能力**
+
+| 新增 | 说明 |
+| --- | --- |
+| 记录型 JSON 提取器 | 仪表盘、图表、打印格式 / 打印样式、信头、网页模板、网站主题、表单导览、财务报表模板、邮件模板、通知 —— 这些"随 app 安装的标准记录"里界面上会显示的标签字段，以及字段内嵌的 `__()` 模板代码 |
+| dock 提取器 | 停靠栏 / 排列编辑器里的条目名 |
+| `default_views.py` 提取器 | 视图标签 |
+| 停靠栏条目名可翻译 | `hooks.py` 挂上 `public/js/dock_label.js`，让条目名走一次 `__()`；否则它们直接显示 dock 记录里存的英文模块名 |
+
+> **为什么 app 名必须全小写**：Frappe 的 `get_app_path()` 会先 `scrub()`（转小写）再解析模块，
+> 而 `_load_app_hooks()` 用的是未 scrub 的原始名。混合大小写会让同一个 app 被解析成两个不同模块，
+> 直接导致整站 500。所以大写只能落在**目录名 / 仓库名**上。
 
 ### Installation
 
-仓库地址：<https://github.com/0409linxiansheng/yyj-translate>
-
-仓库名是 `yyj-translate`，但这个 app 的名字（`pyproject.toml` 里的包名）是 `yyj_translate`。
-`bench get-app` 是「克隆目录用仓库名、安装时用 app 名拼路径」，两者不一致时最后那步
-`pip install -e apps/yyj_translate` 会找不到目录，所以在新 bench 上请手动克隆到 `apps/yyj_translate`：
+仓库名 `YYJ_translate` 与 app 名 `yyj_translate` **只差大小写**，而 `bench get-app` 是
+「克隆目录用仓库名、安装时用 app 名拼路径」（`pip install -e apps/yyj_translate`），
+Linux 下大小写敏感，所以**仍然需要手动克隆**：
 
 ```bash
 cd ~/frappe-bench
-git clone https://github.com/0409linxiansheng/yyj-translate.git apps/yyj_translate
-env/bin/python -m pip install -e apps/yyj_translate
+git clone https://github.com/0409linxiansheng/YYJ_translate.git apps/YYJ_translate
+env/bin/python -m pip install -e apps/YYJ_translate
 echo yyj_translate >> sites/apps.txt            # frappe 靠 apps.txt 认识这个 app
 bench --site <站点> install-app yyj_translate   # after_install 钩子会自动编译 mo，装完即中文
 ```
 
-已经在用的 bench 不需要上面这些，`cd apps/yyj_translate && git pull` 即可（origin 与分支跟踪已配好）；
+已经在用的 bench 不需要上面这些，`cd apps/YYJ_translate && git pull` 即可（origin 与分支跟踪已配好）；
 拉完跑一次 `bench --site <站点> migrate`（或 `install-app`）让 `after_migrate` 钩子重新编译 mo。
 
 ### 整体安装流程（本套改动）
 
 本套中文环境由下面这些仓库组成，**安装顺序 = `installed_apps` 顺序**，`yyj_translate` 必须放最后
 （译文优先级最高）。telephony / helpdesk 的仓库名与 app 名一致，`bench get-app` 可直接使用；
-只有本 app 因仓库名（`yyj-translate`）≠ app 名（`yyj_translate`）需要手动克隆。
+只有本 app 因目录名（`YYJ_translate`）≠ app 名（`yyj_translate`）需要手动克隆。
 
 | 顺序 | 应用 | 仓库地址 | 分支 |
 | --- | --- | --- | --- |
@@ -34,7 +79,7 @@ bench --site <站点> install-app yyj_translate   # after_install 钩子会自�
 | 3 | hrms | 官方 | — |
 | 4 | telephony | <https://github.com/0409linxiansheng/telephony> | develop |
 | 5 | helpdesk | <https://github.com/0409linxiansheng/helpdesk> | main |
-| 6 | yyj_translate | <https://github.com/0409linxiansheng/yyj-translate> | main |
+| 6 | yyj_translate | <https://github.com/0409linxiansheng/YYJ_translate> | main |
 
 ```bash
 cd ~/frappe-bench
@@ -47,9 +92,9 @@ bench get-app hrms
 bench get-app https://github.com/0409linxiansheng/telephony --branch develop
 bench get-app https://github.com/0409linxiansheng/helpdesk
 
-# yyj_translate：仓库名(yyj-translate) ≠ app 名，必须手动克隆到 apps/yyj_translate
-git clone https://github.com/0409linxiansheng/yyj-translate.git apps/yyj_translate
-env/bin/python -m pip install -e apps/yyj_translate
+# yyj_translate：目录名(YYJ_translate) ≠ app 名(yyj_translate)，必须手动克隆
+git clone https://github.com/0409linxiansheng/YYJ_translate.git apps/YYJ_translate
+env/bin/python -m pip install -e apps/YYJ_translate
 echo yyj_translate >> sites/apps.txt
 
 # 按顺序装到站点（yyj_translate 必须最后，after_install 会自动编译 mo）
@@ -66,7 +111,7 @@ bench --site <站点> install-app yyj_translate
 This app uses `pre-commit` for code formatting and linting. Please [install pre-commit](https://pre-commit.com/#installation) and enable it for this repository:
 
 ```bash
-cd apps/yyj_translate
+cd apps/YYJ_translate
 pre-commit install
 ```
 
